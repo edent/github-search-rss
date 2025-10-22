@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
+    <title>Blog</title>
+    <updated>2025-10-22T14:27:45.466Z</updated>
+    <generator>github-search-rss</generator>
+    <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
+    <subtitle>Blog on GitHub</subtitle>
+    <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Implement quote posts]]></title>
+        <id>https://github.com/sfomuseum/go-activitypub/issues/26</id>
+        <link href="https://github.com/sfomuseum/go-activitypub/issues/26"/>
+        <updated>2025-10-06T19:40:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12658759?u=43cf40a92021fffcceff7ac098fd7305faac4802&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2025/10/getting-started-with-mastodons-quote-posts-technical-implementation-details-for-servers/" rel="nofollow">https://shkspr.mobi/blog/2025/10/getting-started-with-mastodons-quote-posts-technical-implementation-details-for-servers/</a></p>]]></content>
+        <author>
+            <name>thisisaaronland</name>
+            <email>thisisaaronland@noreply.github.com</email>
+            <uri>https://github.com/thisisaaronland</uri>
+        </author>
+        <published>2025-10-06T19:40:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A CSS Trick: Styling Specific Characters Without Extra Markup / CSSの小技：マークアップなしで特定の文字をスタイリングする方法]]></title>
+        <id>https://github.com/xhiroga/news/issues/3569</id>
+        <link href="https://github.com/xhiroga/news/issues/3569"/>
+        <updated>2025-09-26T19:01:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/1375152?v=4" width="64" height="64" alt=""/><br/><markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th></th>
+<th>URL</th>
+<th>Author</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>News</td>
+<td><a href="https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/" rel="nofollow">https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/</a></td>
+<td>Terence Eden</td>
+</tr>
+<tr>
+<td>Original</td>
+<td><a href="https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/" rel="nofollow">https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/</a></td>
+<td>Terence Eden</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<hr>
+<p dir="auto">This article introduces a clever CSS technique to style specific characters without wrapping them in <code class="notranslate">&lt;span&gt;</code> tags. By using the <code class="notranslate">@font-face</code> rule with the <code class="notranslate">unicode-range</code> property, you can apply a different font to certain characters. The author further explores using the COLR table in WOFF2 fonts to even apply different colors, allowing for creative text effects with pure CSS.</p>
+<hr>
+<p dir="auto">この記事では、<code class="notranslate">&lt;span&gt;</code>タグで囲むことなく特定の文字をスタイリングするCSSの巧妙なテクニックを紹介しています。<code class="notranslate">@font-face</code>ルールと<code class="notranslate">unicode-range</code>プロパティを組み合わせることで、特定の文字にだけ異なるフォントを適用できます。さらに、WOFF2フォントのCOLRテーブルを利用して文字ごとに色を変える方法も解説しており、CSSだけでクリエイティブなテキスト表現を可能にします。</p>]]></content>
+        <author>
+            <name>sawaraken</name>
+            <email>sawaraken@noreply.github.com</email>
+            <uri>https://github.com/apps/sawaraken</uri>
+        </author>
+        <published>2025-09-26T19:01:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fix: use `<time>` tag]]></title>
+        <id>https://github.com/siebenmann/dwiki/pull/2</id>
+        <link href="https://github.com/siebenmann/dwiki/pull/2"/>
+        <updated>2025-04-18T06:24:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><h2 dir="auto">Summary</h2>
+<p dir="auto">adds <a href="https://developer.mozilla.org/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag in order to be more accessible. will do <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time#attributes" rel="nofollow"><code class="notranslate">datetime</code></a> attribute in following PR.</p>
+<h2 dir="auto">Rationale</h2>
+<p dir="auto"><a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
+        <author>
+            <name>scarf005</name>
+            <email>scarf005@noreply.github.com</email>
+            <uri>https://github.com/scarf005</uri>
+        </author>
+        <published>2024-07-04T01:18:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Drunk CSS': A Creative Approach to Accessibility Testing / 「酔っぱらいCSS」：アクセシビリティテストへの創造的なアプローチ]]></title>
+        <id>https://github.com/xhiroga/news/issues/3688</id>
+        <link href="https://github.com/xhiroga/news/issues/3688"/>
+        <updated>2025-10-01T01:02:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/1375152?v=4" width="64" height="64" alt=""/><br/><markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th></th>
+<th>URL</th>
+<th>Author</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>News</td>
+<td><a href="https://shkspr.mobi/blog/2025/09/drunk-css/" rel="nofollow">https://shkspr.mobi/blog/2025/09/drunk-css/</a></td>
+<td>Terence Eden</td>
+</tr>
+<tr>
+<td>Original</td>
+<td><a href="https://shkspr.mobi/blog/2025/09/drunk-css/" rel="nofollow">https://shkspr.mobi/blog/2025/09/drunk-css/</a></td>
+<td>Terence Eden</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<hr>
+<p dir="auto">The author proposes 'Drunk CSS,' a set of CSS rules to simulate a drunk user's experience on a website. By blurring, rotating, and animating elements, it makes the site intentionally difficult to use. While not a true simulation of being drunk or disabled, it serves as a powerful reminder for developers to consider accessibility and test their interfaces with users who have cognitive or physical impairments.</p>
+<hr>
+<p dir="auto">著者は、ウェブサイト上で酔っぱらったユーザーの体験をシミュレートするための一連のCSSルール「酔っぱらいCSS」を提案しています。要素をぼかしたり、回転させたり、アニメーションさせたりすることで、意図的にサイトを使いにくくします。これは酔っぱらいや障害のある状態を忠実に再現するものではありませんが、開発者に対してアクセシビリティを考慮し、認知的または身体的な障害を持つユーザーと共にインターフェースをテストすることの重要性を再認識させる強力なきっかけとなります。</p>]]></content>
+        <author>
+            <name>sawaraken</name>
+            <email>sawaraken@noreply.github.com</email>
+            <uri>https://github.com/apps/sawaraken</uri>
+        </author>
+        <published>2025-10-01T01:02:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[style rss feed]]></title>
+        <id>https://github.com/RMHogervorst/blog/issues/103</id>
+        <link href="https://github.com/RMHogervorst/blog/issues/103"/>
+        <updated>2025-06-24T13:34:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9538040?u=378b2aa441a4c8059895ac1d6ec35f3312c1f1d5&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2023/06/style-your-wordpress-atom-feed/" rel="nofollow">https://shkspr.mobi/blog/2023/06/style-your-wordpress-atom-feed/</a></p>]]></content>
+        <author>
+            <name>RMHogervorst</name>
+            <email>RMHogervorst@noreply.github.com</email>
+            <uri>https://github.com/RMHogervorst</uri>
+        </author>
+        <published>2025-06-24T13:34:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: use `<time>` tag]]></title>
+        <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
+        <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
+        <updated>2025-03-15T12:31:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExNDM1NjUsIm5iZiI6MTc2MTE0MzI2NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIyVDE0Mjc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdmZjM3MWExZjgyOTY4NTRiYjdiM2ZlZGMwMGM5YTg3ZTk3ZjBjZjY2MTUxYjY2OWFiMGJiNWYzZThkMzc3NzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ly-JOmPCXuVAcwGWt2By3Q377RKsgQ8AovpY1HJJtSY"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExNDM1NjUsIm5iZiI6MTc2MTE0MzI2NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIyVDE0Mjc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdmZjM3MWExZjgyOTY4NTRiYjdiM2ZlZGMwMGM5YTg3ZTk3ZjBjZjY2MTUxYjY2OWFiMGJiNWYzZThkMzc3NzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ly-JOmPCXuVAcwGWt2By3Q377RKsgQ8AovpY1HJJtSY" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExNDM1NjUsIm5iZiI6MTc2MTE0MzI2NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIyVDE0Mjc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5NTY1MTI1MDczNGVhZGUzODM1ODBlNDIzM2I3YzA5OGE4YTg2OTRiMTFkMTg3MWViZTBmZWQyMzBmMzU1YWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WnzzNkct5gHdHgxAShWb4KTKdK4g2wi95IBog5NGqrY"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExNDM1NjUsIm5iZiI6MTc2MTE0MzI2NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIyVDE0Mjc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5NTY1MTI1MDczNGVhZGUzODM1ODBlNDIzM2I3YzA5OGE4YTg2OTRiMTFkMTg3MWViZTBmZWQyMzBmMzU1YWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WnzzNkct5gHdHgxAShWb4KTKdK4g2wi95IBog5NGqrY" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExNDM1NjUsIm5iZiI6MTc2MTE0MzI2NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIyVDE0Mjc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxNjA1ODkzZTE0OTk1YTgwMGFlMmNjYWVhZWE4MjVlYTdmYWRiNDk0Y2EwOWI0ZmEzNjUzMzcxNjBjNDBkMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IFE_G0kaGrT31AjLSkg2AONtAxSKgjCxGJFxOPWmq24"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExNDM1NjUsIm5iZiI6MTc2MTE0MzI2NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIyVDE0Mjc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxNjA1ODkzZTE0OTk1YTgwMGFlMmNjYWVhZWE4MjVlYTdmYWRiNDk0Y2EwOWI0ZmEzNjUzMzcxNjBjNDBkMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IFE_G0kaGrT31AjLSkg2AONtAxSKgjCxGJFxOPWmq24" alt="image" style="max-width: 100%;"></a></p>
+<p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
+<p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
+        <author>
+            <name>scarf005</name>
+            <email>scarf005@noreply.github.com</email>
+            <uri>https://github.com/scarf005</uri>
+        </author>
+        <published>2025-03-15T12:31:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non-Gravatar profile images are replaced]]></title>
+        <id>https://github.com/fairpm/fair-plugin/issues/142</id>
+        <link href="https://github.com/fairpm/fair-plugin/issues/142"/>
+        <updated>2025-10-10T16:23:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/837136?u=73b5c34325606e447be7074fd0deefc55a004c82&v=4" width="64" height="64" alt=""/><br/><p dir="auto">I use <a href="https://github.com/pfefferle/wordpress-webmention/">the WebMentions plugin</a> to get replies to my blog posts. User's images are taken from the account which replied.  FAIR Avatars overwrite those custom avatars as well as Gravatar.</p>
+<p dir="auto">For example - in the left screenshot, the first two images are Gravatars, the next two are from BlueSky, and the final one is a website's profile image. The right screenshot is what I see when FAIR avatars are enabled. I understand that the Gravatars will be replaced, but should the WebMention ones as well?</p>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/837136/460660314-24b5d885-aa8f-4ee3-a8c4-07c91ca9f4e0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExNDM1NjUsIm5iZiI6MTc2MTE0MzI2NSwicGF0aCI6Ii84MzcxMzYvNDYwNjYwMzE0LTI0YjVkODg1LWFhOGYtNGVlMy1hOGM0LTA3YzkxY2E5ZjRlMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyMlQxNDI3NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYTU0ZjEzMTk1M2VkZWIyNDM4MzlhMTE1ZmNkODFkNTJhOWEwYzE3MDE2MWZiZmM0N2JhODlmMTAyODgyYWRkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8oxyKLTsS7z1DXjJE9Ql2ub6xnXsxwXwmBnDObnzZUg"><img width="200" src="https://private-user-images.githubusercontent.com/837136/460660314-24b5d885-aa8f-4ee3-a8c4-07c91ca9f4e0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExNDM1NjUsIm5iZiI6MTc2MTE0MzI2NSwicGF0aCI6Ii84MzcxMzYvNDYwNjYwMzE0LTI0YjVkODg1LWFhOGYtNGVlMy1hOGM0LTA3YzkxY2E5ZjRlMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyMlQxNDI3NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYTU0ZjEzMTk1M2VkZWIyNDM4MzlhMTE1ZmNkODFkNTJhOWEwYzE3MDE2MWZiZmM0N2JhODlmMTAyODgyYWRkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8oxyKLTsS7z1DXjJE9Ql2ub6xnXsxwXwmBnDObnzZUg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/837136/460660310-7b696003-2d0b-4d40-8033-3dc4021c898e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExNDM1NjUsIm5iZiI6MTc2MTE0MzI2NSwicGF0aCI6Ii84MzcxMzYvNDYwNjYwMzEwLTdiNjk2MDAzLTJkMGItNGQ0MC04MDMzLTNkYzQwMjFjODk4ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyMlQxNDI3NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MmVkNTFhYTZkZDBlMzM3MTNjZDczNzYyMzljNjJlN2UzN2FmZTFkOWQzMDU4YjA3ODQ5NmZhMTcwODA1YzRkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ep4AiKdOqzzfqV69D5sI-edXLZcxwMkd8tZvF1qEbNY"><img width="200" src="https://private-user-images.githubusercontent.com/837136/460660310-7b696003-2d0b-4d40-8033-3dc4021c898e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExNDM1NjUsIm5iZiI6MTc2MTE0MzI2NSwicGF0aCI6Ii84MzcxMzYvNDYwNjYwMzEwLTdiNjk2MDAzLTJkMGItNGQ0MC04MDMzLTNkYzQwMjFjODk4ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyMlQxNDI3NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MmVkNTFhYTZkZDBlMzM3MTNjZDczNzYyMzljNjJlN2UzN2FmZTFkOWQzMDU4YjA3ODQ5NmZhMTcwODA1YzRkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ep4AiKdOqzzfqV69D5sI-edXLZcxwMkd8tZvF1qEbNY" style="max-width: 100%;"></a>
+<p dir="auto">The code my theme uses to get comment avatars is:</p>
+<div class="highlight highlight-text-html-php notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="$avatar_html = get_avatar( $comment, 64, &quot;&quot;, &quot;&quot;, array( &quot;extra_attr&quot; =&gt; &quot;itemprop=image loading=lazy&quot; ) );"><pre class="notranslate"><span class="pl-s1"><span class="pl-c1">$</span>avatar_html</span> = <span class="pl-en">get_avatar</span>( <span class="pl-s1"><span class="pl-c1">$</span>comment</span>, <span class="pl-c1">64</span>, <span class="pl-s">""</span>, <span class="pl-s">""</span>, <span class="pl-en">array</span>( <span class="pl-s">"<span class="pl-s">extra_attr</span>"</span> =&gt; <span class="pl-s">"<span class="pl-s">itemprop=image loading=lazy</span>"</span> ) );</pre></div>
+<p dir="auto">For a WebMention avatar, it returns something like:</p>
+<div class="highlight highlight-text-html-basic notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="&lt;img 
+ alt=&quot;&quot;
+ class=&quot;avatar avatar-64 photo local-avatar&quot;
+ decoding=&quot;async&quot;
+ height=&quot;64&quot;
+ itemprop=&quot;image&quot;
+ loading=&quot;lazy&quot;
+ onerror=&quot;this.onerror=null;this.src='https://shkspr.mobi/blog/wp-content/plugins/webmention/assets/img/mm.jpg';this.srcset='https://shkspr.mobi/blog/wp-content/plugins/webmention/assets/img/mm.jpg';&quot;
+ src=&quot;https://cdn.bsky.app/img/avatar/plain/did:plc:fm7crvtisfj5xwzwuxerw32o/bafkreiepjfyygouxkrp4fybh7mqoo4b5kmk6c4wwsd52yn4hbs6ungewai@jpeg&quot;
+ srcset=&quot;https://cdn.bsky.app/img/avatar/plain/did:plc:fm7crvtisfj5xwzwuxerw32o/bafkreiepjfyygouxkrp4fybh7mqoo4b5kmk6c4wwsd52yn4hbs6ungewai@jpeg 2x&quot;
+ width=&quot;64&quot;&gt;"><pre class="notranslate"><span class="pl-kos">&lt;</span><span class="pl-ent">img</span> 
+ <span class="pl-c1">alt</span>=""
+ <span class="pl-c1">class</span>="<span class="pl-s">avatar avatar-64 photo local-avatar</span>"
+ <span class="pl-c1">decoding</span>="<span class="pl-s">async</span>"
+ <span class="pl-c1">height</span>="<span class="pl-s">64</span>"
+ <span class="pl-c1">itemprop</span>="<span class="pl-s">image</span>"
+ <span class="pl-c1">loading</span>="<span class="pl-s">lazy</span>"
+ <span class="pl-c1">onerror</span>="<span class="pl-s">this.onerror=null;this.src='https://shkspr.mobi/blog/wp-content/plugins/webmention/assets/img/mm.jpg';this.srcset='https://shkspr.mobi/blog/wp-content/plugins/webmention/assets/img/mm.jpg';</span>"
+ <span class="pl-c1">src</span>="<span class="pl-s">https://cdn.bsky.app/img/avatar/plain/did:plc:fm7crvtisfj5xwzwuxerw32o/bafkreiepjfyygouxkrp4fybh7mqoo4b5kmk6c4wwsd52yn4hbs6ungewai@jpeg</span>"
+ <span class="pl-c1">srcset</span>="<span class="pl-s">https://cdn.bsky.app/img/avatar/plain/did:plc:fm7crvtisfj5xwzwuxerw32o/bafkreiepjfyygouxkrp4fybh7mqoo4b5kmk6c4wwsd52yn4hbs6ungewai@jpeg 2x</span>"
+ <span class="pl-c1">width</span>="<span class="pl-s">64</span>"<span class="pl-kos">&gt;</span></pre></div>
+<p dir="auto">For a Gravatar, it is the same, but the src is <code class="notranslate">src="https://shkspr.mobi/blog/wp-content/litespeed/avatar/f5eb5c3cbe6e929f18cbe191d4b95251.jpg?ver=1750834262"</code> because I'm using LiteSpeed to cache the images.</p>
+<p dir="auto">Would it be possible to check if an avatar is a Gravatar before replacing it?</p>
+<p dir="auto">It looks like the issue is in this code:</p>
+<p dir="auto"></p><div class="Box Box--condensed my-2">
+  <div class="Box-header f6">
+    <p class="mb-0 text-bold">
+      <a href="https://github.com/fairpm/fair-plugin/blob/52d2758b945ae9a57efb89add532dd0cb53623be/inc/avatars/namespace.php#L198">fair-plugin/inc/avatars/namespace.php</a>
+    </p>
+    <p class="mb-0 color-fg-muted">
+         Line 198
+      in
+      <a data-pjax="true" class="commit-tease-sha Link--inTextBlock" href="/fairpm/fair-plugin/commit/52d2758b945ae9a57efb89add532dd0cb53623be">52d2758</a>
+    </p>
+  </div>
+  <div itemprop="text" class="Box-body p-0 blob-wrapper blob-wrapper-embedded data">
+    <table class="highlight tab-size mb-0 js-file-line-container" data-tab-size="8" data-paste-markdown-skip="">
+
+        <tbody><tr class="border-0">
+          <td id="L198" class="blob-num border-0 px-3 py-0 color-bg-default" data-line-number="198"></td>
+          <td id="LC198" class="blob-code border-0 px-3 py-0 color-bg-default blob-code-inner js-file-line"> <span class="pl-k">function</span> <span class="pl-en">get_avatar_url</span>( <span class="pl-s1"><span class="pl-c1">$</span>id_or_email</span>, <span class="pl-s1"><span class="pl-c1">$</span>args</span> ) { </td>
+        </tr>
+    </tbody></table>
+  </div>
+</div>
+<p></p>
+<p dir="auto">It is checking the author's ID, but perhaps it could also check if a comment has a set avatar as well?</p>
+<p dir="auto">Happy to provide more details if necessary.</p>]]></content>
+        <author>
+            <name>edent</name>
+            <email>edent@noreply.github.com</email>
+            <uri>https://github.com/edent</uri>
+        </author>
+        <published>2025-06-30T16:41:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[update!: Add Firefox Relay]]></title>
+        <id>https://github.com/privacyguides/privacyguides.org/pull/3070</id>
+        <link href="https://github.com/privacyguides/privacyguides.org/pull/3070"/>
+        <updated>2025-09-12T06:03:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7105970?u=89742e942b73152c9fdd230b6eedf096a71e58b7&v=4" width="64" height="64" alt=""/><br/><p dir="auto">List of changes proposed in this PR:</p>
+<ul dir="auto">
+<li>
+<p dir="auto">This pull request aims to add Firefox relay to the email aliasing page.</p>
+</li>
+<li>
+<p dir="auto">I do use Firefox relay and I am a premium user</p>
+</li>
+</ul>
+<p dir="auto">There have been some talk about adding it</p>
+<ul dir="auto">
+<li>
+<p dir="auto"><a href="https://discuss.privacyguides.net/t/add-mozilla-relay-to-aliasing-services/22638" rel="nofollow">https://discuss.privacyguides.net/t/add-mozilla-relay-to-aliasing-services/22638</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://discuss.privacyguides.net/t/can-firefox-relay-be-trusted/15800" rel="nofollow">https://discuss.privacyguides.net/t/can-firefox-relay-be-trusted/15800</a></p>
+</li>
+</ul>
+<p dir="auto">Thoughts?</p>]]></content>
+        <author>
+            <name>Goldmaster</name>
+            <email>Goldmaster@noreply.github.com</email>
+            <uri>https://github.com/Goldmaster</uri>
+        </author>
+        <published>2025-07-02T16:15:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracking support for non-ascii characters]]></title>
+        <id>https://github.com/swicg/activitypub-webfinger/issues/29</id>
+        <link href="https://github.com/swicg/activitypub-webfinger/issues/29"/>
+        <updated>2025-10-07T19:54:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6770?u=85e683e6edf44982a2d847e6bb28c63a53fbc43e&v=4" width="64" height="64" alt=""/><br/><p dir="auto">One of the benefits of using Webfinger is that it's possible, at least in theory, to use non-ascii characters for usernames. Unfortunately, there are not a lot of services that support them -- at least according to our document.</p>
+<p dir="auto">For the top human languages, only 3 primarily use only non-ASCII characters (English, Malaysian, Indonesian), for a total of about 500 million people. That means about 90% of humans use languages with non-Latin, or accented, character sets.</p>
+<p dir="auto">We have an opportunity to let people in the global majority use their names or words in their own language as usernames.</p>
+<p dir="auto">This is a huge win for making software that focuses on real people.</p>
+<p dir="auto">I propose we start:</p>
+<ul dir="auto">
+<li>Working on proof-of-concept implementations that use non-ASCII characters in <code class="notranslate">preferredUsername</code>, <code class="notranslate">webfinger</code> and the Webfinger username (with percent hashes)</li>
+<li>Report issues on major ActivityPub implementations to start the process of supporting non-ASCII characters in usernames</li>
+<li>Track interoperability</li>
+</ul>]]></content>
+        <author>
+            <name>evanp</name>
+            <email>evanp@noreply.github.com</email>
+            <uri>https://github.com/evanp</uri>
+        </author>
+        <published>2025-08-02T17:52:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A User's Struggle: Cloudflare's GDPR Compliance Questioned After Repeated Unwanted Emails / CloudflareのGDPR遵守に疑問符：アカウント削除後も続く迷惑メール、あるユーザーの闘いの記録]]></title>
+        <id>https://github.com/xhiroga/news/issues/411</id>
+        <link href="https://github.com/xhiroga/news/issues/411"/>
+        <updated>2025-06-23T15:16:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/1375152?v=4" width="64" height="64" alt=""/><br/><markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th></th>
+<th>URL</th>
+<th>Author</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>News</td>
+<td><a href="https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/" rel="nofollow">https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/</a></td>
+<td>shkspr.mobi</td>
+</tr>
+<tr>
+<td>Original</td>
+<td><a href="https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/" rel="nofollow">https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/</a></td>
+<td>Terence Eden</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<hr>
+<p dir="auto">The author details their frustrating experience with Cloudflare, who continued to send marketing and service emails for over a year after the author cancelled their account and requested data deletion. Despite repeated requests and escalations to the CTO, the issue was not resolved, raising serious concerns about Cloudflare's respect for GDPR and their data management practices. The author concludes that Cloudflare cannot be trusted with personal data.</p>
+<hr>
+<p dir="auto">筆者は、Cloudflareアカウントをキャンセルしデータ削除を要求した後も、1年以上にわたってマーケティングやサービスに関するメールが送られてき続けたという苛立たしい経験を詳述している。度重なる要求やCTOへのエスカレーションにもかかわらず問題は解決されず、CloudflareのGDPR遵守やデータ管理体制に深刻な懸念を投げかけている。筆者は、Cloudflareは個人データを預けるに値しないと結論づけている。</p>]]></content>
+        <author>
+            <name>sawaraken</name>
+            <email>sawaraken@noreply.github.com</email>
+            <uri>https://github.com/apps/sawaraken</uri>
+        </author>
+        <published>2025-06-23T15:16:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social Login Auth]]></title>
+        <id>https://github.com/Studio-Link/mix/issues/71</id>
+        <link href="https://github.com/Studio-Link/mix/issues/71"/>
+        <updated>2025-06-02T08:26:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/296762?u=4a9af9ea754af083ffeed0928e149e0f5c0f8709&v=4" width="64" height="64" alt=""/><br/><p dir="auto">References:</p>
+<ul dir="auto">
+<li><a href="https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/" rel="nofollow">https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/</a></li>
+<li><a href="https://swicg.github.io/activitypub-http-signature/#how-to-obtain-a-signature-s-public-key" rel="nofollow">https://swicg.github.io/activitypub-http-signature/#how-to-obtain-a-signature-s-public-key</a></li>
+<li><a href="https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/" rel="nofollow">https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/</a></li>
+</ul>]]></content>
+        <author>
+            <name>sreimers</name>
+            <email>sreimers@noreply.github.com</email>
+            <uri>https://github.com/sreimers</uri>
+        </author>
+        <published>2025-06-02T08:26:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing on low-fi browsers]]></title>
+        <id>https://github.com/ArthurSmid/little-help-book/issues/9</id>
+        <link href="https://github.com/ArthurSmid/little-help-book/issues/9"/>
+        <updated>2021-01-28T19:00:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/20653086?u=deb8999733f5e3e029b4e4bbf01d43f399cf7539&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/" rel="nofollow">https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/</a></p>]]></content>
+        <author>
+            <name>ArthurSmid</name>
+            <email>ArthurSmid@noreply.github.com</email>
+            <uri>https://github.com/ArthurSmid</uri>
+        </author>
+        <published>2021-01-28T19:00:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get the location of the ISS using DNS / DNSを使って国際宇宙ステーション(ISS)の位置を知る]]></title>
+        <id>https://github.com/xhiroga/news/issues/950</id>
+        <link href="https://github.com/xhiroga/news/issues/950"/>
+        <updated>2025-07-06T13:01:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/1375152?v=4" width="64" height="64" alt=""/><br/><markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th></th>
+<th>URL</th>
+<th>Author</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>News</td>
+<td><a href="https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/" rel="nofollow">https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/</a></td>
+<td>Terence Eden</td>
+</tr>
+<tr>
+<td>Original</td>
+<td><a href="https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/" rel="nofollow">https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/</a></td>
+<td>Terence Eden</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<hr>
+<p dir="auto">A fun project that uses an experimental DNS <code class="notranslate">LOC</code> record to provide the real-time location of the International Space Station. The author details how they fetch data from an API, convert it to the required format (latitude, longitude, altitude), and update the DNS record every 15 minutes. It's a creative demonstration of using DNS for more than just resolving domain names.</p>
+<hr>
+<p dir="auto">実験的なDNSの<code class="notranslate">LOC</code>レコードを使い、国際宇宙ステーション(ISS)のリアルタイムな位置情報を提供する面白いプロジェクトです。著者はAPIから位置データを取得し、緯度・経度・高度などの必要な形式に変換し、15分ごとにDNSレコードを更新する方法を解説しています。これは、単なるドメイン名解決以上のDNSの創造的な使い方を示すデモンストレーションです。</p>]]></content>
+        <author>
+            <name>sawaraken</name>
+            <email>sawaraken@noreply.github.com</email>
+            <uri>https://github.com/apps/sawaraken</uri>
+        </author>
+        <published>2025-07-06T13:01:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time to 200]]></title>
+        <id>https://github.com/dwyl/learn-api-design/issues/43</id>
+        <link href="https://github.com/dwyl/learn-api-design/issues/43"/>
+        <updated>2021-05-25T08:21:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/194400?u=405fb897c18f414ea8c4f4f2613fbef605855f02&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/" rel="nofollow">https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/</a></p>]]></content>
+        <author>
+            <name>nelsonic</name>
+            <email>nelsonic@noreply.github.com</email>
+            <uri>https://github.com/nelsonic</uri>
+        </author>
+        <published>2021-05-25T07:22:26.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expand to full ActivityPub server]]></title>
+        <id>https://github.com/snscaimito/social-blogging/issues/7</id>
+        <link href="https://github.com/snscaimito/social-blogging/issues/7"/>
+        <updated>2024-03-03T20:09:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/218088?v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/" rel="nofollow">https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/</a></p>]]></content>
+        <author>
+            <name>snscaimito</name>
+            <email>snscaimito@noreply.github.com</email>
+            <uri>https://github.com/snscaimito</uri>
+        </author>
+        <published>2024-03-03T20:08:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why bother with What3words?]]></title>
+        <id>https://github.com/all-maps-lie/all-maps-lie-2020/issues/46</id>
+        <link href="https://github.com/all-maps-lie/all-maps-lie-2020/issues/46"/>
+        <updated>2020-03-26T01:37:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3622055?u=89ea072f9ec7b8a0c820830aa4be949c6f33450f&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/" rel="nofollow">https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/</a></p>]]></content>
+        <author>
+            <name>joeyklee</name>
+            <email>joeyklee@noreply.github.com</email>
+            <uri>https://github.com/joeyklee</uri>
+        </author>
+        <published>2020-03-26T01:37:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove 3rd party resources (e.g. fonts, JS)]]></title>
+        <id>https://github.com/JuliaActuary/JuliaActuary.org/issues/7</id>
+        <link href="https://github.com/JuliaActuary/JuliaActuary.org/issues/7"/>
+        <updated>2021-10-03T19:31:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/711879?u=5e7f92ccc07727dcbe7cf785daafa9c473e0e716&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/" rel="nofollow">https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/</a></p>]]></content>
+        <author>
+            <name>alecloudenback</name>
+            <email>alecloudenback@noreply.github.com</email>
+            <uri>https://github.com/alecloudenback</uri>
+        </author>
+        <published>2020-10-20T11:40:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reading NFC Passports in Linux with the Python library `pypassport` / LinuxでNFCパスポートを読み取る！Pythonライブラリ`pypassport`活用術]]></title>
+        <id>https://github.com/xhiroga/news/issues/454</id>
+        <link href="https://github.com/xhiroga/news/issues/454"/>
+        <updated>2025-06-25T08:01:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/1375152?v=4" width="64" height="64" alt=""/><br/><markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th></th>
+<th>URL</th>
+<th>Author</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>News</td>
+<td><a href="https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/" rel="nofollow">https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/</a></td>
+<td>shkspr.mobi</td>
+</tr>
+<tr>
+<td>Original</td>
+<td><a href="https://github.com/roeften/pypassport">https://github.com/roeften/pypassport</a></td>
+<td>roeften</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<hr>
+<p dir="auto">The article explains how to read data from an NFC passport chip in a Linux environment. After trying several tools, the author successfully used the Python library 'pypassport'. The post details how to reconstruct the Machine Readable Zone (MRZ) even if it's missing, using the passport number, date of birth, and expiration date. It also provides specific code examples for extracting facial image data and its metadata, such as the coordinates of the center of the eyes, stored on the chip.</p>
+<hr>
+<p dir="auto">この記事では、Linux環境でNFCパスポートのチップからデータを読み取る方法を紹介しています。筆者は複数のツールを試した結果、Pythonライブラリ「pypassport」の利用に成功しました。パスポートのMachine Readable Zone (MRZ)が欠損していても、パスポート番号・生年月日・有効期限から再構築する方法や、チップに保存されている顔写真データとそのメタデータ（目の中心座標など）を抽出する具体的なコードが共有されています。</p>]]></content>
+        <author>
+            <name>sawaraken</name>
+            <email>sawaraken@noreply.github.com</email>
+            <uri>https://github.com/apps/sawaraken</uri>
+        </author>
+        <published>2025-06-25T08:01:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 'File' is a Skeuomorph: It's Time to Evolve Our Data Workflows / 「ファイル」はスキューモーフィズム：時代遅れのデータワークフローを見直す時が来た]]></title>
+        <id>https://github.com/xhiroga/news/issues/1426</id>
+        <link href="https://github.com/xhiroga/news/issues/1426"/>
+        <updated>2025-07-17T12:46:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/1375152?v=4" width="64" height="64" alt=""/><br/><markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th></th>
+<th>URL</th>
+<th>Author</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>News</td>
+<td><a href="https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/" rel="nofollow">https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/</a></td>
+<td>Terence Eden</td>
+</tr>
+<tr>
+<td>Original</td>
+<td><a href="https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/" rel="nofollow">https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/</a></td>
+<td>Terence Eden</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<hr>
+<p dir="auto">The author argues that the common practice of sending files is an outdated and insecure workflow rooted in a 'file' metaphor that is no longer fit for purpose. Citing data breaches and inefficient collaboration, the post advocates for a shift towards using living data in databases and collaborative platforms with proper access controls. The author provocatively critiques the very concept of the file as a skeuomorph and even challenges a tool as fundamental as Git for being stuck in this paradigm.</p>
+<hr>
+<p dir="auto">筆者は、ファイルを相互に送信するという一般的な慣行は、もはや目的に合わなくなった「ファイル」というメタファーに根ざした、時代遅れで安全でないワークフローであると主張しています。データ漏洩や非効率なコラボレーションを例に挙げ、データベースや共同作業プラットフォーム上で、適切なアクセス制御を備えた「生きた」データを利用する方向への転換を提唱。著者は、ファイルの概念そのものをスキューモーフィズムと挑発的に批判し、Gitのような基本的なツールさえもがこのパラダイムに囚われていると指摘します。</p>]]></content>
+        <author>
+            <name>sawaraken</name>
+            <email>sawaraken@noreply.github.com</email>
+            <uri>https://github.com/apps/sawaraken</uri>
+        </author>
+        <published>2025-07-17T12:46:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add images from WebMention?]]></title>
+        <id>https://github.com/pfefferle/wordpress-webmention/issues/365</id>
+        <link href="https://github.com/pfefferle/wordpress-webmention/issues/365"/>
+        <updated>2025-07-21T04:06:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/837136?u=73b5c34325606e447be7074fd0deefc55a004c82&v=4" width="64" height="64" alt=""/><br/><p dir="auto">I've received a pingback from <a href="https://brid.gy/comment/mastodon/@edent@mastodon.social/110151657347210229/110151774995722710" rel="nofollow">https://brid.gy/comment/mastodon/@edent@mastodon.social/110151657347210229/110151774995722710</a></p>
+<p dir="auto">The plugin gets the author's name, URL, avatar, and text content. It doesn't include the image along with the post.</p>
+<p dir="auto">Sometimes, people reply with <em>only</em> an image. Or their reply references an attached image. It would be useful to include this as part of the webmention.</p>
+<p dir="auto">The HTML code is:</p>
+<div class="highlight highlight-text-html-basic notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="&lt;span class=&quot;p-author h-card&quot;&gt;
+   &lt;a class=&quot;p-name u-url&quot; href=&quot;https://mastodon.social/@Edent&quot;&gt;Terence Eden&lt;/a&gt;
+   &lt;a class=&quot;u-url&quot; href=&quot;https://edent.tel/&quot;&gt;&lt;/a&gt;
+   &lt;a class=&quot;u-url&quot; href=&quot;https://shkspr.mobi/blog&quot;&gt;&lt;/a&gt;
+   &lt;span class=&quot;p-nickname&quot;&gt;Edent&lt;/span&gt;
+   &lt;img class=&quot;u-photo&quot; src=&quot;https://files.mastodon.social/accounts/avatars/000/007/112/original/37df032a5951b96c.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/span&gt;
+&lt;a title=&quot;mastodon.social/@Edent/110151774995722710&quot; class=&quot;u-url&quot; href=&quot;https://mastodon.social/@Edent/110151774995722710&quot;&gt;mastodon.social/@Edent/1101517...&lt;/a&gt;
+&lt;div class=&quot;e-content p-name&quot;&gt;
+   &lt;p&gt;Incidentally, this was my favourite comment when I announced I was doing an MSc.&lt;/p&gt;&lt;p&gt;The rage it induced powered me through many a tutorial!&lt;/p&gt;
+&lt;/div&gt;
+&lt;img class=&quot;u-photo&quot; src=&quot;https://files.mastodon.social/media_attachments/files/110/151/771/251/554/330/original/a80cc6cfe970ec56.png&quot; alt=&quot;&quot; /&gt;"><pre class="notranslate"><span class="pl-kos">&lt;</span><span class="pl-ent">span</span> <span class="pl-c1">class</span>="<span class="pl-s">p-author h-card</span>"<span class="pl-kos">&gt;</span>
+   <span class="pl-kos">&lt;</span><span class="pl-ent">a</span> <span class="pl-c1">class</span>="<span class="pl-s">p-name u-url</span>" <span class="pl-c1">href</span>="<span class="pl-s">https://mastodon.social/@Edent</span>"<span class="pl-kos">&gt;</span>Terence Eden<span class="pl-kos">&lt;/</span><span class="pl-ent">a</span><span class="pl-kos">&gt;</span>
+   <span class="pl-kos">&lt;</span><span class="pl-ent">a</span> <span class="pl-c1">class</span>="<span class="pl-s">u-url</span>" <span class="pl-c1">href</span>="<span class="pl-s">https://edent.tel/</span>"<span class="pl-kos">&gt;</span><span class="pl-kos">&lt;/</span><span class="pl-ent">a</span><span class="pl-kos">&gt;</span>
+   <span class="pl-kos">&lt;</span><span class="pl-ent">a</span> <span class="pl-c1">class</span>="<span class="pl-s">u-url</span>" <span class="pl-c1">href</span>="<span class="pl-s">https://shkspr.mobi/blog</span>"<span class="pl-kos">&gt;</span><span class="pl-kos">&lt;/</span><span class="pl-ent">a</span><span class="pl-kos">&gt;</span>
+   <span class="pl-kos">&lt;</span><span class="pl-ent">span</span> <span class="pl-c1">class</span>="<span class="pl-s">p-nickname</span>"<span class="pl-kos">&gt;</span>Edent<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>
+   <span class="pl-kos">&lt;</span><span class="pl-ent">img</span> <span class="pl-c1">class</span>="<span class="pl-s">u-photo</span>" <span class="pl-c1">src</span>="<span class="pl-s">https://files.mastodon.social/accounts/avatars/000/007/112/original/37df032a5951b96c.jpg</span>" <span class="pl-c1">alt</span>="" <span class="pl-kos">/&gt;</span>
+<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>
+<span class="pl-kos">&lt;</span><span class="pl-ent">a</span> <span class="pl-c1">title</span>="<span class="pl-s">mastodon.social/@Edent/110151774995722710</span>" <span class="pl-c1">class</span>="<span class="pl-s">u-url</span>" <span class="pl-c1">href</span>="<span class="pl-s">https://mastodon.social/@Edent/110151774995722710</span>"<span class="pl-kos">&gt;</span>mastodon.social/@Edent/1101517...<span class="pl-kos">&lt;/</span><span class="pl-ent">a</span><span class="pl-kos">&gt;</span>
+<span class="pl-kos">&lt;</span><span class="pl-ent">div</span> <span class="pl-c1">class</span>="<span class="pl-s">e-content p-name</span>"<span class="pl-kos">&gt;</span>
+   <span class="pl-kos">&lt;</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span>Incidentally, this was my favourite comment when I announced I was doing an MSc.<span class="pl-kos">&lt;/</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span>The rage it induced powered me through many a tutorial!<span class="pl-kos">&lt;/</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span>
+<span class="pl-kos">&lt;/</span><span class="pl-ent">div</span><span class="pl-kos">&gt;</span>
+<span class="pl-kos">&lt;</span><span class="pl-ent">img</span> <span class="pl-c1">class</span>="<span class="pl-s">u-photo</span>" <span class="pl-c1">src</span>="<span class="pl-s">https://files.mastodon.social/media_attachments/files/110/151/771/251/554/330/original/a80cc6cfe970ec56.png</span>" <span class="pl-c1">alt</span>="" <span class="pl-kos">/&gt;</span></pre></div>
+<p dir="auto"><a href="https://mastodon.social/web/statuses/110151657347210229" rel="nofollow"></a><br>
+<a href="https://shkspr.mobi/blog/2023/04/msc-completed/" rel="nofollow"></a></p>
+]]></content>
+        <author>
+            <name>edent</name>
+            <email>edent@noreply.github.com</email>
+            <uri>https://github.com/edent</uri>
+        </author>
+        <published>2023-04-06T12:57:37.000Z</published>
+    </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><opml version="2.0">
+    <head>
+    <title>GitHub Search Subscriptions</title>
+    <dateCreated>2025-10-22T14:27:45.668Z</dateCreated>
+</head>
+    <body>
+    <outline title="Subscriptions">
+        <outline>
+            <outline type="rss" title="Blog" htmlUrl="https://edent.github.io/github-search-rss/shkspr.json" xmlUrl="https://edent.github.io/github-search-rss/shkspr.json"/>
+            <outline type="rss" title="Blog PR" htmlUrl="https://edent.github.io/github-search-rss/shkspr-pr.json" xmlUrl="https://edent.github.io/github-search-rss/shkspr-pr.json"/>
+        </outline>
+    </outline>
+</body>
+</opml>

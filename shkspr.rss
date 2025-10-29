@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2025-10-29T17:10:52.031Z</updated>
+    <updated>2025-10-29T18:15:32.979Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -115,9 +115,9 @@
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE3NTgxNTEsIm5iZiI6MTc2MTc1Nzg1MSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI5VDE3MTA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVkYmI5MmMxM2ZkOGY2MTVmN2Y3Yzc4NDZkZDkxMjk2YjRiYmJkYTFjYTU0NGRkNzUyODU0NzkwZDUxYzI4ZTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PEx1YUhSmesCQcaE-KXu3qg_tLsUffhVVM2sMy9FDJk"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE3NTgxNTEsIm5iZiI6MTc2MTc1Nzg1MSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI5VDE3MTA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVkYmI5MmMxM2ZkOGY2MTVmN2Y3Yzc4NDZkZDkxMjk2YjRiYmJkYTFjYTU0NGRkNzUyODU0NzkwZDUxYzI4ZTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PEx1YUhSmesCQcaE-KXu3qg_tLsUffhVVM2sMy9FDJk" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE3NTgxNTEsIm5iZiI6MTc2MTc1Nzg1MSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI5VDE3MTA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxZTA4NzljNTI1YjM2OTI1OGQ2NzY0OWQ3NDFmYTZlNGZjMmFiNjE0NjdiZjNlY2E3NzhmM2Y4NjFiOGQ3NzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5OS73GRaL2sPQat2MklypFy2J28SntDNkbEse-JozBQ"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE3NTgxNTEsIm5iZiI6MTc2MTc1Nzg1MSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI5VDE3MTA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxZTA4NzljNTI1YjM2OTI1OGQ2NzY0OWQ3NDFmYTZlNGZjMmFiNjE0NjdiZjNlY2E3NzhmM2Y4NjFiOGQ3NzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5OS73GRaL2sPQat2MklypFy2J28SntDNkbEse-JozBQ" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE3NTgxNTEsIm5iZiI6MTc2MTc1Nzg1MSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI5VDE3MTA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE5NzYzNGMzOTE2NzhlMzRhMzFlZTQwMzFhZTNlYjgyZDc4MzA2NDZkMjljM2E0MjI3NjcyNzQ1Mzg2N2UzMGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.49D7iPIngeGqdYWMZV9sHeB8LcHDqwE1G0if_LhQGf8"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE3NTgxNTEsIm5iZiI6MTc2MTc1Nzg1MSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI5VDE3MTA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE5NzYzNGMzOTE2NzhlMzRhMzFlZTQwMzFhZTNlYjgyZDc4MzA2NDZkMjljM2E0MjI3NjcyNzQ1Mzg2N2UzMGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.49D7iPIngeGqdYWMZV9sHeB8LcHDqwE1G0if_LhQGf8" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE3NjIwMzIsIm5iZiI6MTc2MTc2MTczMiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI5VDE4MTUzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3OGJlNWQ1ZDMyMWFlOTE0Y2I1M2EzM2FiMGIzNzRiYmUzMGMzNGZiMDIzNWQwYmNlMGU1YjMwYTBmNDhiMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tIzmIs_OzkrVTwq5EmQe95gHVduTh6dN4eACj78gBCs"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE3NjIwMzIsIm5iZiI6MTc2MTc2MTczMiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI5VDE4MTUzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3OGJlNWQ1ZDMyMWFlOTE0Y2I1M2EzM2FiMGIzNzRiYmUzMGMzNGZiMDIzNWQwYmNlMGU1YjMwYTBmNDhiMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tIzmIs_OzkrVTwq5EmQe95gHVduTh6dN4eACj78gBCs" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE3NjIwMzIsIm5iZiI6MTc2MTc2MTczMiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI5VDE4MTUzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwZDIxMWViYjZkZTUwMDRlYjJhMGRjYTIxNDVmZDU4ZjE5NTNkODA2ZWNhYjE1NDk1N2U4ZWNhMzFiOGJkZjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OypqoTM7ArP-Y2ruG6E0SbMLNbvKFRzct1us0PKB5EE"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE3NjIwMzIsIm5iZiI6MTc2MTc2MTczMiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI5VDE4MTUzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwZDIxMWViYjZkZTUwMDRlYjJhMGRjYTIxNDVmZDU4ZjE5NTNkODA2ZWNhYjE1NDk1N2U4ZWNhMzFiOGJkZjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OypqoTM7ArP-Y2ruG6E0SbMLNbvKFRzct1us0PKB5EE" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE3NjIwMzIsIm5iZiI6MTc2MTc2MTczMiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI5VDE4MTUzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5OTZiYTdjNmFiNzE4YWVmZWVkYTMyMWVmMGFjNjViMGUzOWRlNTcyMzQ3NTllYzkxYmExZWU0MzQ3MjQ0ZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gpEkQtxtheCikyWMAatlpmusfcXV0EagvbDAy7Cw4qQ"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE3NjIwMzIsIm5iZiI6MTc2MTc2MTczMiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI5VDE4MTUzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5OTZiYTdjNmFiNzE4YWVmZWVkYTMyMWVmMGFjNjViMGUzOWRlNTcyMzQ3NTllYzkxYmExZWU0MzQ3MjQ0ZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gpEkQtxtheCikyWMAatlpmusfcXV0EagvbDAy7Cw4qQ" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -388,6 +388,43 @@
         <published>2025-06-25T08:01:35.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The 'File' is a Skeuomorph: It's Time to Evolve Our Data Workflows / 「ファイル」はスキューモーフィズム：時代遅れのデータワークフローを見直す時が来た]]></title>
+        <id>https://github.com/xhiroga/news/issues/1426</id>
+        <link href="https://github.com/xhiroga/news/issues/1426"/>
+        <updated>2025-07-17T12:46:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/1375152?v=4" width="64" height="64" alt=""/><br/><markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th></th>
+<th>URL</th>
+<th>Author</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>News</td>
+<td><a href="https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/" rel="nofollow">https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/</a></td>
+<td>Terence Eden</td>
+</tr>
+<tr>
+<td>Original</td>
+<td><a href="https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/" rel="nofollow">https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/</a></td>
+<td>Terence Eden</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<hr>
+<p dir="auto">The author argues that the common practice of sending files is an outdated and insecure workflow rooted in a 'file' metaphor that is no longer fit for purpose. Citing data breaches and inefficient collaboration, the post advocates for a shift towards using living data in databases and collaborative platforms with proper access controls. The author provocatively critiques the very concept of the file as a skeuomorph and even challenges a tool as fundamental as Git for being stuck in this paradigm.</p>
+<hr>
+<p dir="auto">筆者は、ファイルを相互に送信するという一般的な慣行は、もはや目的に合わなくなった「ファイル」というメタファーに根ざした、時代遅れで安全でないワークフローであると主張しています。データ漏洩や非効率なコラボレーションを例に挙げ、データベースや共同作業プラットフォーム上で、適切なアクセス制御を備えた「生きた」データを利用する方向への転換を提唱。著者は、ファイルの概念そのものをスキューモーフィズムと挑発的に批判し、Gitのような基本的なツールさえもがこのパラダイムに囚われていると指摘します。</p>]]></content>
+        <author>
+            <name>sawaraken</name>
+            <email>sawaraken@noreply.github.com</email>
+            <uri>https://github.com/apps/sawaraken</uri>
+        </author>
+        <published>2025-07-17T12:46:50.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Add images from WebMention?]]></title>
         <id>https://github.com/pfefferle/wordpress-webmention/issues/365</id>
         <link href="https://github.com/pfefferle/wordpress-webmention/issues/365"/>
@@ -428,43 +465,6 @@
             <uri>https://github.com/edent</uri>
         </author>
         <published>2023-04-06T12:57:37.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 'File' is a Skeuomorph: It's Time to Evolve Our Data Workflows / 「ファイル」はスキューモーフィズム：時代遅れのデータワークフローを見直す時が来た]]></title>
-        <id>https://github.com/xhiroga/news/issues/1426</id>
-        <link href="https://github.com/xhiroga/news/issues/1426"/>
-        <updated>2025-07-17T12:46:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/1375152?v=4" width="64" height="64" alt=""/><br/><markdown-accessiblity-table><table role="table">
-<thead>
-<tr>
-<th></th>
-<th>URL</th>
-<th>Author</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>News</td>
-<td><a href="https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/" rel="nofollow">https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/</a></td>
-<td>Terence Eden</td>
-</tr>
-<tr>
-<td>Original</td>
-<td><a href="https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/" rel="nofollow">https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/</a></td>
-<td>Terence Eden</td>
-</tr>
-</tbody>
-</table></markdown-accessiblity-table>
-<hr>
-<p dir="auto">The author argues that the common practice of sending files is an outdated and insecure workflow rooted in a 'file' metaphor that is no longer fit for purpose. Citing data breaches and inefficient collaboration, the post advocates for a shift towards using living data in databases and collaborative platforms with proper access controls. The author provocatively critiques the very concept of the file as a skeuomorph and even challenges a tool as fundamental as Git for being stuck in this paradigm.</p>
-<hr>
-<p dir="auto">筆者は、ファイルを相互に送信するという一般的な慣行は、もはや目的に合わなくなった「ファイル」というメタファーに根ざした、時代遅れで安全でないワークフローであると主張しています。データ漏洩や非効率なコラボレーションを例に挙げ、データベースや共同作業プラットフォーム上で、適切なアクセス制御を備えた「生きた」データを利用する方向への転換を提唱。著者は、ファイルの概念そのものをスキューモーフィズムと挑発的に批判し、Gitのような基本的なツールさえもがこのパラダイムに囚われていると指摘します。</p>]]></content>
-        <author>
-            <name>sawaraken</name>
-            <email>sawaraken@noreply.github.com</email>
-            <uri>https://github.com/apps/sawaraken</uri>
-        </author>
-        <published>2025-07-17T12:46:50.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Favourite posts]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2025-11-16T20:10:50.101Z</updated>
+    <updated>2025-11-16T21:08:45.919Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -78,9 +78,9 @@
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzMjQxNTAsIm5iZiI6MTc2MzMyMzg1MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE2VDIwMTA1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM5ZGE0MTk4MDgxNDlhODY2ZDQwYTMzMDI4NmRkMzAyODZhNjQ0MDBhMmFkODkwZDA5ZmFjMDZlYzcyZWIxOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9c49GZAtiBubl4YrBbMZlkW8wrm5EYpvJ6Bik3WidhM"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzMjQxNTAsIm5iZiI6MTc2MzMyMzg1MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE2VDIwMTA1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM5ZGE0MTk4MDgxNDlhODY2ZDQwYTMzMDI4NmRkMzAyODZhNjQ0MDBhMmFkODkwZDA5ZmFjMDZlYzcyZWIxOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9c49GZAtiBubl4YrBbMZlkW8wrm5EYpvJ6Bik3WidhM" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzMjQxNTAsIm5iZiI6MTc2MzMyMzg1MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE2VDIwMTA1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3YmY0NGRkMjVlOWQxNTllYTkzMzM1Mjc1OTIzOTU4YmNhN2UxNGUzMzUwYTRiYzEyOTM1NjIzZGMwM2NkZTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.z7Fd7ekT0W9uY2xUioavUoZAySz-pQJv960yTXK-l_g"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzMjQxNTAsIm5iZiI6MTc2MzMyMzg1MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE2VDIwMTA1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3YmY0NGRkMjVlOWQxNTllYTkzMzM1Mjc1OTIzOTU4YmNhN2UxNGUzMzUwYTRiYzEyOTM1NjIzZGMwM2NkZTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.z7Fd7ekT0W9uY2xUioavUoZAySz-pQJv960yTXK-l_g" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzMjQxNTAsIm5iZiI6MTc2MzMyMzg1MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE2VDIwMTA1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkNjNlMGU0NWU2MGMzMjEyZTBhYzE5OWU5YjUyNzA3ZDhkZDgyNGU3MTgzMjE1NDQxZjgxZWEwYzdjODJmYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3e8yd194w9gqmcpAjTS6WkZVaBi8PfdCJbCcj7Ra_lE"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzMjQxNTAsIm5iZiI6MTc2MzMyMzg1MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE2VDIwMTA1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkNjNlMGU0NWU2MGMzMjEyZTBhYzE5OWU5YjUyNzA3ZDhkZDgyNGU3MTgzMjE1NDQxZjgxZWEwYzdjODJmYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3e8yd194w9gqmcpAjTS6WkZVaBi8PfdCJbCcj7Ra_lE" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzMjc2MjUsIm5iZiI6MTc2MzMyNzMyNSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE2VDIxMDg0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyOGI0OTcyOGVhNmI4NGFiZThhZjA5ZDRjOWRhY2RmOGM2ODg1MmQ2NTI2N2Q4YzkzOTk0NTFkZGVkMDIyMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Cl7G9O9ZE0n9IgdWz9XxnhCH9DWgB8uKt1rOHZNorBc"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzMjc2MjUsIm5iZiI6MTc2MzMyNzMyNSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE2VDIxMDg0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyOGI0OTcyOGVhNmI4NGFiZThhZjA5ZDRjOWRhY2RmOGM2ODg1MmQ2NTI2N2Q4YzkzOTk0NTFkZGVkMDIyMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Cl7G9O9ZE0n9IgdWz9XxnhCH9DWgB8uKt1rOHZNorBc" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzMjc2MjUsIm5iZiI6MTc2MzMyNzMyNSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE2VDIxMDg0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwYzdjOWQ3YmE0OTQ5YjYzMzYwZWE2ODRlNDQ1YzA3NmMyMTIxMzY5YzEzNzVkMWQ1ZmMzZjQ5MjRjZWVkMWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.j__mcJBWEpgSS4PErZsTUzNpR1N3IX-outCfESvfDbA"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzMjc2MjUsIm5iZiI6MTc2MzMyNzMyNSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE2VDIxMDg0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwYzdjOWQ3YmE0OTQ5YjYzMzYwZWE2ODRlNDQ1YzA3NmMyMTIxMzY5YzEzNzVkMWQ1ZmMzZjQ5MjRjZWVkMWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.j__mcJBWEpgSS4PErZsTUzNpR1N3IX-outCfESvfDbA" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzMjc2MjUsIm5iZiI6MTc2MzMyNzMyNSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE2VDIxMDg0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3MTFhNjBjMWFkYmJkODczYjdiYWM5MWIyZmY3MjIxOGY3ZTI0YTkzNjg3NmJlYjRlZWIyYzlhYmQ2ZjhhNjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Gq_4OnwbQ0wNa3O51gZScK7S0SCbFtl72NBO9svj_2Q"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMzMjc2MjUsIm5iZiI6MTc2MzMyNzMyNSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE2VDIxMDg0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3MTFhNjBjMWFkYmJkODczYjdiYWM5MWIyZmY3MjIxOGY3ZTI0YTkzNjg3NmJlYjRlZWIyYzlhYmQ2ZjhhNjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Gq_4OnwbQ0wNa3O51gZScK7S0SCbFtl72NBO9svj_2Q" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -102,37 +102,6 @@
             <uri>https://github.com/RMHogervorst</uri>
         </author>
         <published>2025-06-24T13:34:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[update!: Add Firefox Relay]]></title>
-        <id>https://github.com/privacyguides/privacyguides.org/pull/3070</id>
-        <link href="https://github.com/privacyguides/privacyguides.org/pull/3070"/>
-        <updated>2025-11-06T16:31:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7105970?u=89742e942b73152c9fdd230b6eedf096a71e58b7&v=4" width="64" height="64" alt=""/><br/><p dir="auto">List of changes proposed in this PR:</p>
-<ul dir="auto">
-<li>
-<p dir="auto">This pull request aims to add Firefox relay to the email aliasing page.</p>
-</li>
-<li>
-<p dir="auto">I do use Firefox relay and I am a premium user</p>
-</li>
-</ul>
-<p dir="auto">There have been some talk about adding it</p>
-<ul dir="auto">
-<li>
-<p dir="auto"><a href="https://discuss.privacyguides.net/t/add-mozilla-relay-to-aliasing-services/22638" rel="nofollow">https://discuss.privacyguides.net/t/add-mozilla-relay-to-aliasing-services/22638</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://discuss.privacyguides.net/t/can-firefox-relay-be-trusted/15800" rel="nofollow">https://discuss.privacyguides.net/t/can-firefox-relay-be-trusted/15800</a></p>
-</li>
-</ul>
-<p dir="auto">Thoughts?</p>]]></content>
-        <author>
-            <name>Goldmaster</name>
-            <email>Goldmaster@noreply.github.com</email>
-            <uri>https://github.com/Goldmaster</uri>
-        </author>
-        <published>2025-07-02T16:15:44.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA['Drunk CSS': A Creative Approach to Accessibility Testing / 「酔っぱらいCSS」：アクセシビリティテストへの創造的なアプローチ]]></title>
@@ -170,6 +139,37 @@
             <uri>https://github.com/apps/sawaraken</uri>
         </author>
         <published>2025-10-01T01:02:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[update!: Add Firefox Relay]]></title>
+        <id>https://github.com/privacyguides/privacyguides.org/pull/3070</id>
+        <link href="https://github.com/privacyguides/privacyguides.org/pull/3070"/>
+        <updated>2025-11-06T16:31:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7105970?u=89742e942b73152c9fdd230b6eedf096a71e58b7&v=4" width="64" height="64" alt=""/><br/><p dir="auto">List of changes proposed in this PR:</p>
+<ul dir="auto">
+<li>
+<p dir="auto">This pull request aims to add Firefox relay to the email aliasing page.</p>
+</li>
+<li>
+<p dir="auto">I do use Firefox relay and I am a premium user</p>
+</li>
+</ul>
+<p dir="auto">There have been some talk about adding it</p>
+<ul dir="auto">
+<li>
+<p dir="auto"><a href="https://discuss.privacyguides.net/t/add-mozilla-relay-to-aliasing-services/22638" rel="nofollow">https://discuss.privacyguides.net/t/add-mozilla-relay-to-aliasing-services/22638</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://discuss.privacyguides.net/t/can-firefox-relay-be-trusted/15800" rel="nofollow">https://discuss.privacyguides.net/t/can-firefox-relay-be-trusted/15800</a></p>
+</li>
+</ul>
+<p dir="auto">Thoughts?</p>]]></content>
+        <author>
+            <name>Goldmaster</name>
+            <email>Goldmaster@noreply.github.com</email>
+            <uri>https://github.com/Goldmaster</uri>
+        </author>
+        <published>2025-07-02T16:15:44.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[A User's Struggle: Cloudflare's GDPR Compliance Questioned After Repeated Unwanted Emails / CloudflareのGDPR遵守に疑問符：アカウント削除後も続く迷惑メール、あるユーザーの闘いの記録]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2025-11-27T17:08:45.774Z</updated>
+    <updated>2025-11-27T18:14:45.658Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -41,9 +41,9 @@
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQyNjM2MjUsIm5iZiI6MTc2NDI2MzMyNSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI3VDE3MDg0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTljNDBhYjVmOWRmMWFmMDg1ZWNjYmNiZGY2MTZjMDNlNDY5YTNhMGEyM2JiMzM0NTM2ZGVkYjI0NTMxOTA5MjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nsz0wqxkCN_R_qH9p2eL8iGzfsaUJrahArbyGGzNAf4"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQyNjM2MjUsIm5iZiI6MTc2NDI2MzMyNSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI3VDE3MDg0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTljNDBhYjVmOWRmMWFmMDg1ZWNjYmNiZGY2MTZjMDNlNDY5YTNhMGEyM2JiMzM0NTM2ZGVkYjI0NTMxOTA5MjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nsz0wqxkCN_R_qH9p2eL8iGzfsaUJrahArbyGGzNAf4" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQyNjM2MjUsIm5iZiI6MTc2NDI2MzMyNSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI3VDE3MDg0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlMzc4Y2Y4OTAzNzgxOWIwYzYzMWNhZGFjNDlhMmRlN2JlOTM1MDFhMDEwOTlmZjNmMTAyMDU5NjhmYjk5NTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.azeP32Pv3uZdZZ3UtzArQxL6zfwuqeZN35Sw59bc39M"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQyNjM2MjUsIm5iZiI6MTc2NDI2MzMyNSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI3VDE3MDg0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlMzc4Y2Y4OTAzNzgxOWIwYzYzMWNhZGFjNDlhMmRlN2JlOTM1MDFhMDEwOTlmZjNmMTAyMDU5NjhmYjk5NTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.azeP32Pv3uZdZZ3UtzArQxL6zfwuqeZN35Sw59bc39M" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQyNjM2MjUsIm5iZiI6MTc2NDI2MzMyNSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI3VDE3MDg0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIyNDRiMzZiZTliZGRlNDhiZjc2ODYwZDhkMTE4NzhjMDZlZDdhYzcxY2U4ZTRjNmViZjdmMjA0NmRiYzQ1NDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OT4MEy5DyGH1dNJjBuGZrbVN1PvvGqSv5Chtr4p2a8g"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQyNjM2MjUsIm5iZiI6MTc2NDI2MzMyNSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI3VDE3MDg0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIyNDRiMzZiZTliZGRlNDhiZjc2ODYwZDhkMTE4NzhjMDZlZDdhYzcxY2U4ZTRjNmViZjdmMjA0NmRiYzQ1NDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OT4MEy5DyGH1dNJjBuGZrbVN1PvvGqSv5Chtr4p2a8g" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQyNjc1ODUsIm5iZiI6MTc2NDI2NzI4NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI3VDE4MTQ0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4YTNmNTA0NDBkN2QwYzA4NTQwMDM3NDQ1OTg0YzhkYWZjZDIwNDM0NzE0OGU4YzYzODFhMzc0YTY4OTk4ZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xDk2H4JaHFdjBZas_x4jtrLQa75gMdlQNQtjf8Xt7Qc"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQyNjc1ODUsIm5iZiI6MTc2NDI2NzI4NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI3VDE4MTQ0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4YTNmNTA0NDBkN2QwYzA4NTQwMDM3NDQ1OTg0YzhkYWZjZDIwNDM0NzE0OGU4YzYzODFhMzc0YTY4OTk4ZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xDk2H4JaHFdjBZas_x4jtrLQa75gMdlQNQtjf8Xt7Qc" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQyNjc1ODUsIm5iZiI6MTc2NDI2NzI4NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI3VDE4MTQ0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyZmZmZTA3NzJjYWQ5M2M4NTA3MTJjNjc2Njg3MjhkNDk3NjhiMzkzZmFkYjA1NGIyMmRkNmJjYjI2MDQwNjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IFSJfxg3E3_xrUR3R0JNR0jI38yJ82gS9Q4yXVzb2JA"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQyNjc1ODUsIm5iZiI6MTc2NDI2NzI4NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI3VDE4MTQ0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyZmZmZTA3NzJjYWQ5M2M4NTA3MTJjNjc2Njg3MjhkNDk3NjhiMzkzZmFkYjA1NGIyMmRkNmJjYjI2MDQwNjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IFSJfxg3E3_xrUR3R0JNR0jI38yJ82gS9Q4yXVzb2JA" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQyNjc1ODUsIm5iZiI6MTc2NDI2NzI4NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI3VDE4MTQ0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0NWMxMDhiMGQzZjE5YjdjYjM3OTVmZDAyNmUyOThiODE0YjgwZGI3YzI2Y2E0NGYxYTFlNmJkZGMyNmY1YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6AdYA3y6Gv9CUTnDPapHe_ndez_21kJxi3kMhTsvrXw"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQyNjc1ODUsIm5iZiI6MTc2NDI2NzI4NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI3VDE4MTQ0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0NWMxMDhiMGQzZjE5YjdjYjM3OTVmZDAyNmUyOThiODE0YjgwZGI3YzI2Y2E0NGYxYTFlNmJkZGMyNmY1YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6AdYA3y6Gv9CUTnDPapHe_ndez_21kJxi3kMhTsvrXw" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -253,28 +253,6 @@
         <published>2021-05-25T07:22:26.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tracking support for non-ascii characters]]></title>
-        <id>https://github.com/swicg/activitypub-webfinger/issues/29</id>
-        <link href="https://github.com/swicg/activitypub-webfinger/issues/29"/>
-        <updated>2025-10-07T19:54:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6770?u=85e683e6edf44982a2d847e6bb28c63a53fbc43e&v=4" width="64" height="64" alt=""/><br/><p dir="auto">One of the benefits of using Webfinger is that it's possible, at least in theory, to use non-ascii characters for usernames. Unfortunately, there are not a lot of services that support them -- at least according to our document.</p>
-<p dir="auto">For the top human languages, only 3 primarily use only non-ASCII characters (English, Malaysian, Indonesian), for a total of about 500 million people. That means about 90% of humans use languages with non-Latin, or accented, character sets.</p>
-<p dir="auto">We have an opportunity to let people in the global majority use their names or words in their own language as usernames.</p>
-<p dir="auto">This is a huge win for making software that focuses on real people.</p>
-<p dir="auto">I propose we start:</p>
-<ul dir="auto">
-<li>Working on proof-of-concept implementations that use non-ASCII characters in <code class="notranslate">preferredUsername</code>, <code class="notranslate">webfinger</code> and the Webfinger username (with percent hashes)</li>
-<li>Report issues on major ActivityPub implementations to start the process of supporting non-ASCII characters in usernames</li>
-<li>Track interoperability</li>
-</ul>]]></content>
-        <author>
-            <name>evanp</name>
-            <email>evanp@noreply.github.com</email>
-            <uri>https://github.com/evanp</uri>
-        </author>
-        <published>2025-08-02T17:52:46.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Expand to full ActivityPub server]]></title>
         <id>https://github.com/snscaimito/social-blogging/issues/7</id>
         <link href="https://github.com/snscaimito/social-blogging/issues/7"/>
@@ -299,6 +277,28 @@
             <uri>https://github.com/joeyklee</uri>
         </author>
         <published>2020-03-26T01:37:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracking support for non-ascii characters]]></title>
+        <id>https://github.com/swicg/activitypub-webfinger/issues/29</id>
+        <link href="https://github.com/swicg/activitypub-webfinger/issues/29"/>
+        <updated>2025-10-07T19:54:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6770?u=85e683e6edf44982a2d847e6bb28c63a53fbc43e&v=4" width="64" height="64" alt=""/><br/><p dir="auto">One of the benefits of using Webfinger is that it's possible, at least in theory, to use non-ascii characters for usernames. Unfortunately, there are not a lot of services that support them -- at least according to our document.</p>
+<p dir="auto">For the top human languages, only 3 primarily use only non-ASCII characters (English, Malaysian, Indonesian), for a total of about 500 million people. That means about 90% of humans use languages with non-Latin, or accented, character sets.</p>
+<p dir="auto">We have an opportunity to let people in the global majority use their names or words in their own language as usernames.</p>
+<p dir="auto">This is a huge win for making software that focuses on real people.</p>
+<p dir="auto">I propose we start:</p>
+<ul dir="auto">
+<li>Working on proof-of-concept implementations that use non-ASCII characters in <code class="notranslate">preferredUsername</code>, <code class="notranslate">webfinger</code> and the Webfinger username (with percent hashes)</li>
+<li>Report issues on major ActivityPub implementations to start the process of supporting non-ASCII characters in usernames</li>
+<li>Track interoperability</li>
+</ul>]]></content>
+        <author>
+            <name>evanp</name>
+            <email>evanp@noreply.github.com</email>
+            <uri>https://github.com/evanp</uri>
+        </author>
+        <published>2025-08-02T17:52:46.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Get the location of the ISS using DNS / DNSを使って国際宇宙ステーション(ISS)の位置を知る]]></title>

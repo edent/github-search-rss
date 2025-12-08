@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2025-12-08T11:10:13.848Z</updated>
+    <updated>2025-12-08T12:21:06.736Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -41,9 +41,9 @@
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxOTI1MTMsIm5iZiI6MTc2NTE5MjIxMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA4VDExMTAxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY2ZjYxNDFjM2UxMjU1YTAxNjI4ZjI2YzBjZTViODM0MmZjNzdjMDIzZDI3ZDI1NzI1MzgxODM5MGJkNzExMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.v1NftxdLXwCjpyehfh3cXS_U6vN3ilk_cY-monpY4gw"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxOTI1MTMsIm5iZiI6MTc2NTE5MjIxMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA4VDExMTAxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY2ZjYxNDFjM2UxMjU1YTAxNjI4ZjI2YzBjZTViODM0MmZjNzdjMDIzZDI3ZDI1NzI1MzgxODM5MGJkNzExMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.v1NftxdLXwCjpyehfh3cXS_U6vN3ilk_cY-monpY4gw" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxOTI1MTMsIm5iZiI6MTc2NTE5MjIxMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA4VDExMTAxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg4MjMwZTMxNmVlZDU1MzM1MTMyM2NlNjdjOTI0YWZkMjE5ZTQyMWNjYTJiYTUzYmRjNTlhMzRiOWEyMDMzN2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LYGcsWPLG_qrTiNxZNOPUkyLLHI9penP9L8x2aJ-G54"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxOTI1MTMsIm5iZiI6MTc2NTE5MjIxMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA4VDExMTAxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg4MjMwZTMxNmVlZDU1MzM1MTMyM2NlNjdjOTI0YWZkMjE5ZTQyMWNjYTJiYTUzYmRjNTlhMzRiOWEyMDMzN2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LYGcsWPLG_qrTiNxZNOPUkyLLHI9penP9L8x2aJ-G54" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxOTI1MTMsIm5iZiI6MTc2NTE5MjIxMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA4VDExMTAxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE0OTJiOTA3YWQzM2E2ZjNiOWUzMWVkZjU4NjIxMDVhYzI5ZDQzOGI2ZjFmMmFlZGVkZTAzM2U4MTA0MWRiN2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bSLx2LbFLX96DT-TLfH3foVAiXw1Bb_t7vKFfp8EuZQ"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxOTI1MTMsIm5iZiI6MTc2NTE5MjIxMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA4VDExMTAxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE0OTJiOTA3YWQzM2E2ZjNiOWUzMWVkZjU4NjIxMDVhYzI5ZDQzOGI2ZjFmMmFlZGVkZTAzM2U4MTA0MWRiN2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bSLx2LbFLX96DT-TLfH3foVAiXw1Bb_t7vKFfp8EuZQ" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxOTY3NjYsIm5iZiI6MTc2NTE5NjQ2NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA4VDEyMjEwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2YzhlMzgwZmNjYWFjZjc4ODQzYjc3MDc0MTBmMDhkNzkxY2I2MDUwZTI4NWU3NWNjNTkzNDk1Y2QyYjczM2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IeBpXSimD7GlzdyM5Dx17CTLVCwnSCPHixjcfWEhyGM"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxOTY3NjYsIm5iZiI6MTc2NTE5NjQ2NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA4VDEyMjEwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2YzhlMzgwZmNjYWFjZjc4ODQzYjc3MDc0MTBmMDhkNzkxY2I2MDUwZTI4NWU3NWNjNTkzNDk1Y2QyYjczM2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IeBpXSimD7GlzdyM5Dx17CTLVCwnSCPHixjcfWEhyGM" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxOTY3NjYsIm5iZiI6MTc2NTE5NjQ2NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA4VDEyMjEwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjYWQ4NjgzNDRhNTgwNGE3MWQwNTRhMWVjNzA4NTI2MzdjOWY5MmJkMmZkOGQ2OGM5M2EwZDVmZTRlZmNlMDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-4jj3ih-peZsRaaxgNi8CKT1h0GdBdtVWJTFfG1iJgU"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxOTY3NjYsIm5iZiI6MTc2NTE5NjQ2NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA4VDEyMjEwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjYWQ4NjgzNDRhNTgwNGE3MWQwNTRhMWVjNzA4NTI2MzdjOWY5MmJkMmZkOGQ2OGM5M2EwZDVmZTRlZmNlMDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-4jj3ih-peZsRaaxgNi8CKT1h0GdBdtVWJTFfG1iJgU" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxOTY3NjYsIm5iZiI6MTc2NTE5NjQ2NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA4VDEyMjEwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyMzllNjcwOWVkMGNlY2NiOGZiMzQ0NWU5OGY3ZDQwODAzNzVkZTVlZTg3OGI1Zjk0MWY1ODQzNWFiN2E0MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TmHhyKtLrgAcLh0N7x8ED2ULmACBiiLy1EmB2cI43W0"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxOTY3NjYsIm5iZiI6MTc2NTE5NjQ2NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA4VDEyMjEwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyMzllNjcwOWVkMGNlY2NiOGZiMzQ0NWU5OGY3ZDQwODAzNzVkZTVlZTg3OGI1Zjk0MWY1ODQzNWFiN2E0MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TmHhyKtLrgAcLh0N7x8ED2ULmACBiiLy1EmB2cI43W0" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -104,6 +104,103 @@
         <published>2025-09-26T19:01:05.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[update!: Add Firefox Relay]]></title>
+        <id>https://github.com/privacyguides/privacyguides.org/pull/3070</id>
+        <link href="https://github.com/privacyguides/privacyguides.org/pull/3070"/>
+        <updated>2025-11-23T10:14:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7105970?u=89742e942b73152c9fdd230b6eedf096a71e58b7&v=4" width="64" height="64" alt=""/><br/><p dir="auto">List of changes proposed in this PR:</p>
+<ul dir="auto">
+<li>
+<p dir="auto">This pull request aims to add Firefox relay to the email aliasing page.</p>
+</li>
+<li>
+<p dir="auto">I do use Firefox relay and I am a premium user</p>
+</li>
+</ul>
+<p dir="auto">There have been some talk about adding it</p>
+<ul dir="auto">
+<li>
+<p dir="auto"><a href="https://discuss.privacyguides.net/t/add-mozilla-relay-to-aliasing-services/22638" rel="nofollow">https://discuss.privacyguides.net/t/add-mozilla-relay-to-aliasing-services/22638</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://discuss.privacyguides.net/t/can-firefox-relay-be-trusted/15800" rel="nofollow">https://discuss.privacyguides.net/t/can-firefox-relay-be-trusted/15800</a></p>
+</li>
+</ul>
+<p dir="auto">Thoughts?</p>]]></content>
+        <author>
+            <name>Goldmaster</name>
+            <email>Goldmaster@noreply.github.com</email>
+            <uri>https://github.com/Goldmaster</uri>
+        </author>
+        <published>2025-07-02T16:15:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing on low-fi browsers]]></title>
+        <id>https://github.com/ArthurSmid/little-help-book/issues/9</id>
+        <link href="https://github.com/ArthurSmid/little-help-book/issues/9"/>
+        <updated>2021-01-28T19:00:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/20653086?u=deb8999733f5e3e029b4e4bbf01d43f399cf7539&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/" rel="nofollow">https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/</a></p>]]></content>
+        <author>
+            <name>ArthurSmid</name>
+            <email>ArthurSmid@noreply.github.com</email>
+            <uri>https://github.com/ArthurSmid</uri>
+        </author>
+        <published>2021-01-28T19:00:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social Login Auth]]></title>
+        <id>https://github.com/Studio-Link/mix/issues/71</id>
+        <link href="https://github.com/Studio-Link/mix/issues/71"/>
+        <updated>2025-06-02T08:26:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/296762?u=4a9af9ea754af083ffeed0928e149e0f5c0f8709&v=4" width="64" height="64" alt=""/><br/><p dir="auto">References:</p>
+<ul dir="auto">
+<li><a href="https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/" rel="nofollow">https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/</a></li>
+<li><a href="https://swicg.github.io/activitypub-http-signature/#how-to-obtain-a-signature-s-public-key" rel="nofollow">https://swicg.github.io/activitypub-http-signature/#how-to-obtain-a-signature-s-public-key</a></li>
+<li><a href="https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/" rel="nofollow">https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/</a></li>
+</ul>]]></content>
+        <author>
+            <name>sreimers</name>
+            <email>sreimers@noreply.github.com</email>
+            <uri>https://github.com/sreimers</uri>
+        </author>
+        <published>2025-06-02T08:26:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tracking support for non-ascii characters]]></title>
+        <id>https://github.com/swicg/activitypub-webfinger/issues/29</id>
+        <link href="https://github.com/swicg/activitypub-webfinger/issues/29"/>
+        <updated>2025-10-07T19:54:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6770?u=85e683e6edf44982a2d847e6bb28c63a53fbc43e&v=4" width="64" height="64" alt=""/><br/><p dir="auto">One of the benefits of using Webfinger is that it's possible, at least in theory, to use non-ascii characters for usernames. Unfortunately, there are not a lot of services that support them -- at least according to our document.</p>
+<p dir="auto">For the top human languages, only 3 primarily use only non-ASCII characters (English, Malaysian, Indonesian), for a total of about 500 million people. That means about 90% of humans use languages with non-Latin, or accented, character sets.</p>
+<p dir="auto">We have an opportunity to let people in the global majority use their names or words in their own language as usernames.</p>
+<p dir="auto">This is a huge win for making software that focuses on real people.</p>
+<p dir="auto">I propose we start:</p>
+<ul dir="auto">
+<li>Working on proof-of-concept implementations that use non-ASCII characters in <code class="notranslate">preferredUsername</code>, <code class="notranslate">webfinger</code> and the Webfinger username (with percent hashes)</li>
+<li>Report issues on major ActivityPub implementations to start the process of supporting non-ASCII characters in usernames</li>
+<li>Track interoperability</li>
+</ul>]]></content>
+        <author>
+            <name>evanp</name>
+            <email>evanp@noreply.github.com</email>
+            <uri>https://github.com/evanp</uri>
+        </author>
+        <published>2025-08-02T17:52:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove 3rd party resources (e.g. fonts, JS)]]></title>
+        <id>https://github.com/JuliaActuary/JuliaActuary.org/issues/7</id>
+        <link href="https://github.com/JuliaActuary/JuliaActuary.org/issues/7"/>
+        <updated>2021-10-03T19:31:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/711879?u=5e7f92ccc07727dcbe7cf785daafa9c473e0e716&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/" rel="nofollow">https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/</a></p>]]></content>
+        <author>
+            <name>alecloudenback</name>
+            <email>alecloudenback@noreply.github.com</email>
+            <uri>https://github.com/alecloudenback</uri>
+        </author>
+        <published>2020-10-20T11:40:34.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['Drunk CSS': A Creative Approach to Accessibility Testing / 「酔っぱらいCSS」：アクセシビリティテストへの創造的なアプローチ]]></title>
         <id>https://github.com/xhiroga/news/issues/3688</id>
         <link href="https://github.com/xhiroga/news/issues/3688"/>
@@ -141,48 +238,43 @@
         <published>2025-10-01T01:02:13.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Testing on low-fi browsers]]></title>
-        <id>https://github.com/ArthurSmid/little-help-book/issues/9</id>
-        <link href="https://github.com/ArthurSmid/little-help-book/issues/9"/>
-        <updated>2021-01-28T19:00:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/20653086?u=deb8999733f5e3e029b4e4bbf01d43f399cf7539&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/" rel="nofollow">https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/</a></p>]]></content>
+        <title type="html"><![CDATA[Time to 200]]></title>
+        <id>https://github.com/dwyl/learn-api-design/issues/43</id>
+        <link href="https://github.com/dwyl/learn-api-design/issues/43"/>
+        <updated>2021-05-25T08:21:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/194400?u=405fb897c18f414ea8c4f4f2613fbef605855f02&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/" rel="nofollow">https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/</a></p>]]></content>
         <author>
-            <name>ArthurSmid</name>
-            <email>ArthurSmid@noreply.github.com</email>
-            <uri>https://github.com/ArthurSmid</uri>
+            <name>nelsonic</name>
+            <email>nelsonic@noreply.github.com</email>
+            <uri>https://github.com/nelsonic</uri>
         </author>
-        <published>2021-01-28T19:00:12.000Z</published>
+        <published>2021-05-25T07:22:26.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[update!: Add Firefox Relay]]></title>
-        <id>https://github.com/privacyguides/privacyguides.org/pull/3070</id>
-        <link href="https://github.com/privacyguides/privacyguides.org/pull/3070"/>
-        <updated>2025-11-23T10:14:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7105970?u=89742e942b73152c9fdd230b6eedf096a71e58b7&v=4" width="64" height="64" alt=""/><br/><p dir="auto">List of changes proposed in this PR:</p>
-<ul dir="auto">
-<li>
-<p dir="auto">This pull request aims to add Firefox relay to the email aliasing page.</p>
-</li>
-<li>
-<p dir="auto">I do use Firefox relay and I am a premium user</p>
-</li>
-</ul>
-<p dir="auto">There have been some talk about adding it</p>
-<ul dir="auto">
-<li>
-<p dir="auto"><a href="https://discuss.privacyguides.net/t/add-mozilla-relay-to-aliasing-services/22638" rel="nofollow">https://discuss.privacyguides.net/t/add-mozilla-relay-to-aliasing-services/22638</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://discuss.privacyguides.net/t/can-firefox-relay-be-trusted/15800" rel="nofollow">https://discuss.privacyguides.net/t/can-firefox-relay-be-trusted/15800</a></p>
-</li>
-</ul>
-<p dir="auto">Thoughts?</p>]]></content>
+        <title type="html"><![CDATA[Why bother with What3words?]]></title>
+        <id>https://github.com/all-maps-lie/all-maps-lie-2020/issues/46</id>
+        <link href="https://github.com/all-maps-lie/all-maps-lie-2020/issues/46"/>
+        <updated>2020-03-26T01:37:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3622055?u=89ea072f9ec7b8a0c820830aa4be949c6f33450f&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/" rel="nofollow">https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/</a></p>]]></content>
         <author>
-            <name>Goldmaster</name>
-            <email>Goldmaster@noreply.github.com</email>
-            <uri>https://github.com/Goldmaster</uri>
+            <name>joeyklee</name>
+            <email>joeyklee@noreply.github.com</email>
+            <uri>https://github.com/joeyklee</uri>
         </author>
-        <published>2025-07-02T16:15:44.000Z</published>
+        <published>2020-03-26T01:37:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expand to full ActivityPub server]]></title>
+        <id>https://github.com/snscaimito/social-blogging/issues/7</id>
+        <link href="https://github.com/snscaimito/social-blogging/issues/7"/>
+        <updated>2024-03-03T20:09:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/218088?v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/" rel="nofollow">https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/</a></p>]]></content>
+        <author>
+            <name>snscaimito</name>
+            <email>snscaimito@noreply.github.com</email>
+            <uri>https://github.com/snscaimito</uri>
+        </author>
+        <published>2024-03-03T20:08:43.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[A User's Struggle: Cloudflare's GDPR Compliance Questioned After Repeated Unwanted Emails / CloudflareのGDPR遵守に疑問符：アカウント削除後も続く迷惑メール、あるユーザーの闘いの記録]]></title>
@@ -220,135 +312,6 @@
             <uri>https://github.com/apps/sawaraken</uri>
         </author>
         <published>2025-06-23T15:16:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social Login Auth]]></title>
-        <id>https://github.com/Studio-Link/mix/issues/71</id>
-        <link href="https://github.com/Studio-Link/mix/issues/71"/>
-        <updated>2025-06-02T08:26:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/296762?u=4a9af9ea754af083ffeed0928e149e0f5c0f8709&v=4" width="64" height="64" alt=""/><br/><p dir="auto">References:</p>
-<ul dir="auto">
-<li><a href="https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/" rel="nofollow">https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/</a></li>
-<li><a href="https://swicg.github.io/activitypub-http-signature/#how-to-obtain-a-signature-s-public-key" rel="nofollow">https://swicg.github.io/activitypub-http-signature/#how-to-obtain-a-signature-s-public-key</a></li>
-<li><a href="https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/" rel="nofollow">https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/</a></li>
-</ul>]]></content>
-        <author>
-            <name>sreimers</name>
-            <email>sreimers@noreply.github.com</email>
-            <uri>https://github.com/sreimers</uri>
-        </author>
-        <published>2025-06-02T08:26:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time to 200]]></title>
-        <id>https://github.com/dwyl/learn-api-design/issues/43</id>
-        <link href="https://github.com/dwyl/learn-api-design/issues/43"/>
-        <updated>2021-05-25T08:21:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/194400?u=405fb897c18f414ea8c4f4f2613fbef605855f02&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/" rel="nofollow">https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/</a></p>]]></content>
-        <author>
-            <name>nelsonic</name>
-            <email>nelsonic@noreply.github.com</email>
-            <uri>https://github.com/nelsonic</uri>
-        </author>
-        <published>2021-05-25T07:22:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expand to full ActivityPub server]]></title>
-        <id>https://github.com/snscaimito/social-blogging/issues/7</id>
-        <link href="https://github.com/snscaimito/social-blogging/issues/7"/>
-        <updated>2024-03-03T20:09:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/218088?v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/" rel="nofollow">https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/</a></p>]]></content>
-        <author>
-            <name>snscaimito</name>
-            <email>snscaimito@noreply.github.com</email>
-            <uri>https://github.com/snscaimito</uri>
-        </author>
-        <published>2024-03-03T20:08:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why bother with What3words?]]></title>
-        <id>https://github.com/all-maps-lie/all-maps-lie-2020/issues/46</id>
-        <link href="https://github.com/all-maps-lie/all-maps-lie-2020/issues/46"/>
-        <updated>2020-03-26T01:37:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3622055?u=89ea072f9ec7b8a0c820830aa4be949c6f33450f&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/" rel="nofollow">https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/</a></p>]]></content>
-        <author>
-            <name>joeyklee</name>
-            <email>joeyklee@noreply.github.com</email>
-            <uri>https://github.com/joeyklee</uri>
-        </author>
-        <published>2020-03-26T01:37:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove 3rd party resources (e.g. fonts, JS)]]></title>
-        <id>https://github.com/JuliaActuary/JuliaActuary.org/issues/7</id>
-        <link href="https://github.com/JuliaActuary/JuliaActuary.org/issues/7"/>
-        <updated>2021-10-03T19:31:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/711879?u=5e7f92ccc07727dcbe7cf785daafa9c473e0e716&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/" rel="nofollow">https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/</a></p>]]></content>
-        <author>
-            <name>alecloudenback</name>
-            <email>alecloudenback@noreply.github.com</email>
-            <uri>https://github.com/alecloudenback</uri>
-        </author>
-        <published>2020-10-20T11:40:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tracking support for non-ascii characters]]></title>
-        <id>https://github.com/swicg/activitypub-webfinger/issues/29</id>
-        <link href="https://github.com/swicg/activitypub-webfinger/issues/29"/>
-        <updated>2025-10-07T19:54:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6770?u=85e683e6edf44982a2d847e6bb28c63a53fbc43e&v=4" width="64" height="64" alt=""/><br/><p dir="auto">One of the benefits of using Webfinger is that it's possible, at least in theory, to use non-ascii characters for usernames. Unfortunately, there are not a lot of services that support them -- at least according to our document.</p>
-<p dir="auto">For the top human languages, only 3 primarily use only non-ASCII characters (English, Malaysian, Indonesian), for a total of about 500 million people. That means about 90% of humans use languages with non-Latin, or accented, character sets.</p>
-<p dir="auto">We have an opportunity to let people in the global majority use their names or words in their own language as usernames.</p>
-<p dir="auto">This is a huge win for making software that focuses on real people.</p>
-<p dir="auto">I propose we start:</p>
-<ul dir="auto">
-<li>Working on proof-of-concept implementations that use non-ASCII characters in <code class="notranslate">preferredUsername</code>, <code class="notranslate">webfinger</code> and the Webfinger username (with percent hashes)</li>
-<li>Report issues on major ActivityPub implementations to start the process of supporting non-ASCII characters in usernames</li>
-<li>Track interoperability</li>
-</ul>]]></content>
-        <author>
-            <name>evanp</name>
-            <email>evanp@noreply.github.com</email>
-            <uri>https://github.com/evanp</uri>
-        </author>
-        <published>2025-08-02T17:52:46.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get the location of the ISS using DNS / DNSを使って国際宇宙ステーション(ISS)の位置を知る]]></title>
-        <id>https://github.com/xhiroga/news/issues/950</id>
-        <link href="https://github.com/xhiroga/news/issues/950"/>
-        <updated>2025-07-06T13:01:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/1375152?v=4" width="64" height="64" alt=""/><br/><markdown-accessiblity-table><table role="table">
-<thead>
-<tr>
-<th></th>
-<th>URL</th>
-<th>Author</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>News</td>
-<td><a href="https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/" rel="nofollow">https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/</a></td>
-<td>Terence Eden</td>
-</tr>
-<tr>
-<td>Original</td>
-<td><a href="https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/" rel="nofollow">https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/</a></td>
-<td>Terence Eden</td>
-</tr>
-</tbody>
-</table></markdown-accessiblity-table>
-<hr>
-<p dir="auto">A fun project that uses an experimental DNS <code class="notranslate">LOC</code> record to provide the real-time location of the International Space Station. The author details how they fetch data from an API, convert it to the required format (latitude, longitude, altitude), and update the DNS record every 15 minutes. It's a creative demonstration of using DNS for more than just resolving domain names.</p>
-<hr>
-<p dir="auto">実験的なDNSの<code class="notranslate">LOC</code>レコードを使い、国際宇宙ステーション(ISS)のリアルタイムな位置情報を提供する面白いプロジェクトです。著者はAPIから位置データを取得し、緯度・経度・高度などの必要な形式に変換し、15分ごとにDNSレコードを更新する方法を解説しています。これは、単なるドメイン名解決以上のDNSの創造的な使い方を示すデモンストレーションです。</p>]]></content>
-        <author>
-            <name>sawaraken</name>
-            <email>sawaraken@noreply.github.com</email>
-            <uri>https://github.com/apps/sawaraken</uri>
-        </author>
-        <published>2025-07-06T13:01:02.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Research Untappd API for getting beers]]></title>
@@ -393,10 +356,23 @@
         <published>2025-01-14T18:19:43.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reading NFC Passports in Linux with the Python library `pypassport` / LinuxでNFCパスポートを読み取る！Pythonライブラリ`pypassport`活用術]]></title>
-        <id>https://github.com/xhiroga/news/issues/454</id>
-        <link href="https://github.com/xhiroga/news/issues/454"/>
-        <updated>2025-06-25T08:01:35.000Z</updated>
+        <title type="html"><![CDATA[ActivityPub Support]]></title>
+        <id>https://github.com/mybb/mybb/issues/4832</id>
+        <link href="https://github.com/mybb/mybb/issues/4832"/>
+        <updated>2025-07-12T12:40:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/67508272?u=036bf159a21a5249e27da1315e46d9cdd3343222&v=4" width="64" height="64" alt=""/><br/><p dir="auto">It would be nice for MyBB to support ActivityPub: <a href="https://activitypub.rocks/" rel="nofollow">https://activitypub.rocks/</a></p>]]></content>
+        <author>
+            <name>avidseeker</name>
+            <email>avidseeker@noreply.github.com</email>
+            <uri>https://github.com/avidseeker</uri>
+        </author>
+        <published>2024-06-06T18:59:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get the location of the ISS using DNS / DNSを使って国際宇宙ステーション(ISS)の位置を知る]]></title>
+        <id>https://github.com/xhiroga/news/issues/950</id>
+        <link href="https://github.com/xhiroga/news/issues/950"/>
+        <updated>2025-07-06T13:01:02.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/1375152?v=4" width="64" height="64" alt=""/><br/><markdown-accessiblity-table><table role="table">
 <thead>
 <tr>
@@ -408,25 +384,25 @@
 <tbody>
 <tr>
 <td>News</td>
-<td><a href="https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/" rel="nofollow">https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/</a></td>
-<td>shkspr.mobi</td>
+<td><a href="https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/" rel="nofollow">https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/</a></td>
+<td>Terence Eden</td>
 </tr>
 <tr>
 <td>Original</td>
-<td><a href="https://github.com/roeften/pypassport">https://github.com/roeften/pypassport</a></td>
-<td>roeften</td>
+<td><a href="https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/" rel="nofollow">https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/</a></td>
+<td>Terence Eden</td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
 <hr>
-<p dir="auto">The article explains how to read data from an NFC passport chip in a Linux environment. After trying several tools, the author successfully used the Python library 'pypassport'. The post details how to reconstruct the Machine Readable Zone (MRZ) even if it's missing, using the passport number, date of birth, and expiration date. It also provides specific code examples for extracting facial image data and its metadata, such as the coordinates of the center of the eyes, stored on the chip.</p>
+<p dir="auto">A fun project that uses an experimental DNS <code class="notranslate">LOC</code> record to provide the real-time location of the International Space Station. The author details how they fetch data from an API, convert it to the required format (latitude, longitude, altitude), and update the DNS record every 15 minutes. It's a creative demonstration of using DNS for more than just resolving domain names.</p>
 <hr>
-<p dir="auto">この記事では、Linux環境でNFCパスポートのチップからデータを読み取る方法を紹介しています。筆者は複数のツールを試した結果、Pythonライブラリ「pypassport」の利用に成功しました。パスポートのMachine Readable Zone (MRZ)が欠損していても、パスポート番号・生年月日・有効期限から再構築する方法や、チップに保存されている顔写真データとそのメタデータ（目の中心座標など）を抽出する具体的なコードが共有されています。</p>]]></content>
+<p dir="auto">実験的なDNSの<code class="notranslate">LOC</code>レコードを使い、国際宇宙ステーション(ISS)のリアルタイムな位置情報を提供する面白いプロジェクトです。著者はAPIから位置データを取得し、緯度・経度・高度などの必要な形式に変換し、15分ごとにDNSレコードを更新する方法を解説しています。これは、単なるドメイン名解決以上のDNSの創造的な使い方を示すデモンストレーションです。</p>]]></content>
         <author>
             <name>sawaraken</name>
             <email>sawaraken@noreply.github.com</email>
             <uri>https://github.com/apps/sawaraken</uri>
         </author>
-        <published>2025-06-25T08:01:35.000Z</published>
+        <published>2025-07-06T13:01:02.000Z</published>
     </entry>
 </feed>

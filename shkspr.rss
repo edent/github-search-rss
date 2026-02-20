@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-02-19T23:20:02.624Z</updated>
+    <updated>2026-02-20T01:04:00.400Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -54,9 +54,9 @@
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE1NDM1MDIsIm5iZiI6MTc3MTU0MzIwMiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE5VDIzMjAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA1NDUxNzAzMWQxMGNlMjc4M2U5MjE0ZWQ4M2E0MGQ1OTI3OGQ4Y2JhMDk4OTc5OWQzNTExZGQ2ZjQ4Mzk3M2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kNSpOdT8IUHF-YkBHJuN_1D2Nb3FcVm-l7FOwnPcj_A"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE1NDM1MDIsIm5iZiI6MTc3MTU0MzIwMiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE5VDIzMjAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA1NDUxNzAzMWQxMGNlMjc4M2U5MjE0ZWQ4M2E0MGQ1OTI3OGQ4Y2JhMDk4OTc5OWQzNTExZGQ2ZjQ4Mzk3M2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kNSpOdT8IUHF-YkBHJuN_1D2Nb3FcVm-l7FOwnPcj_A" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE1NDM1MDIsIm5iZiI6MTc3MTU0MzIwMiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE5VDIzMjAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3Y2FlMTEyYTg0M2JjNTdhMWE3NDJlYzlhOTg4N2ExYzk4YmFlMjg4YWYyOWYxNTgzYjlmZTgzYTA4NWE4ZjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-sIYwiC5eJlt51FGs7seJREyAEj1fl4uTZp04jeYono"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE1NDM1MDIsIm5iZiI6MTc3MTU0MzIwMiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE5VDIzMjAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3Y2FlMTEyYTg0M2JjNTdhMWE3NDJlYzlhOTg4N2ExYzk4YmFlMjg4YWYyOWYxNTgzYjlmZTgzYTA4NWE4ZjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-sIYwiC5eJlt51FGs7seJREyAEj1fl4uTZp04jeYono" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE1NDM1MDIsIm5iZiI6MTc3MTU0MzIwMiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE5VDIzMjAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5YWQ3NjExNDliM2NlZjA1YTk4MWY1NzE2ZDAxOGU2ZDUxMzAxYjMzYjlkNWY0MTcwZjFlMjUxOWJlODI4ZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Q0XLYZvHaCzaBc-0HAYeFUJUrsLdRg3emFm9RwBLYBw"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE1NDM1MDIsIm5iZiI6MTc3MTU0MzIwMiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjE5VDIzMjAwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5YWQ3NjExNDliM2NlZjA1YTk4MWY1NzE2ZDAxOGU2ZDUxMzAxYjMzYjlkNWY0MTcwZjFlMjUxOWJlODI4ZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Q0XLYZvHaCzaBc-0HAYeFUJUrsLdRg3emFm9RwBLYBw" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE1NDk3NDAsIm5iZiI6MTc3MTU0OTQ0MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIwVDAxMDQwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE5OGQ3OWQyOTVmNWE4YzMwZWY4NmMyMDgwMDkyODRlZjM5ODU0NTc4YTRjNTM2ODc4ZTU5ODRmZTQ2MjQ3ZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WyNcfZftv3VNVo5nSU9EjBtKjzihm4LTC70VKQFIOmc"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE1NDk3NDAsIm5iZiI6MTc3MTU0OTQ0MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIwVDAxMDQwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE5OGQ3OWQyOTVmNWE4YzMwZWY4NmMyMDgwMDkyODRlZjM5ODU0NTc4YTRjNTM2ODc4ZTU5ODRmZTQ2MjQ3ZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WyNcfZftv3VNVo5nSU9EjBtKjzihm4LTC70VKQFIOmc" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE1NDk3NDAsIm5iZiI6MTc3MTU0OTQ0MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIwVDAxMDQwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBiMTQ0ODYxNWYwMWRmNzA1MzZmMDMyZDFjODBmN2MwOTZjMWM2OTNlZjQ1MzI5MTlhNGZjZWJjNDMwYzBiNGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RwurNEfd0uV7tE3KSW3INgwvS0aCnAq_Ok5jKRC28h8"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE1NDk3NDAsIm5iZiI6MTc3MTU0OTQ0MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIwVDAxMDQwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBiMTQ0ODYxNWYwMWRmNzA1MzZmMDMyZDFjODBmN2MwOTZjMWM2OTNlZjQ1MzI5MTlhNGZjZWJjNDMwYzBiNGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RwurNEfd0uV7tE3KSW3INgwvS0aCnAq_Ok5jKRC28h8" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE1NDk3NDAsIm5iZiI6MTc3MTU0OTQ0MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIwVDAxMDQwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhOTFhMTE0NTMzNjM2ZjNjZDRiZDEzNTNjMDM4ZmU0NWZiODY3ZDk1Yzc2ZmNmMGI3M2NiZDJhOGQ1YTgwZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rQ63qiy0jV5756pnfqfV_7JNaIBZ_jCLIxiIHvGWbXA"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE1NDk3NDAsIm5iZiI6MTc3MTU0OTQ0MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIwVDAxMDQwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhOTFhMTE0NTMzNjM2ZjNjZDRiZDEzNTNjMDM4ZmU0NWZiODY3ZDk1Yzc2ZmNmMGI3M2NiZDJhOGQ1YTgwZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rQ63qiy0jV5756pnfqfV_7JNaIBZ_jCLIxiIHvGWbXA" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -249,43 +249,6 @@
         <published>2025-01-14T18:19:43.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A CSS Trick: Styling Specific Characters Without Extra Markup / CSSの小技：マークアップなしで特定の文字をスタイリングする方法]]></title>
-        <id>https://github.com/xhiroga/news/issues/3569</id>
-        <link href="https://github.com/xhiroga/news/issues/3569"/>
-        <updated>2025-09-26T19:01:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/1375152?v=4" width="64" height="64" alt=""/><br/><markdown-accessiblity-table><table role="table">
-<thead>
-<tr>
-<th></th>
-<th>URL</th>
-<th>Author</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>News</td>
-<td><a href="https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/" rel="nofollow">https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/</a></td>
-<td>Terence Eden</td>
-</tr>
-<tr>
-<td>Original</td>
-<td><a href="https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/" rel="nofollow">https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/</a></td>
-<td>Terence Eden</td>
-</tr>
-</tbody>
-</table></markdown-accessiblity-table>
-<hr>
-<p dir="auto">This article introduces a clever CSS technique to style specific characters without wrapping them in <code class="notranslate">&lt;span&gt;</code> tags. By using the <code class="notranslate">@font-face</code> rule with the <code class="notranslate">unicode-range</code> property, you can apply a different font to certain characters. The author further explores using the COLR table in WOFF2 fonts to even apply different colors, allowing for creative text effects with pure CSS.</p>
-<hr>
-<p dir="auto">この記事では、<code class="notranslate">&lt;span&gt;</code>タグで囲むことなく特定の文字をスタイリングするCSSの巧妙なテクニックを紹介しています。<code class="notranslate">@font-face</code>ルールと<code class="notranslate">unicode-range</code>プロパティを組み合わせることで、特定の文字にだけ異なるフォントを適用できます。さらに、WOFF2フォントのCOLRテーブルを利用して文字ごとに色を変える方法も解説しており、CSSだけでクリエイティブなテキスト表現を可能にします。</p>]]></content>
-        <author>
-            <name>sawaraken</name>
-            <email>sawaraken@noreply.github.com</email>
-            <uri>https://github.com/apps/sawaraken</uri>
-        </author>
-        <published>2025-09-26T19:01:05.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A User's Struggle: Cloudflare's GDPR Compliance Questioned After Repeated Unwanted Emails / CloudflareのGDPR遵守に疑問符：アカウント削除後も続く迷惑メール、あるユーザーの闘いの記録]]></title>
         <id>https://github.com/xhiroga/news/issues/411</id>
         <link href="https://github.com/xhiroga/news/issues/411"/>
@@ -321,6 +284,43 @@
             <uri>https://github.com/apps/sawaraken</uri>
         </author>
         <published>2025-06-23T15:16:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A CSS Trick: Styling Specific Characters Without Extra Markup / CSSの小技：マークアップなしで特定の文字をスタイリングする方法]]></title>
+        <id>https://github.com/xhiroga/news/issues/3569</id>
+        <link href="https://github.com/xhiroga/news/issues/3569"/>
+        <updated>2025-09-26T19:01:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/1375152?v=4" width="64" height="64" alt=""/><br/><markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th></th>
+<th>URL</th>
+<th>Author</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>News</td>
+<td><a href="https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/" rel="nofollow">https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/</a></td>
+<td>Terence Eden</td>
+</tr>
+<tr>
+<td>Original</td>
+<td><a href="https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/" rel="nofollow">https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/</a></td>
+<td>Terence Eden</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<hr>
+<p dir="auto">This article introduces a clever CSS technique to style specific characters without wrapping them in <code class="notranslate">&lt;span&gt;</code> tags. By using the <code class="notranslate">@font-face</code> rule with the <code class="notranslate">unicode-range</code> property, you can apply a different font to certain characters. The author further explores using the COLR table in WOFF2 fonts to even apply different colors, allowing for creative text effects with pure CSS.</p>
+<hr>
+<p dir="auto">この記事では、<code class="notranslate">&lt;span&gt;</code>タグで囲むことなく特定の文字をスタイリングするCSSの巧妙なテクニックを紹介しています。<code class="notranslate">@font-face</code>ルールと<code class="notranslate">unicode-range</code>プロパティを組み合わせることで、特定の文字にだけ異なるフォントを適用できます。さらに、WOFF2フォントのCOLRテーブルを利用して文字ごとに色を変える方法も解説しており、CSSだけでクリエイティブなテキスト表現を可能にします。</p>]]></content>
+        <author>
+            <name>sawaraken</name>
+            <email>sawaraken@noreply.github.com</email>
+            <uri>https://github.com/apps/sawaraken</uri>
+        </author>
+        <published>2025-09-26T19:01:05.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Date Icon ]]></title>

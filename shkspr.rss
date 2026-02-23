@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-02-23T20:33:04.621Z</updated>
+    <updated>2026-02-23T21:33:27.046Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -34,6 +34,19 @@
         <published>2025-12-30T16:32:52.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Implement quote posts]]></title>
+        <id>https://github.com/sfomuseum/go-activitypub/issues/26</id>
+        <link href="https://github.com/sfomuseum/go-activitypub/issues/26"/>
+        <updated>2025-10-06T19:40:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12658759?u=43cf40a92021fffcceff7ac098fd7305faac4802&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2025/10/getting-started-with-mastodons-quote-posts-technical-implementation-details-for-servers/" rel="nofollow">https://shkspr.mobi/blog/2025/10/getting-started-with-mastodons-quote-posts-technical-implementation-details-for-servers/</a></p>]]></content>
+        <author>
+            <name>thisisaaronland</name>
+            <email>thisisaaronland@noreply.github.com</email>
+            <uri>https://github.com/thisisaaronland</uri>
+        </author>
+        <published>2025-10-06T19:40:47.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[fix: use `<time>` tag]]></title>
         <id>https://github.com/siebenmann/dwiki/pull/2</id>
         <link href="https://github.com/siebenmann/dwiki/pull/2"/>
@@ -50,67 +63,6 @@
         <published>2024-07-04T01:18:22.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[feat: use `<time>` tag]]></title>
-        <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
-        <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
-        <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE4NzkwODQsIm5iZiI6MTc3MTg3ODc4NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIzVDIwMzMwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMxZmFlMTk5NzcwMTVkYjBmNTBiNjk2OTYwMGEyYzc4NjdlZDYxNTI5Y2YzZTRhY2ViZTBlYWMxMGY3YTE2YjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pUYtw7SWnzGh1nrg4xBpB4XWlrgNbNnhEkybBycgPUg"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE4NzkwODQsIm5iZiI6MTc3MTg3ODc4NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIzVDIwMzMwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMxZmFlMTk5NzcwMTVkYjBmNTBiNjk2OTYwMGEyYzc4NjdlZDYxNTI5Y2YzZTRhY2ViZTBlYWMxMGY3YTE2YjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pUYtw7SWnzGh1nrg4xBpB4XWlrgNbNnhEkybBycgPUg" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE4NzkwODQsIm5iZiI6MTc3MTg3ODc4NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIzVDIwMzMwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiYjA2OWU1YTBhYmVmMTBiYTFmODc0Y2IzNjM5YmY4M2EwMzZmNWUxZTcxYjliZDZlMDk5ZjQ3MmY2M2Q4YzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ui1sOIekwHR196MmpWuisWcAQcWVvSeh7pftjD3CuZE"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE4NzkwODQsIm5iZiI6MTc3MTg3ODc4NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIzVDIwMzMwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiYjA2OWU1YTBhYmVmMTBiYTFmODc0Y2IzNjM5YmY4M2EwMzZmNWUxZTcxYjliZDZlMDk5ZjQ3MmY2M2Q4YzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ui1sOIekwHR196MmpWuisWcAQcWVvSeh7pftjD3CuZE" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE4NzkwODQsIm5iZiI6MTc3MTg3ODc4NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIzVDIwMzMwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFlZjY1NzFlMTlhY2YxZDA4ZjVjY2IzODQwMWZjZjA3NDMyODk0MjRhMjViMTI4MTZiMzRmYzUyMjllMTRiZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Q2vbt6XVxOc2a_GvkAZ39PaVYaHaqLO39f5vme-RhRY"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE4NzkwODQsIm5iZiI6MTc3MTg3ODc4NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIzVDIwMzMwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFlZjY1NzFlMTlhY2YxZDA4ZjVjY2IzODQwMWZjZjA3NDMyODk0MjRhMjViMTI4MTZiMzRmYzUyMjllMTRiZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Q2vbt6XVxOc2a_GvkAZ39PaVYaHaqLO39f5vme-RhRY" alt="image" style="max-width: 100%;"></a></p>
-<p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
-<p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
-        <author>
-            <name>scarf005</name>
-            <email>scarf005@noreply.github.com</email>
-            <uri>https://github.com/scarf005</uri>
-        </author>
-        <published>2025-03-15T12:31:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[update!: Add Firefox Relay]]></title>
-        <id>https://github.com/privacyguides/privacyguides.org/pull/3070</id>
-        <link href="https://github.com/privacyguides/privacyguides.org/pull/3070"/>
-        <updated>2026-02-18T14:56:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7105970?u=89742e942b73152c9fdd230b6eedf096a71e58b7&v=4" width="64" height="64" alt=""/><br/><p dir="auto">List of changes proposed in this PR:</p>
-<ul dir="auto">
-<li>
-<p dir="auto">This pull request aims to add Firefox relay to the email aliasing page.</p>
-</li>
-<li>
-<p dir="auto">I do use Firefox relay and I am a premium user</p>
-</li>
-</ul>
-<p dir="auto">There have been some talk about adding it</p>
-<ul dir="auto">
-<li>
-<p dir="auto"><a href="https://discuss.privacyguides.net/t/add-mozilla-relay-to-aliasing-services/22638" rel="nofollow">https://discuss.privacyguides.net/t/add-mozilla-relay-to-aliasing-services/22638</a></p>
-</li>
-<li>
-<p dir="auto"><a href="https://discuss.privacyguides.net/t/can-firefox-relay-be-trusted/15800" rel="nofollow">https://discuss.privacyguides.net/t/can-firefox-relay-be-trusted/15800</a></p>
-</li>
-</ul>
-<p dir="auto">Thoughts?</p>]]></content>
-        <author>
-            <name>Goldmaster</name>
-            <email>Goldmaster@noreply.github.com</email>
-            <uri>https://github.com/Goldmaster</uri>
-        </author>
-        <published>2025-07-02T16:15:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implement quote posts]]></title>
-        <id>https://github.com/sfomuseum/go-activitypub/issues/26</id>
-        <link href="https://github.com/sfomuseum/go-activitypub/issues/26"/>
-        <updated>2025-10-06T19:40:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12658759?u=43cf40a92021fffcceff7ac098fd7305faac4802&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2025/10/getting-started-with-mastodons-quote-posts-technical-implementation-details-for-servers/" rel="nofollow">https://shkspr.mobi/blog/2025/10/getting-started-with-mastodons-quote-posts-technical-implementation-details-for-servers/</a></p>]]></content>
-        <author>
-            <name>thisisaaronland</name>
-            <email>thisisaaronland@noreply.github.com</email>
-            <uri>https://github.com/thisisaaronland</uri>
-        </author>
-        <published>2025-10-06T19:40:47.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[style rss feed]]></title>
         <id>https://github.com/RMHogervorst/blog/issues/103</id>
         <link href="https://github.com/RMHogervorst/blog/issues/103"/>
@@ -122,6 +74,23 @@
             <uri>https://github.com/RMHogervorst</uri>
         </author>
         <published>2025-06-24T13:34:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: use `<time>` tag]]></title>
+        <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
+        <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
+        <updated>2025-03-15T12:31:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE4ODI3MDYsIm5iZiI6MTc3MTg4MjQwNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIzVDIxMzMyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNlZjVmN2FlYWE2YTk3MGNhNTY5YmZiMWU5ZTdlZGFjZTgxOTM4MmUzNDZmOTgyY2FjMWUxNzNiMTk0NDczMDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.poHgoD4fY_BRiNP0jn7NsWYA6VfND-P_jPoS8VU72YY"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE4ODI3MDYsIm5iZiI6MTc3MTg4MjQwNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIzVDIxMzMyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNlZjVmN2FlYWE2YTk3MGNhNTY5YmZiMWU5ZTdlZGFjZTgxOTM4MmUzNDZmOTgyY2FjMWUxNzNiMTk0NDczMDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.poHgoD4fY_BRiNP0jn7NsWYA6VfND-P_jPoS8VU72YY" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE4ODI3MDYsIm5iZiI6MTc3MTg4MjQwNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIzVDIxMzMyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgzOTJkMzJkMmJlNDc0ZDdjOTAzZTk5MTQxM2YxY2FiMDI5YWZiOWFlNTM0MDAxNjBhNGQ1Njc2OTFkM2I4ZDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.s_nPi96yd8eAG5luwOaFI_0A9nns6zkxpW7wQpbPr3M"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE4ODI3MDYsIm5iZiI6MTc3MTg4MjQwNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIzVDIxMzMyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgzOTJkMzJkMmJlNDc0ZDdjOTAzZTk5MTQxM2YxY2FiMDI5YWZiOWFlNTM0MDAxNjBhNGQ1Njc2OTFkM2I4ZDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.s_nPi96yd8eAG5luwOaFI_0A9nns6zkxpW7wQpbPr3M" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE4ODI3MDYsIm5iZiI6MTc3MTg4MjQwNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIzVDIxMzMyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM2ZTUzYTczMTY0MjRhNTcxMDczNGQwNzE0MjJmODY4YjYyNGQ0N2NkYjE4ZmEwOGUyMGQ0MDUyYzYwNjcyMTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xFF8PnH2nDpSTKPUP7iK38pj8xgwhheBwCeDTWkjawU"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE4ODI3MDYsIm5iZiI6MTc3MTg4MjQwNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjIzVDIxMzMyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM2ZTUzYTczMTY0MjRhNTcxMDczNGQwNzE0MjJmODY4YjYyNGQ0N2NkYjE4ZmEwOGUyMGQ0MDUyYzYwNjcyMTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xFF8PnH2nDpSTKPUP7iK38pj8xgwhheBwCeDTWkjawU" alt="image" style="max-width: 100%;"></a></p>
+<p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
+<p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
+        <author>
+            <name>scarf005</name>
+            <email>scarf005@noreply.github.com</email>
+            <uri>https://github.com/scarf005</uri>
+        </author>
+        <published>2025-03-15T12:31:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Testing on low-fi browsers]]></title>
@@ -317,6 +286,37 @@
             <uri>https://github.com/jonnybarnes</uri>
         </author>
         <published>2018-11-04T14:51:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[update!: Add Firefox Relay]]></title>
+        <id>https://github.com/privacyguides/privacyguides.org/pull/3070</id>
+        <link href="https://github.com/privacyguides/privacyguides.org/pull/3070"/>
+        <updated>2026-02-18T14:56:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7105970?u=89742e942b73152c9fdd230b6eedf096a71e58b7&v=4" width="64" height="64" alt=""/><br/><p dir="auto">List of changes proposed in this PR:</p>
+<ul dir="auto">
+<li>
+<p dir="auto">This pull request aims to add Firefox relay to the email aliasing page.</p>
+</li>
+<li>
+<p dir="auto">I do use Firefox relay and I am a premium user</p>
+</li>
+</ul>
+<p dir="auto">There have been some talk about adding it</p>
+<ul dir="auto">
+<li>
+<p dir="auto"><a href="https://discuss.privacyguides.net/t/add-mozilla-relay-to-aliasing-services/22638" rel="nofollow">https://discuss.privacyguides.net/t/add-mozilla-relay-to-aliasing-services/22638</a></p>
+</li>
+<li>
+<p dir="auto"><a href="https://discuss.privacyguides.net/t/can-firefox-relay-be-trusted/15800" rel="nofollow">https://discuss.privacyguides.net/t/can-firefox-relay-be-trusted/15800</a></p>
+</li>
+</ul>
+<p dir="auto">Thoughts?</p>]]></content>
+        <author>
+            <name>Goldmaster</name>
+            <email>Goldmaster@noreply.github.com</email>
+            <uri>https://github.com/Goldmaster</uri>
+        </author>
+        <published>2025-07-02T16:15:44.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Character encoding - `@` not coming through]]></title>

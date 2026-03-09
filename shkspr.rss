@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-03-09T18:36:36.465Z</updated>
+    <updated>2026-03-09T19:32:32.206Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[Support unquoted HTML attributes in feed link parsing]]></title>
+        <id>https://github.com/Roald87/FeedReader/pull/3</id>
+        <link href="https://github.com/Roald87/FeedReader/pull/3"/>
+        <updated>2026-03-09T19:31:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/20192767?u=834cb836c31dc8785f67cba7791a479e4dcd82a9&v=4" width="64" height="64" alt=""/><br/><h2 dir="auto">Summary</h2>
+<ul dir="auto">
+<li>Fix <code class="notranslate">ParseFeedUrlsFromHtml</code> regex to match <code class="notranslate">rel=alternate</code> without quotes (valid HTML5)</li>
+<li>Fix <code class="notranslate">GetAttributeFromLinkTag</code> to handle both quoted and unquoted attribute values</li>
+<li>Upgrade target frameworks from net8.0 to net10.0</li>
+<li>Add tests covering unquoted attributes and a real-world HTML fixture from shkspr.mobi</li>
+</ul>
+<h2 dir="auto">Test plan</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" aria-label="Incomplete task"> <code class="notranslate">TestUnquotedAttributes</code> — parses a link tag with all unquoted attributes correctly</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" aria-label="Incomplete task"> <code class="notranslate">ParseFeedsShksprMobi</code> — parses the shkspr.mobi HTML fixture and finds both Atom and RSS feeds</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" aria-label="Incomplete task"> All existing tests still pass (2 timezone-sensitive <code class="notranslate">TestDateTimeParse</code> cases were already failing before this change)</li>
+</ul>
+<p dir="auto">🤖 Generated with <a href="https://claude.com/claude-code" rel="nofollow">Claude Code</a></p>]]></content>
+        <author>
+            <name>Roald87</name>
+            <email>Roald87@noreply.github.com</email>
+            <uri>https://github.com/Roald87</uri>
+        </author>
+        <published>2026-03-09T18:44:51.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Consider changing to https://openfreemap.org/]]></title>
         <id>https://github.com/openheritage/open-plaques-4/issues/248</id>
@@ -38,9 +64,9 @@
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwODE2OTYsIm5iZiI6MTc3MzA4MTM5NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA5VDE4MzYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyNjJjNmQwZWVhNDNmOTcxMzQ2Y2E1ODE3MzA2NGRkZDkxZTdiZWMxZjdhZTlhMjIyZGNmYjAzMjAzNDA5ZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.mlXu6sDwW6XxIs9cV0zzmG8n3EAnYZbdn5KC4kUTA00"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwODE2OTYsIm5iZiI6MTc3MzA4MTM5NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA5VDE4MzYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyNjJjNmQwZWVhNDNmOTcxMzQ2Y2E1ODE3MzA2NGRkZDkxZTdiZWMxZjdhZTlhMjIyZGNmYjAzMjAzNDA5ZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.mlXu6sDwW6XxIs9cV0zzmG8n3EAnYZbdn5KC4kUTA00" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwODE2OTYsIm5iZiI6MTc3MzA4MTM5NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA5VDE4MzYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdhODdiYTA2NGE3ZTg1NDdjMjRmMTdiM2I5ZmE2NmNmMTg4YWY2NjZkZmU3ZjRlZTA3NDU0OTAzYzI5YWI0NTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NNbJlJS-MPlhfsmLkTsl4e7agD2p9NamB9R-tj-KVGc"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwODE2OTYsIm5iZiI6MTc3MzA4MTM5NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA5VDE4MzYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdhODdiYTA2NGE3ZTg1NDdjMjRmMTdiM2I5ZmE2NmNmMTg4YWY2NjZkZmU3ZjRlZTA3NDU0OTAzYzI5YWI0NTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NNbJlJS-MPlhfsmLkTsl4e7agD2p9NamB9R-tj-KVGc" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwODE2OTYsIm5iZiI6MTc3MzA4MTM5NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA5VDE4MzYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZjMmVhMmI0ZTYwMDlkZGZhM2UxNTBiN2FhZmRjMmNjYjE0MDdkYzE5NDNjOGIwNzllMGFkZDM0ZGU1YzdjZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.28l8KWB3nJ_zcgSeUXabqfU2L-zAZxboECyFRFn_-Kc"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwODE2OTYsIm5iZiI6MTc3MzA4MTM5NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA5VDE4MzYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZjMmVhMmI0ZTYwMDlkZGZhM2UxNTBiN2FhZmRjMmNjYjE0MDdkYzE5NDNjOGIwNzllMGFkZDM0ZGU1YzdjZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.28l8KWB3nJ_zcgSeUXabqfU2L-zAZxboECyFRFn_-Kc" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwODUwNTIsIm5iZiI6MTc3MzA4NDc1MiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA5VDE5MzIzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkNjdhNzAyMDUzZTE3MjU0ZTJmZDRiZGNiN2Q1MmQ4OWFmYzY5YzVmOWRlZTcwNWI2Y2E4N2JlODc1OWUyZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YOJaDCOSdOo-QcwAdYOXi6hNpHMWW57RK9Du7dvA7R0"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwODUwNTIsIm5iZiI6MTc3MzA4NDc1MiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA5VDE5MzIzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkNjdhNzAyMDUzZTE3MjU0ZTJmZDRiZGNiN2Q1MmQ4OWFmYzY5YzVmOWRlZTcwNWI2Y2E4N2JlODc1OWUyZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YOJaDCOSdOo-QcwAdYOXi6hNpHMWW57RK9Du7dvA7R0" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwODUwNTIsIm5iZiI6MTc3MzA4NDc1MiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA5VDE5MzIzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2OGE4YTY1MjQzYjhjNjQ5Y2IyYjEyYzVlMDQxNjI3YTY4YjZhNTkxMGYzODc0YmJlOGExNmRlODgxNmY0NjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FYrPMV64AquFyFJkEf57a_Xf2_yYJGEkmLuWFCwXv-k"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwODUwNTIsIm5iZiI6MTc3MzA4NDc1MiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA5VDE5MzIzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2OGE4YTY1MjQzYjhjNjQ5Y2IyYjEyYzVlMDQxNjI3YTY4YjZhNTkxMGYzODc0YmJlOGExNmRlODgxNmY0NjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FYrPMV64AquFyFJkEf57a_Xf2_yYJGEkmLuWFCwXv-k" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwODUwNTIsIm5iZiI6MTc3MzA4NDc1MiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA5VDE5MzIzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY2ODk3MmM2Y2YwZjQ3NDRmZmIwYjMzZTBhOTIyNzgwMzI3ODg2MmZlMjRmNzcwZGYxMDkxNjJiYjYxYWVlZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8NmQwzw_YPQjF4gd0hSJeNx4U1HFnS4oBdajahil0_A"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwODUwNTIsIm5iZiI6MTc3MzA4NDc1MiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA5VDE5MzIzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY2ODk3MmM2Y2YwZjQ3NDRmZmIwYjMzZTBhOTIyNzgwMzI3ODg2MmZlMjRmNzcwZGYxMDkxNjJiYjYxYWVlZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8NmQwzw_YPQjF4gd0hSJeNx4U1HFnS4oBdajahil0_A" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -382,42 +408,5 @@ I think it using the server date instead of local date from obsidian.</p>
             <uri>https://github.com/buiax</uri>
         </author>
         <published>2023-02-14T07:02:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A User's Struggle: Cloudflare's GDPR Compliance Questioned After Repeated Unwanted Emails / CloudflareのGDPR遵守に疑問符：アカウント削除後も続く迷惑メール、あるユーザーの闘いの記録]]></title>
-        <id>https://github.com/xhiroga/news/issues/411</id>
-        <link href="https://github.com/xhiroga/news/issues/411"/>
-        <updated>2025-06-23T15:16:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/1375152?v=4" width="64" height="64" alt=""/><br/><markdown-accessiblity-table><table role="table">
-<thead>
-<tr>
-<th></th>
-<th>URL</th>
-<th>Author</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>News</td>
-<td><a href="https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/" rel="nofollow">https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/</a></td>
-<td>shkspr.mobi</td>
-</tr>
-<tr>
-<td>Original</td>
-<td><a href="https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/" rel="nofollow">https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/</a></td>
-<td>Terence Eden</td>
-</tr>
-</tbody>
-</table></markdown-accessiblity-table>
-<hr>
-<p dir="auto">The author details their frustrating experience with Cloudflare, who continued to send marketing and service emails for over a year after the author cancelled their account and requested data deletion. Despite repeated requests and escalations to the CTO, the issue was not resolved, raising serious concerns about Cloudflare's respect for GDPR and their data management practices. The author concludes that Cloudflare cannot be trusted with personal data.</p>
-<hr>
-<p dir="auto">筆者は、Cloudflareアカウントをキャンセルしデータ削除を要求した後も、1年以上にわたってマーケティングやサービスに関するメールが送られてき続けたという苛立たしい経験を詳述している。度重なる要求やCTOへのエスカレーションにもかかわらず問題は解決されず、CloudflareのGDPR遵守やデータ管理体制に深刻な懸念を投げかけている。筆者は、Cloudflareは個人データを預けるに値しないと結論づけている。</p>]]></content>
-        <author>
-            <name>sawaraken</name>
-            <email>sawaraken@noreply.github.com</email>
-            <uri>https://github.com/apps/sawaraken</uri>
-        </author>
-        <published>2025-06-23T15:16:04.000Z</published>
     </entry>
 </feed>

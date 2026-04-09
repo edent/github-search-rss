@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-04-09T11:43:24.917Z</updated>
+    <updated>2026-04-09T12:55:58.554Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[Add shkspr.mobi]]></title>
-        <id>https://github.com/css-naked-day/css-naked-day.org/pull/339</id>
-        <link href="https://github.com/css-naked-day/css-naked-day.org/pull/339"/>
-        <updated>2026-04-09T08:33:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/837136?u=73b5c34325606e447be7074fd0deefc55a004c82&v=4" width="64" height="64" alt=""/><br/>]]></content>
-        <author>
-            <name>edent</name>
-            <email>edent@noreply.github.com</email>
-            <uri>https://github.com/edent</uri>
-        </author>
-        <published>2026-04-09T08:33:09.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Consider changing to https://openfreemap.org/]]></title>
         <id>https://github.com/openheritage/open-plaques-4/issues/248</id>
@@ -32,6 +19,19 @@
             <uri>https://github.com/jnicho02</uri>
         </author>
         <published>2026-02-04T10:29:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add shkspr.mobi]]></title>
+        <id>https://github.com/css-naked-day/css-naked-day.org/pull/339</id>
+        <link href="https://github.com/css-naked-day/css-naked-day.org/pull/339"/>
+        <updated>2026-04-09T11:51:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/837136?u=73b5c34325606e447be7074fd0deefc55a004c82&v=4" width="64" height="64" alt=""/><br/>]]></content>
+        <author>
+            <name>edent</name>
+            <email>edent@noreply.github.com</email>
+            <uri>https://github.com/edent</uri>
+        </author>
+        <published>2026-04-09T08:33:09.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Increase Timeout for Push Notifications]]></title>
@@ -70,9 +70,9 @@
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU3MzUzMDQsIm5iZiI6MTc3NTczNTAwNCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA5VDExNDMyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiNzNhMzZiYzA1ZTdhZTgyN2QzMjg2NTJmM2JlZGY5ZDk1M2YwNjdlNGVmODFkZjNkNDhhMWVhZTM1NjhmMjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4L0fUQiAGs8Eb_IW2omptEsYpDQ3Ah0jwbQpZzFyo7o"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU3MzUzMDQsIm5iZiI6MTc3NTczNTAwNCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA5VDExNDMyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiNzNhMzZiYzA1ZTdhZTgyN2QzMjg2NTJmM2JlZGY5ZDk1M2YwNjdlNGVmODFkZjNkNDhhMWVhZTM1NjhmMjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4L0fUQiAGs8Eb_IW2omptEsYpDQ3Ah0jwbQpZzFyo7o" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU3MzUzMDQsIm5iZiI6MTc3NTczNTAwNCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA5VDExNDMyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3NDcyN2IyYmYyYjljNmQ4ZTA3MmE0ZTNhODIwZTZlODA1MTgyODQ1MTFiNmZkNGE2NjIyMDA2NTNiYWE4YTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PspR9xXW_rC2LL-GZWlBfHoPaJkzeaMB7_6rhxf80mU"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU3MzUzMDQsIm5iZiI6MTc3NTczNTAwNCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA5VDExNDMyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3NDcyN2IyYmYyYjljNmQ4ZTA3MmE0ZTNhODIwZTZlODA1MTgyODQ1MTFiNmZkNGE2NjIyMDA2NTNiYWE4YTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PspR9xXW_rC2LL-GZWlBfHoPaJkzeaMB7_6rhxf80mU" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU3MzUzMDQsIm5iZiI6MTc3NTczNTAwNCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA5VDExNDMyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1NWZhMmExY2Y4MGFiMmFkNmE0MjljYWQxYjA2MTdjMDdkMjcwNGMzMWUyYThiMzg2YTkyZDY2NmI4Zjg2NGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KcXwDnGn1TO21i8MJBoD1qO8RMQJwOfQEjgDEBDNYjs"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU3MzUzMDQsIm5iZiI6MTc3NTczNTAwNCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA5VDExNDMyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1NWZhMmExY2Y4MGFiMmFkNmE0MjljYWQxYjA2MTdjMDdkMjcwNGMzMWUyYThiMzg2YTkyZDY2NmI4Zjg2NGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KcXwDnGn1TO21i8MJBoD1qO8RMQJwOfQEjgDEBDNYjs" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU3Mzk2NTgsIm5iZiI6MTc3NTczOTM1OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA5VDEyNTU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIyNTlhZTY0OWY5ZDRiODUwOGQ2NmQwZWQ0ODM5YWIyZWZlZTllZmNhNWEzMzljMzI3NGQ0MGZlMmU4ZTA5YjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SwrHURcPRtZJXJvenLRGTShgw1ab1sM4XV3Ygb-3WXU"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU3Mzk2NTgsIm5iZiI6MTc3NTczOTM1OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA5VDEyNTU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIyNTlhZTY0OWY5ZDRiODUwOGQ2NmQwZWQ0ODM5YWIyZWZlZTllZmNhNWEzMzljMzI3NGQ0MGZlMmU4ZTA5YjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SwrHURcPRtZJXJvenLRGTShgw1ab1sM4XV3Ygb-3WXU" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU3Mzk2NTgsIm5iZiI6MTc3NTczOTM1OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA5VDEyNTU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMzNGUyMDllNGQzZjVlNDFiNTRhYzMxZDkyZTAyZDVkZDhjYzAwNjg4YzY5YWVlYTZmZTcxNzg5NWY3ZTM0MTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nqMLLooxxXtMACkuvs9s9iWdCNwN8wkBZ_0a7GycTto"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU3Mzk2NTgsIm5iZiI6MTc3NTczOTM1OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA5VDEyNTU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMzNGUyMDllNGQzZjVlNDFiNTRhYzMxZDkyZTAyZDVkZDhjYzAwNjg4YzY5YWVlYTZmZTcxNzg5NWY3ZTM0MTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nqMLLooxxXtMACkuvs9s9iWdCNwN8wkBZ_0a7GycTto" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU3Mzk2NTgsIm5iZiI6MTc3NTczOTM1OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA5VDEyNTU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3NWFmNmFlMTc4MzJjNjU4ZDY1MWJiYjZhNDVmODJkZTY2MmZjYTM4ZjNkNDVjOTU4MzdkM2M4NmVlYjllYjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XGGu2SCdq43AWPXzru2BD2AHhJdf2Bq0hiX_SdyZ4tA"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzU3Mzk2NTgsIm5iZiI6MTc3NTczOTM1OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDA5VDEyNTU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3NWFmNmFlMTc4MzJjNjU4ZDY1MWJiYjZhNDVmODJkZTY2MmZjYTM4ZjNkNDVjOTU4MzdkM2M4NmVlYjllYjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XGGu2SCdq43AWPXzru2BD2AHhJdf2Bq0hiX_SdyZ4tA" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -327,29 +327,21 @@ so it should be possible to decode the book text from these files</p>
         <published>2025-01-14T18:19:43.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Support unquoted HTML attributes in feed link parsing]]></title>
-        <id>https://github.com/Roald87/FeedReader/pull/3</id>
-        <link href="https://github.com/Roald87/FeedReader/pull/3"/>
-        <updated>2026-03-09T19:53:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/20192767?u=834cb836c31dc8785f67cba7791a479e4dcd82a9&v=4" width="64" height="64" alt=""/><br/><h2 dir="auto">Summary</h2>
-<ul dir="auto">
-<li>Fix <code class="notranslate">ParseFeedUrlsFromHtml</code> regex to match <code class="notranslate">rel=alternate</code> without quotes (valid HTML5)</li>
-<li>Fix <code class="notranslate">GetAttributeFromLinkTag</code> to handle both quoted and unquoted attribute values</li>
-<li>Upgrade target frameworks from net8.0 to net10.0</li>
-<li>Add tests covering unquoted attributes and a real-world HTML fixture from shkspr.mobi</li>
-</ul>
-<h2 dir="auto">Test plan</h2>
-<ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" aria-label="Incomplete task"> <code class="notranslate">TestUnquotedAttributes</code> — parses a link tag with all unquoted attributes correctly</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" aria-label="Incomplete task"> <code class="notranslate">ParseFeedsShksprMobi</code> — parses the shkspr.mobi HTML fixture and finds both Atom and RSS feeds</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" aria-label="Incomplete task"> All existing tests still pass (2 timezone-sensitive <code class="notranslate">TestDateTimeParse</code> cases were already failing before this change)</li>
-</ul>
-<p dir="auto">🤖 Generated with <a href="https://claude.com/claude-code" rel="nofollow">Claude Code</a></p>]]></content>
+        <title type="html"><![CDATA[Date Icon ]]></title>
+        <id>https://github.com/Rainbell129/Obsidian-Homepage/issues/21</id>
+        <link href="https://github.com/Rainbell129/Obsidian-Homepage/issues/21"/>
+        <updated>2024-03-28T07:25:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/121730168?u=cd0f66f893ae218bd4bca3b8659c6248af2ba26c&v=4" width="64" height="64" alt=""/><br/><p dir="auto">The date icon is off by 1 day.<br>
+I think it using the server date instead of local date from obsidian.</p>
+<p dir="auto">The US time is not correct.  It looks like a time in Asia region.</p>
+<p dir="auto">Can it use something like:<br>
+<a href="https://shkspr.mobi/blog/2018/02/this-svg-always-shows-todays-date/" rel="nofollow">https://shkspr.mobi/blog/2018/02/this-svg-always-shows-todays-date/</a></p>
+<p dir="auto">With the SVG to CSS conversion.</p>]]></content>
         <author>
-            <name>Roald87</name>
-            <email>Roald87@noreply.github.com</email>
-            <uri>https://github.com/Roald87</uri>
+            <name>buiax</name>
+            <email>buiax@noreply.github.com</email>
+            <uri>https://github.com/buiax</uri>
         </author>
-        <published>2026-03-09T18:44:51.000Z</published>
+        <published>2023-02-14T07:02:54.000Z</published>
     </entry>
 </feed>

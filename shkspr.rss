@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-04-28T19:16:37.884Z</updated>
+    <updated>2026-04-28T20:56:48.263Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -359,40 +359,46 @@ so it should be possible to decode the book text from these files</p>
         <published>2022-02-07T07:27:29.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A User's Struggle: Cloudflare's GDPR Compliance Questioned After Repeated Unwanted Emails / CloudflareのGDPR遵守に疑問符：アカウント削除後も続く迷惑メール、あるユーザーの闘いの記録]]></title>
-        <id>https://github.com/xhiroga/news/issues/411</id>
-        <link href="https://github.com/xhiroga/news/issues/411"/>
-        <updated>2025-06-23T15:16:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/1375152?v=4" width="64" height="64" alt=""/><br/><markdown-accessiblity-table><table role="table">
-<thead>
-<tr>
-<th></th>
-<th>URL</th>
-<th>Author</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>News</td>
-<td><a href="https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/" rel="nofollow">https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/</a></td>
-<td>shkspr.mobi</td>
-</tr>
-<tr>
-<td>Original</td>
-<td><a href="https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/" rel="nofollow">https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/</a></td>
-<td>Terence Eden</td>
-</tr>
-</tbody>
-</table></markdown-accessiblity-table>
-<hr>
-<p dir="auto">The author details their frustrating experience with Cloudflare, who continued to send marketing and service emails for over a year after the author cancelled their account and requested data deletion. Despite repeated requests and escalations to the CTO, the issue was not resolved, raising serious concerns about Cloudflare's respect for GDPR and their data management practices. The author concludes that Cloudflare cannot be trusted with personal data.</p>
-<hr>
-<p dir="auto">筆者は、Cloudflareアカウントをキャンセルしデータ削除を要求した後も、1年以上にわたってマーケティングやサービスに関するメールが送られてき続けたという苛立たしい経験を詳述している。度重なる要求やCTOへのエスカレーションにもかかわらず問題は解決されず、CloudflareのGDPR遵守やデータ管理体制に深刻な懸念を投げかけている。筆者は、Cloudflareは個人データを預けるに値しないと結論づけている。</p>]]></content>
+        <title type="html"><![CDATA[`after:` and `before:` date search terms are underspecified]]></title>
+        <id>https://github.com/mastodon/mastodon/issues/31142</id>
+        <link href="https://github.com/mastodon/mastodon/issues/31142"/>
+        <updated>2026-04-25T15:46:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/773100?u=136564c0fbd32e5bb5df902b067ad350c162f210&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Steps to reproduce the problem</h3>
+<p dir="auto">Filing this mostly to get the information down somewhere so it's searchable and can inform improvements in the next iteration of the search API.</p>
+<p dir="auto">From inspection, the <code class="notranslate">after:</code> and <code class="notranslate">before:</code> search operators:</p>
+<ul dir="auto">
+<li>They only take yyyy-mm-dd formatted dates, there's no mechanism to specify hour/minutes or a specific timezone.</li>
+<li>They imply a time, but the time is different depending on the operator. The <code class="notranslate">after:</code> operator behaves as though the time was 23:59:59.999... on the date, the <code class="notranslate">before:</code> operator behaves as though the time was 00:00:00 on the the date.</li>
+</ul>
+<p dir="auto">This means the ranges they specify are exclusive rather than inclusive. I.e. <code class="notranslate">after:2024-07-15</code> will start from midnight on 2024-07-16, <code class="notranslate">before:2024-07-15</code> will end at 2024-07-14T23:59:59.999....</p>
+<p dir="auto">A query of <code class="notranslate">after:2024-07-01 before:2024-07-02</code> will return nothing. It would make more sense if the missing time component was set to 00:00:00 in both cases, and then this would return statuses from July 1st. I'm aware of the <code class="notranslate">during:</code> operator, but that just means clients have to special-case this (or expand any date ranges entered by the user by one day on either end).</p>
+<ul dir="auto">
+<li>The input dates are not treated according to the user's timezone, which leads to inconsistencies in the presentation.</li>
+</ul>
+<p dir="auto">On that last point, I'm in Zurich, so UTC+2.</p>
+<p dir="auto">If I go to the web UI and enter the following search query freebsd after:2024-06-30 before:2024-07-02 (the intent being to only show me posts made on 1st July) the first result is <a href="https://mastodon.social/@kurtseifried@infosec.exchange/112713824626524406" rel="nofollow">https://mastodon.social/@kurtseifried@infosec.exchange/112713824626524406</a>.</p>
+<p dir="auto">This was posted at 2024-07-01T23:27:53.000Z according to the API. But in the UI that's rendered as "Jul 2". So from the user's perspective this status should not included in the search results.</p>
+<h3 dir="auto">Expected behaviour</h3>
+<p dir="auto">N/A</p>
+<h3 dir="auto">Actual behaviour</h3>
+<p dir="auto">N/A</p>
+<h3 dir="auto">Detailed description</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Mastodon instance</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Mastodon version</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">Technical details</h3>
+<p dir="auto">If this is happening on your own Mastodon server, please fill out those:</p>
+<ul dir="auto">
+<li>Ruby version: (from <code class="notranslate">ruby --version</code>, eg. v3.1.2)</li>
+<li>Node.js version: (from <code class="notranslate">node --version</code>, eg. v18.16.0)</li>
+</ul>]]></content>
         <author>
-            <name>sawaraken</name>
-            <email>sawaraken@noreply.github.com</email>
-            <uri>https://github.com/apps/sawaraken</uri>
+            <name>nikclayton</name>
+            <email>nikclayton@noreply.github.com</email>
+            <uri>https://github.com/nikclayton</uri>
         </author>
-        <published>2025-06-23T15:16:04.000Z</published>
+        <published>2024-07-25T10:28:41.000Z</published>
     </entry>
 </feed>

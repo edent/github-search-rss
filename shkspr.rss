@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-04-29T13:18:44.621Z</updated>
+    <updated>2026-04-29T15:50:55.590Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -113,6 +113,23 @@
             <uri>https://github.com/JoelProminic</uri>
         </author>
         <published>2026-04-01T18:18:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: use `<time>` tag]]></title>
+        <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
+        <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
+        <updated>2025-03-15T12:31:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0NzgxNTUsIm5iZiI6MTc3NzQ3Nzg1NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI5VDE1NTA1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI0ZjJjMTY5MjAxMzEyNDRjMmE5NGYwNmY2ZDc3YjdkODc0ZTk2NTZmNjMxNmU1NWMxMmMyYjdhMmU3OGI5OTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.ZtQKb5WmKphGYIfhPX1YaHmWQBIPRZTHHWLP9axGBn4"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0NzgxNTUsIm5iZiI6MTc3NzQ3Nzg1NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI5VDE1NTA1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI0ZjJjMTY5MjAxMzEyNDRjMmE5NGYwNmY2ZDc3YjdkODc0ZTk2NTZmNjMxNmU1NWMxMmMyYjdhMmU3OGI5OTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.ZtQKb5WmKphGYIfhPX1YaHmWQBIPRZTHHWLP9axGBn4" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0NzgxNTUsIm5iZiI6MTc3NzQ3Nzg1NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI5VDE1NTA1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ3MmM2NTZhY2QwNmEyOTg5MDI5NzBiYTMzODE0OGQzNDM3MGVhMjNhMjdlMjkxOWViZGUzOTA5YmZlNDFiOTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.hjfeI63lmPqcN_v9ZH3LktdErV9j3lDYnjVuex2mDyo"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0NzgxNTUsIm5iZiI6MTc3NzQ3Nzg1NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI5VDE1NTA1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ3MmM2NTZhY2QwNmEyOTg5MDI5NzBiYTMzODE0OGQzNDM3MGVhMjNhMjdlMjkxOWViZGUzOTA5YmZlNDFiOTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.hjfeI63lmPqcN_v9ZH3LktdErV9j3lDYnjVuex2mDyo" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0NzgxNTUsIm5iZiI6MTc3NzQ3Nzg1NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI5VDE1NTA1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlYjk0MGRlOWUwNGJlMjA1Y2IxMTBlYTZhN2MzZWFjNjk3ZGIzNGY0Mjc5NWY2ZTJhMjBjZWM4NDk0OGQxZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.DYqU85i8ECTrZGJqG0k7IFU2MtAucRQX2aDFhRVK7Hw"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0NzgxNTUsIm5iZiI6MTc3NzQ3Nzg1NSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI5VDE1NTA1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlYjk0MGRlOWUwNGJlMjA1Y2IxMTBlYTZhN2MzZWFjNjk3ZGIzNGY0Mjc5NWY2ZTJhMjBjZWM4NDk0OGQxZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.DYqU85i8ECTrZGJqG0k7IFU2MtAucRQX2aDFhRVK7Hw" alt="image" style="max-width: 100%;"></a></p>
+<p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
+<p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
+        <author>
+            <name>scarf005</name>
+            <email>scarf005@noreply.github.com</email>
+            <uri>https://github.com/scarf005</uri>
+        </author>
+        <published>2025-03-15T12:31:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[update!: Add Firefox Relay]]></title>
@@ -357,42 +374,5 @@ so it should be possible to decode the book text from these files</p>
             <uri>https://github.com/edent</uri>
         </author>
         <published>2022-02-07T07:27:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A User's Struggle: Cloudflare's GDPR Compliance Questioned After Repeated Unwanted Emails / CloudflareのGDPR遵守に疑問符：アカウント削除後も続く迷惑メール、あるユーザーの闘いの記録]]></title>
-        <id>https://github.com/xhiroga/news/issues/411</id>
-        <link href="https://github.com/xhiroga/news/issues/411"/>
-        <updated>2025-06-23T15:16:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/1375152?v=4" width="64" height="64" alt=""/><br/><markdown-accessiblity-table><table role="table">
-<thead>
-<tr>
-<th></th>
-<th>URL</th>
-<th>Author</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>News</td>
-<td><a href="https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/" rel="nofollow">https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/</a></td>
-<td>shkspr.mobi</td>
-</tr>
-<tr>
-<td>Original</td>
-<td><a href="https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/" rel="nofollow">https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/</a></td>
-<td>Terence Eden</td>
-</tr>
-</tbody>
-</table></markdown-accessiblity-table>
-<hr>
-<p dir="auto">The author details their frustrating experience with Cloudflare, who continued to send marketing and service emails for over a year after the author cancelled their account and requested data deletion. Despite repeated requests and escalations to the CTO, the issue was not resolved, raising serious concerns about Cloudflare's respect for GDPR and their data management practices. The author concludes that Cloudflare cannot be trusted with personal data.</p>
-<hr>
-<p dir="auto">筆者は、Cloudflareアカウントをキャンセルしデータ削除を要求した後も、1年以上にわたってマーケティングやサービスに関するメールが送られてき続けたという苛立たしい経験を詳述している。度重なる要求やCTOへのエスカレーションにもかかわらず問題は解決されず、CloudflareのGDPR遵守やデータ管理体制に深刻な懸念を投げかけている。筆者は、Cloudflareは個人データを預けるに値しないと結論づけている。</p>]]></content>
-        <author>
-            <name>sawaraken</name>
-            <email>sawaraken@noreply.github.com</email>
-            <uri>https://github.com/apps/sawaraken</uri>
-        </author>
-        <published>2025-06-23T15:16:04.000Z</published>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-05-07T12:26:57.033Z</updated>
+    <updated>2026-05-07T15:23:46.389Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -84,9 +84,9 @@
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgxNTcxMTYsIm5iZiI6MTc3ODE1NjgxNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA3VDEyMjY1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlMmY2NDM4MDA1ODE3NTI3MjY2NTkxZTg5MWM5MzdjMWYwYjA0MmVlMjVjMWU1N2E1M2M4NDlmMWE4ZGU0NTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.gZB-K50jDEYLZkwypAwp1QRNR3LpUy8UtI42LKSpENQ"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgxNTcxMTYsIm5iZiI6MTc3ODE1NjgxNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA3VDEyMjY1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlMmY2NDM4MDA1ODE3NTI3MjY2NTkxZTg5MWM5MzdjMWYwYjA0MmVlMjVjMWU1N2E1M2M4NDlmMWE4ZGU0NTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.gZB-K50jDEYLZkwypAwp1QRNR3LpUy8UtI42LKSpENQ" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgxNTcxMTYsIm5iZiI6MTc3ODE1NjgxNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA3VDEyMjY1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM0N2RhN2E5NDJiMDkwODJlMzhmNmYxMjQ5ZmVmZmVmNTEwNjg1MTU1NGM4OTQ2ZGUxMTI5MjVmM2FlNzNkMjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.gBGSTERQr5G6Zv9CeOeQ3R3OLhMWaMyyBG73A-eIDpg"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgxNTcxMTYsIm5iZiI6MTc3ODE1NjgxNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA3VDEyMjY1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM0N2RhN2E5NDJiMDkwODJlMzhmNmYxMjQ5ZmVmZmVmNTEwNjg1MTU1NGM4OTQ2ZGUxMTI5MjVmM2FlNzNkMjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.gBGSTERQr5G6Zv9CeOeQ3R3OLhMWaMyyBG73A-eIDpg" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgxNTcxMTYsIm5iZiI6MTc3ODE1NjgxNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA3VDEyMjY1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwMWRlMzNjMjFjZWEwOWFmYTE0ZjczMjA5Y2YwZjAxMTUzYzUzZTkwZTA4MTExZGE3ODQ2ZjYyN2M1NzYyOTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.YeK-ZhIxPsBy9-rS1t6Gd4lDliYlyqVoEykx6XGYf8k"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgxNTcxMTYsIm5iZiI6MTc3ODE1NjgxNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA3VDEyMjY1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwMWRlMzNjMjFjZWEwOWFmYTE0ZjczMjA5Y2YwZjAxMTUzYzUzZTkwZTA4MTExZGE3ODQ2ZjYyN2M1NzYyOTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.YeK-ZhIxPsBy9-rS1t6Gd4lDliYlyqVoEykx6XGYf8k" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgxNjc3MjYsIm5iZiI6MTc3ODE2NzQyNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA3VDE1MjM0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3MGFlNGE1MTBiMjFkMzkxNjVkNzJhMDk2YzBiZmExODgzNGE2MmJlYTdkYTYyOTc2Y2U1YWE3NzQ2ZWZhZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.VFlXBgSEH-rD8kQVgW-SUOFZCstjfLtiivL6-SwNIf4"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgxNjc3MjYsIm5iZiI6MTc3ODE2NzQyNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA3VDE1MjM0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3MGFlNGE1MTBiMjFkMzkxNjVkNzJhMDk2YzBiZmExODgzNGE2MmJlYTdkYTYyOTc2Y2U1YWE3NzQ2ZWZhZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.VFlXBgSEH-rD8kQVgW-SUOFZCstjfLtiivL6-SwNIf4" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgxNjc3MjYsIm5iZiI6MTc3ODE2NzQyNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA3VDE1MjM0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzZjJkNjkwYWU4MmVlMmQ0OWNmZjVmMGFlMTdmMjY3ZmE3MTVkODhjOWFlZTIxNGI2MTQ5MGMzN2ViNWE2MTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.B31BCotvS9dVK_v2PiOulFL99KIl11xDAyDs0Zw0Qqg"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgxNjc3MjYsIm5iZiI6MTc3ODE2NzQyNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA3VDE1MjM0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzZjJkNjkwYWU4MmVlMmQ0OWNmZjVmMGFlMTdmMjY3ZmE3MTVkODhjOWFlZTIxNGI2MTQ5MGMzN2ViNWE2MTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.B31BCotvS9dVK_v2PiOulFL99KIl11xDAyDs0Zw0Qqg" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgxNjc3MjYsIm5iZiI6MTc3ODE2NzQyNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA3VDE1MjM0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlZjg4YjQwNmI4MjMyOGE1ZDQxNTRiYzhjODNkMjljYjUyYjQwYzM0NzZkOGExNDBkOTliYzljZDk5NmQzZTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.saiWf-1Tr5T7ImZgNgpFa2idiuctAnAXh--2ywjxOso"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgxNjc3MjYsIm5iZiI6MTc3ODE2NzQyNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA3VDE1MjM0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlZjg4YjQwNmI4MjMyOGE1ZDQxNTRiYzhjODNkMjljYjUyYjQwYzM0NzZkOGExNDBkOTliYzljZDk5NmQzZTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.saiWf-1Tr5T7ImZgNgpFa2idiuctAnAXh--2ywjxOso" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -95,25 +95,6 @@
             <uri>https://github.com/scarf005</uri>
         </author>
         <published>2025-03-15T12:31:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Increase Timeout for Push Notifications]]></title>
-        <id>https://github.com/DominoMFA/MFA/issues/2</id>
-        <link href="https://github.com/DominoMFA/MFA/issues/2"/>
-        <updated>2026-04-02T08:03:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/24532731?v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/rat-moonshine/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/rat-moonshine">@rat-moonshine</a> requested that we increase the timeout for authentication by push notification to 60 seconds.  The current timeout has been a problem for him in some cases.</p>
-<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dpastov/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dpastov">@dpastov</a> reported that the default recommended by his library was 30 seconds.  This is hard-coded now.Some sources that <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/MarkProminic/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/MarkProminic">@MarkProminic</a> found:<br>
-<a href="https://datatracker.ietf.org/doc/html/rfc6238#:~:text=Table_content:%20header:%20%7C%20Title%20%7C%20TOTP:%20Time%2DBased,Pei%20%2C%20Salah%20Machani%20Email%20authors%20%7C" rel="nofollow">https://datatracker.ietf.org/doc/html/rfc6238#:~:text=Table_content:%20header:%20%7C%20Title%20%7C%20TOTP:%20Time%2DBased,Pei%20%2C%20Salah%20Machani%20Email%20authors%20%7C</a><br>
-<a href="https://shkspr.mobi/blog/2025/03/towards-a-test-suite-for-totp-codes/" rel="nofollow">https://shkspr.mobi/blog/2025/03/towards-a-test-suite-for-totp-codes/</a><br>
-<a href="https://datatracker.ietf.org/doc/html/rfc6238#section-5.2" rel="nofollow">https://datatracker.ietf.org/doc/html/rfc6238#section-5.2</a></p>
-<p dir="auto">We would like official approval from <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/JustinProminic/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/JustinProminic">@JustinProminic</a> if we want to proceed with this, since it is potentially a security concern.</p>
-<p dir="auto">Do we want to make this configurable?   If so, we should clearly document the recommendations.</p>]]></content>
-        <author>
-            <name>JoelProminic</name>
-            <email>JoelProminic@noreply.github.com</email>
-            <uri>https://github.com/JoelProminic</uri>
-        </author>
-        <published>2026-04-01T18:18:58.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[update!: Add Firefox Relay]]></title>
@@ -145,6 +126,25 @@
             <uri>https://github.com/Goldmaster</uri>
         </author>
         <published>2025-07-02T16:15:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Increase Timeout for Push Notifications]]></title>
+        <id>https://github.com/DominoMFA/MFA/issues/2</id>
+        <link href="https://github.com/DominoMFA/MFA/issues/2"/>
+        <updated>2026-04-02T08:03:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/24532731?v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/rat-moonshine/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/rat-moonshine">@rat-moonshine</a> requested that we increase the timeout for authentication by push notification to 60 seconds.  The current timeout has been a problem for him in some cases.</p>
+<p dir="auto"><a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dpastov/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dpastov">@dpastov</a> reported that the default recommended by his library was 30 seconds.  This is hard-coded now.Some sources that <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/MarkProminic/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/MarkProminic">@MarkProminic</a> found:<br>
+<a href="https://datatracker.ietf.org/doc/html/rfc6238#:~:text=Table_content:%20header:%20%7C%20Title%20%7C%20TOTP:%20Time%2DBased,Pei%20%2C%20Salah%20Machani%20Email%20authors%20%7C" rel="nofollow">https://datatracker.ietf.org/doc/html/rfc6238#:~:text=Table_content:%20header:%20%7C%20Title%20%7C%20TOTP:%20Time%2DBased,Pei%20%2C%20Salah%20Machani%20Email%20authors%20%7C</a><br>
+<a href="https://shkspr.mobi/blog/2025/03/towards-a-test-suite-for-totp-codes/" rel="nofollow">https://shkspr.mobi/blog/2025/03/towards-a-test-suite-for-totp-codes/</a><br>
+<a href="https://datatracker.ietf.org/doc/html/rfc6238#section-5.2" rel="nofollow">https://datatracker.ietf.org/doc/html/rfc6238#section-5.2</a></p>
+<p dir="auto">We would like official approval from <a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/JustinProminic/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/JustinProminic">@JustinProminic</a> if we want to proceed with this, since it is potentially a security concern.</p>
+<p dir="auto">Do we want to make this configurable?   If so, we should clearly document the recommendations.</p>]]></content>
+        <author>
+            <name>JoelProminic</name>
+            <email>JoelProminic@noreply.github.com</email>
+            <uri>https://github.com/JoelProminic</uri>
+        </author>
+        <published>2026-04-01T18:18:58.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News 07-05-2026]]></title>
@@ -185,6 +185,19 @@
             <uri>https://github.com/blka</uri>
         </author>
         <published>2026-05-07T09:54:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[style rss feed]]></title>
+        <id>https://github.com/RMHogervorst/blog/issues/103</id>
+        <link href="https://github.com/RMHogervorst/blog/issues/103"/>
+        <updated>2025-06-24T13:34:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9538040?u=378b2aa441a4c8059895ac1d6ec35f3312c1f1d5&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2023/06/style-your-wordpress-atom-feed/" rel="nofollow">https://shkspr.mobi/blog/2023/06/style-your-wordpress-atom-feed/</a></p>]]></content>
+        <author>
+            <name>RMHogervorst</name>
+            <email>RMHogervorst@noreply.github.com</email>
+            <uri>https://github.com/RMHogervorst</uri>
+        </author>
+        <published>2025-06-24T13:34:43.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[kindle web DRM has been cracked]]></title>
@@ -233,19 +246,6 @@ so it should be possible to decode the book text from these files</p>
         <published>2025-10-17T07:07:02.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[style rss feed]]></title>
-        <id>https://github.com/RMHogervorst/blog/issues/103</id>
-        <link href="https://github.com/RMHogervorst/blog/issues/103"/>
-        <updated>2025-06-24T13:34:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9538040?u=378b2aa441a4c8059895ac1d6ec35f3312c1f1d5&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2023/06/style-your-wordpress-atom-feed/" rel="nofollow">https://shkspr.mobi/blog/2023/06/style-your-wordpress-atom-feed/</a></p>]]></content>
-        <author>
-            <name>RMHogervorst</name>
-            <email>RMHogervorst@noreply.github.com</email>
-            <uri>https://github.com/RMHogervorst</uri>
-        </author>
-        <published>2025-06-24T13:34:43.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Testing on low-fi browsers]]></title>
         <id>https://github.com/ArthurSmid/little-help-book/issues/9</id>
         <link href="https://github.com/ArthurSmid/little-help-book/issues/9"/>
@@ -270,6 +270,45 @@ so it should be possible to decode the book text from these files</p>
             <uri>https://github.com/thisisaaronland</uri>
         </author>
         <published>2025-10-06T19:40:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why bother with What3words?]]></title>
+        <id>https://github.com/all-maps-lie/all-maps-lie-2020/issues/46</id>
+        <link href="https://github.com/all-maps-lie/all-maps-lie-2020/issues/46"/>
+        <updated>2020-03-26T01:37:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3622055?u=89ea072f9ec7b8a0c820830aa4be949c6f33450f&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/" rel="nofollow">https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/</a></p>]]></content>
+        <author>
+            <name>joeyklee</name>
+            <email>joeyklee@noreply.github.com</email>
+            <uri>https://github.com/joeyklee</uri>
+        </author>
+        <published>2020-03-26T01:37:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove 3rd party resources (e.g. fonts, JS)]]></title>
+        <id>https://github.com/JuliaActuary/JuliaActuary.org/issues/7</id>
+        <link href="https://github.com/JuliaActuary/JuliaActuary.org/issues/7"/>
+        <updated>2021-10-03T19:31:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/711879?u=5e7f92ccc07727dcbe7cf785daafa9c473e0e716&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/" rel="nofollow">https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/</a></p>]]></content>
+        <author>
+            <name>alecloudenback</name>
+            <email>alecloudenback@noreply.github.com</email>
+            <uri>https://github.com/alecloudenback</uri>
+        </author>
+        <published>2020-10-20T11:40:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research Untappd API for getting beers]]></title>
+        <id>https://github.com/jonnybarnes/jonnybarnes.uk/issues/91</id>
+        <link href="https://github.com/jonnybarnes/jonnybarnes.uk/issues/91"/>
+        <updated>2018-11-04T17:36:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108303?u=409091c885b29d5af4f4d8b81455f5825bae29ec&v=4" width="64" height="64" alt=""/><br/><p dir="auto">See Terence’s blog post: <a href="https://shkspr.mobi/blog/2018/11/extracting-your-data-from-untappd/" rel="nofollow">https://shkspr.mobi/blog/2018/11/extracting-your-data-from-untappd/</a></p>]]></content>
+        <author>
+            <name>jonnybarnes</name>
+            <email>jonnybarnes@noreply.github.com</email>
+            <uri>https://github.com/jonnybarnes</uri>
+        </author>
+        <published>2018-11-04T14:51:38.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Daily Hacker News 07-05-2026]]></title>
@@ -312,43 +351,17 @@ so it should be possible to decode the book text from these files</p>
         <published>2026-05-07T09:25:30.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why bother with What3words?]]></title>
-        <id>https://github.com/all-maps-lie/all-maps-lie-2020/issues/46</id>
-        <link href="https://github.com/all-maps-lie/all-maps-lie-2020/issues/46"/>
-        <updated>2020-03-26T01:37:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3622055?u=89ea072f9ec7b8a0c820830aa4be949c6f33450f&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/" rel="nofollow">https://shkspr.mobi/blog/2019/03/why-bother-with-what-three-words/</a></p>]]></content>
+        <title type="html"><![CDATA[Expand to full ActivityPub server]]></title>
+        <id>https://github.com/snscaimito/social-blogging/issues/7</id>
+        <link href="https://github.com/snscaimito/social-blogging/issues/7"/>
+        <updated>2024-03-03T20:09:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/218088?v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/" rel="nofollow">https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/</a></p>]]></content>
         <author>
-            <name>joeyklee</name>
-            <email>joeyklee@noreply.github.com</email>
-            <uri>https://github.com/joeyklee</uri>
+            <name>snscaimito</name>
+            <email>snscaimito@noreply.github.com</email>
+            <uri>https://github.com/snscaimito</uri>
         </author>
-        <published>2020-03-26T01:37:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research Untappd API for getting beers]]></title>
-        <id>https://github.com/jonnybarnes/jonnybarnes.uk/issues/91</id>
-        <link href="https://github.com/jonnybarnes/jonnybarnes.uk/issues/91"/>
-        <updated>2018-11-04T17:36:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108303?u=409091c885b29d5af4f4d8b81455f5825bae29ec&v=4" width="64" height="64" alt=""/><br/><p dir="auto">See Terence’s blog post: <a href="https://shkspr.mobi/blog/2018/11/extracting-your-data-from-untappd/" rel="nofollow">https://shkspr.mobi/blog/2018/11/extracting-your-data-from-untappd/</a></p>]]></content>
-        <author>
-            <name>jonnybarnes</name>
-            <email>jonnybarnes@noreply.github.com</email>
-            <uri>https://github.com/jonnybarnes</uri>
-        </author>
-        <published>2018-11-04T14:51:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove 3rd party resources (e.g. fonts, JS)]]></title>
-        <id>https://github.com/JuliaActuary/JuliaActuary.org/issues/7</id>
-        <link href="https://github.com/JuliaActuary/JuliaActuary.org/issues/7"/>
-        <updated>2021-10-03T19:31:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/711879?u=5e7f92ccc07727dcbe7cf785daafa9c473e0e716&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/" rel="nofollow">https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/</a></p>]]></content>
-        <author>
-            <name>alecloudenback</name>
-            <email>alecloudenback@noreply.github.com</email>
-            <uri>https://github.com/alecloudenback</uri>
-        </author>
-        <published>2020-10-20T11:40:34.000Z</published>
+        <published>2024-03-03T20:08:43.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Character encoding - `@` not coming through]]></title>
@@ -363,19 +376,6 @@ so it should be possible to decode the book text from these files</p>
             <uri>https://github.com/edent</uri>
         </author>
         <published>2016-12-04T18:50:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expand to full ActivityPub server]]></title>
-        <id>https://github.com/snscaimito/social-blogging/issues/7</id>
-        <link href="https://github.com/snscaimito/social-blogging/issues/7"/>
-        <updated>2024-03-03T20:09:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/218088?v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/" rel="nofollow">https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/</a></p>]]></content>
-        <author>
-            <name>snscaimito</name>
-            <email>snscaimito@noreply.github.com</email>
-            <uri>https://github.com/snscaimito</uri>
-        </author>
-        <published>2024-03-03T20:08:43.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Time to 200]]></title>

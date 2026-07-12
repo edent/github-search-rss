@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-07-12T12:51:18.141Z</updated>
+    <updated>2026-07-12T14:21:20.802Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -23,6 +23,84 @@
             <uri>https://github.com/frewsxcv</uri>
         </author>
         <published>2026-04-13T13:05:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📰 每日文章摘要 - 2026-07-12]]></title>
+        <id>https://github.com/dma9527/rss-digest/issues/146</id>
+        <link href="https://github.com/dma9527/rss-digest/issues/146"/>
+        <updated>2026-07-12T13:27:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/15368?v=4" width="64" height="64" alt=""/><br/><h2 dir="auto">📰 每日文章摘要</h2>
+<p dir="auto"><strong>日期</strong>: 2026-07-12 · 共 8 篇，0 篇高分 (≥7)</p>
+<h3 dir="auto">1. sqlite-utils 4.1</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: sqlite-utils 4.1</li>
+<li><strong>来源</strong>: simonwillison.net</li>
+<li><strong>链接</strong>: <a href="https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything" rel="nofollow">https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">2. Can Someone Explain to Me How to Get ‘ChatGPT Classic’?</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Can Someone Explain to Me How to Get ‘ChatGPT Classic’?</li>
+<li><strong>来源</strong>: daringfireball.net</li>
+<li><strong>链接</strong>: <a href="https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app" rel="nofollow">https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">3. OpenAI Help Center Describes What Is Wrong With the New ChatGPT</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: OpenAI Help Center Describes What Is Wrong With the New ChatGPT</li>
+<li><strong>来源</strong>: daringfireball.net</li>
+<li><strong>链接</strong>: <a href="https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex" rel="nofollow">https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">4. Benedict Evans on the New ‘Super App’ ChatGPT</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Benedict Evans on the New ‘Super App’ ChatGPT</li>
+<li><strong>来源</strong>: daringfireball.net</li>
+<li><strong>链接</strong>: <a href="https://www.threads.com/@benedictevans/post/Dano_uvDr8F" rel="nofollow">https://www.threads.com/@benedictevans/post/Dano_uvDr8F</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">5. ★ Exactly Like Om Malik</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: ★ Exactly Like Om Malik</li>
+<li><strong>来源</strong>: daringfireball.net</li>
+<li><strong>链接</strong>: <a href="https://daringfireball.net/2026/07/exactly_like_om_malik" rel="nofollow">https://daringfireball.net/2026/07/exactly_like_om_malik</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">6. Gurman on Tang Tan and Paul Meade</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Gurman on Tang Tan and Paul Meade</li>
+<li><strong>来源</strong>: daringfireball.net</li>
+<li><strong>链接</strong>: <a href="https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple" rel="nofollow">https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">7. Another Ridiculous Interrail Holiday - 6,379Km and 13 Countries over 7 weeks</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Another Ridiculous Interrail Holiday - 6,379Km and 13 Countries over 7 weeks</li>
+<li><strong>来源</strong>: shkspr.mobi</li>
+<li><strong>链接</strong>: <a href="https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/" rel="nofollow">https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">8. Progress on Gilbreath’s conjecture</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Progress on Gilbreath’s conjecture</li>
+<li><strong>来源</strong>: johndcook.com</li>
+<li><strong>链接</strong>: <a href="https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/" rel="nofollow">https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>]]></content>
+        <author>
+            <name>github-actions</name>
+            <email>github-actions@noreply.github.com</email>
+            <uri>https://github.com/apps/github-actions</uri>
+        </author>
+        <published>2026-07-12T13:27:07.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Consider changing to https://openfreemap.org/]]></title>
@@ -67,9 +145,9 @@ Used for: Writing down the problem. Thinking about the problem. Writing up the s
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM4NjA5NzgsIm5iZiI6MTc4Mzg2MDY3OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzEyVDEyNTExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBiM2Y3MzAyZTdkYTc3M2RlZmIzOWU1YWQwNjZjOGQ4ODg5OWVjYTNlOTE4NTY3YTBjZTY0NTUxZGM4YzY0ZDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.k3lN3THpLpJ2KBABe67jwx-OGyurSARavDo_jWjNs_A"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM4NjA5NzgsIm5iZiI6MTc4Mzg2MDY3OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzEyVDEyNTExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBiM2Y3MzAyZTdkYTc3M2RlZmIzOWU1YWQwNjZjOGQ4ODg5OWVjYTNlOTE4NTY3YTBjZTY0NTUxZGM4YzY0ZDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.k3lN3THpLpJ2KBABe67jwx-OGyurSARavDo_jWjNs_A" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM4NjA5NzgsIm5iZiI6MTc4Mzg2MDY3OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzEyVDEyNTExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3N2Q2YzNjNTYyNDQ3NzFmYWEzMDFmMzVjMmU5ZjAzM2MyZDQ5MjlhYjE4ODU2MmNlOTFiYTlhNzdlMmY3YzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.YaCgQZYEPtepis4EuMzXdjOVI1o6H-r5tfE6Fl03bSQ"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM4NjA5NzgsIm5iZiI6MTc4Mzg2MDY3OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzEyVDEyNTExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3N2Q2YzNjNTYyNDQ3NzFmYWEzMDFmMzVjMmU5ZjAzM2MyZDQ5MjlhYjE4ODU2MmNlOTFiYTlhNzdlMmY3YzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.YaCgQZYEPtepis4EuMzXdjOVI1o6H-r5tfE6Fl03bSQ" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM4NjA5NzgsIm5iZiI6MTc4Mzg2MDY3OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzEyVDEyNTExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3ZDZhNzY4OTU0MzhlMjg5ZDY0ZDRlOTdhY2NhMDZhNTdhMmU2ZTJkOTU4ODUxMDUzZTU1ZmNjM2M3ZTAyZjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.M4B4672wLlfpIDucorp4Cj8DmBESQQqkNUJu4uqWHIE"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM4NjA5NzgsIm5iZiI6MTc4Mzg2MDY3OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzEyVDEyNTExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3ZDZhNzY4OTU0MzhlMjg5ZDY0ZDRlOTdhY2NhMDZhNTdhMmU2ZTJkOTU4ODUxMDUzZTU1ZmNjM2M3ZTAyZjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.M4B4672wLlfpIDucorp4Cj8DmBESQQqkNUJu4uqWHIE" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM4NjYzODAsIm5iZiI6MTc4Mzg2NjA4MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzEyVDE0MjEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExMjYyOTA3NjliZDg1MzE1NTg4ZDBiYmUwOTBjZDM0ODk5Njk4MDI1OTZhYjJlNTk4NTgzNTI0YzgxN2M4MzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.KDD3ohiD-7QDvS6wxvoZwppPYI0d9u756kE0SEjdgD0"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM4NjYzODAsIm5iZiI6MTc4Mzg2NjA4MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzEyVDE0MjEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExMjYyOTA3NjliZDg1MzE1NTg4ZDBiYmUwOTBjZDM0ODk5Njk4MDI1OTZhYjJlNTk4NTgzNTI0YzgxN2M4MzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.KDD3ohiD-7QDvS6wxvoZwppPYI0d9u756kE0SEjdgD0" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM4NjYzODAsIm5iZiI6MTc4Mzg2NjA4MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzEyVDE0MjEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM2NjRmOWNhMThjYWYyMGE0ZjA2NjMzNDkzNWZkZTQyNzhhN2NhMzM0N2Q3OTA0ZWFlMmIyYzExNWM5YzEwODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.u1zyN4wqeU1ALjPsyGy-XNbiKmNmaxGQEUXn0zHhWqE"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM4NjYzODAsIm5iZiI6MTc4Mzg2NjA4MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzEyVDE0MjEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM2NjRmOWNhMThjYWYyMGE0ZjA2NjMzNDkzNWZkZTQyNzhhN2NhMzM0N2Q3OTA0ZWFlMmIyYzExNWM5YzEwODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.u1zyN4wqeU1ALjPsyGy-XNbiKmNmaxGQEUXn0zHhWqE" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM4NjYzODAsIm5iZiI6MTc4Mzg2NjA4MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzEyVDE0MjEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwYTUzMDI4MWY3MmQ4Mjg3M2I0MWQzMGM4ZjZiMGMzYjg4NThlYjdlOGEzNTQ1NDVhMzc0NGJhYWNlZDg5NTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.dC53vDQatf226UIv-cNpFo0kVIyr5URcpzzduaLmn9o"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM4NjYzODAsIm5iZiI6MTc4Mzg2NjA4MCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzEyVDE0MjEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwYTUzMDI4MWY3MmQ4Mjg3M2I0MWQzMGM4ZjZiMGMzYjg4NThlYjdlOGEzNTQ1NDVhMzc0NGJhYWNlZDg5NTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.dC53vDQatf226UIv-cNpFo0kVIyr5URcpzzduaLmn9o" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -502,20 +580,5 @@ Used for: Writing down the problem. Thinking about the problem. Writing up the s
             <uri>https://github.com/nelsonic</uri>
         </author>
         <published>2021-05-25T07:22:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Favourite posts]]></title>
-        <id>https://github.com/cemreefe/client-side-rss-reader/issues/17</id>
-        <link href="https://github.com/cemreefe/client-side-rss-reader/issues/17"/>
-        <updated>2025-01-14T18:20:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/44120900?u=e31f09722b17b20eaed84b66e7a1d420ed65d02f&v=4" width="64" height="64" alt=""/><br/><p dir="auto">Favourite posts, like read posts, will live on the frontend and perish if not carefully guarded.</p>
-<p dir="auto">This -&gt; <a href="https://shkspr.mobi/blog/2024/12/whats-the-best-way-to-protect-banking-apps-on-android/" rel="nofollow">https://shkspr.mobi/blog/2024/12/whats-the-best-way-to-protect-banking-apps-on-android/</a> post was so good i need to implement favourite posts to favourite it.</p>
-<p dir="auto">Edit: maybe I can just toot myself.</p>]]></content>
-        <author>
-            <name>cemreefe</name>
-            <email>cemreefe@noreply.github.com</email>
-            <uri>https://github.com/cemreefe</uri>
-        </author>
-        <published>2025-01-14T18:19:43.000Z</published>
     </entry>
 </feed>

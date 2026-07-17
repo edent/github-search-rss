@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-07-17T09:44:08.456Z</updated>
+    <updated>2026-07-17T11:12:45.011Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -120,9 +120,9 @@
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQyODE3NDgsIm5iZiI6MTc4NDI4MTQ0OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE3VDA5NDQwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2N2Q4ODU1NGIzOTMwOWZlYWUyODE2NWM0NWRkOGFmNWZmYTBiODJiNWQwZDUwMWIzZTU3Mzg2NWMzZjY3OTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.8frxiLT0OGfEdXo0wIwk7PDkJEL5lCs7jwOGYodGEIc"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQyODE3NDgsIm5iZiI6MTc4NDI4MTQ0OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE3VDA5NDQwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2N2Q4ODU1NGIzOTMwOWZlYWUyODE2NWM0NWRkOGFmNWZmYTBiODJiNWQwZDUwMWIzZTU3Mzg2NWMzZjY3OTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.8frxiLT0OGfEdXo0wIwk7PDkJEL5lCs7jwOGYodGEIc" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQyODE3NDgsIm5iZiI6MTc4NDI4MTQ0OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE3VDA5NDQwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmMDZkOGU2NzJmN2QxZmY0NGY2MjAyY2QxYzg5NmJkYWMyNGYyN2JmYTY0OTRlNzdmMzU0ZDk5ZjZkMDFjN2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.1Ahr3fD15YJun_Uw4NxFzsEWhyaXKHAmhfC2BTgRwFc"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQyODE3NDgsIm5iZiI6MTc4NDI4MTQ0OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE3VDA5NDQwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmMDZkOGU2NzJmN2QxZmY0NGY2MjAyY2QxYzg5NmJkYWMyNGYyN2JmYTY0OTRlNzdmMzU0ZDk5ZjZkMDFjN2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.1Ahr3fD15YJun_Uw4NxFzsEWhyaXKHAmhfC2BTgRwFc" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQyODE3NDgsIm5iZiI6MTc4NDI4MTQ0OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE3VDA5NDQwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2NmJiNDdkMDU4MjgzNzIxNDQ5NWZiNmZlNjI1NDE1YTMxMmNjM2M0NTFlNjI0OTIxYWJjYjJlZTFlMzM4YTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.-rgTLvsnxOR6IPhRDVA_GGMinPA0V1F2AeEWjFOEulQ"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQyODE3NDgsIm5iZiI6MTc4NDI4MTQ0OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE3VDA5NDQwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2NmJiNDdkMDU4MjgzNzIxNDQ5NWZiNmZlNjI1NDE1YTMxMmNjM2M0NTFlNjI0OTIxYWJjYjJlZTFlMzM4YTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.-rgTLvsnxOR6IPhRDVA_GGMinPA0V1F2AeEWjFOEulQ" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQyODcwNjQsIm5iZiI6MTc4NDI4Njc2NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE3VDExMTI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExZDIwZWNhOTNhY2E5Nzk2NGViNDM3NjVlNjlhMDgwNzgwMmI4Y2Q5NmYxN2Y5ZGUwYmI0YTIwZmE2ZTNhOTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.xuHq5wZEYrbynNdfg1balhGddQQ7_FDYBm1CVfPBi2c"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQyODcwNjQsIm5iZiI6MTc4NDI4Njc2NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE3VDExMTI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExZDIwZWNhOTNhY2E5Nzk2NGViNDM3NjVlNjlhMDgwNzgwMmI4Y2Q5NmYxN2Y5ZGUwYmI0YTIwZmE2ZTNhOTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.xuHq5wZEYrbynNdfg1balhGddQQ7_FDYBm1CVfPBi2c" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQyODcwNjQsIm5iZiI6MTc4NDI4Njc2NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE3VDExMTI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZjYmM1MzBhZDRiZDg0Y2JiZjYwNWM1Y2M3MmNhMzFmNGMxZGUwYTNkMDIwMTkyMDE2ZDEyMjNhNTUwMmI1M2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.mCce6RddJw7-bU5U4bexTIg4gHkLY0HBn1sV9RX4NKQ"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQyODcwNjQsIm5iZiI6MTc4NDI4Njc2NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE3VDExMTI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZjYmM1MzBhZDRiZDg0Y2JiZjYwNWM1Y2M3MmNhMzFmNGMxZGUwYTNkMDIwMTkyMDE2ZDEyMjNhNTUwMmI1M2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.mCce6RddJw7-bU5U4bexTIg4gHkLY0HBn1sV9RX4NKQ" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQyODcwNjQsIm5iZiI6MTc4NDI4Njc2NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE3VDExMTI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwY2Y0NTJhOTY0YTllZjM4MjYwMzE0ODMxZDE5NGYxNjkyYWE1MTZiYWNlYjc3YmZiOWQ4MTRhNzk2ZjI0Y2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.VwSgWdKfBCWxB8igYMlsCXUWxAWg33-ZDV7GL8ldUAw"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQyODcwNjQsIm5iZiI6MTc4NDI4Njc2NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE3VDExMTI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwY2Y0NTJhOTY0YTllZjM4MjYwMzE0ODMxZDE5NGYxNjkyYWE1MTZiYWNlYjc3YmZiOWQ4MTRhNzk2ZjI0Y2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.VwSgWdKfBCWxB8igYMlsCXUWxAWg33-ZDV7GL8ldUAw" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -481,6 +481,33 @@ Used for: Writing down the problem. Thinking about the problem. Writing up the s
         <published>2018-11-04T14:51:38.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Character encoding - `@` not coming through]]></title>
+        <id>https://github.com/edent/WordPress-On-This-Day-Plugin/issues/3</id>
+        <link href="https://github.com/edent/WordPress-On-This-Day-Plugin/issues/3"/>
+        <updated>2016-12-04T19:05:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/837136?u=73b5c34325606e447be7074fd0deefc55a004c82&v=4" width="64" height="64" alt=""/><br/><p dir="auto">See <a href="https://twitter.com/edent/status/804958566193000448" rel="nofollow">https://twitter.com/edent/status/804958566193000448</a></p>
+<p dir="auto"><a href="https://shkspr.mobi/blog/2014/12/episode-12-orcid-with-pigsonthewing/" rel="nofollow">https://shkspr.mobi/blog/2014/12/episode-12-orcid-with-pigsonthewing/</a></p>]]></content>
+        <author>
+            <name>edent</name>
+            <email>edent@noreply.github.com</email>
+            <uri>https://github.com/edent</uri>
+        </author>
+        <published>2016-12-04T18:50:06.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove 3rd party resources (e.g. fonts, JS)]]></title>
+        <id>https://github.com/JuliaActuary/JuliaActuary.org/issues/7</id>
+        <link href="https://github.com/JuliaActuary/JuliaActuary.org/issues/7"/>
+        <updated>2021-10-03T19:31:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/711879?u=5e7f92ccc07727dcbe7cf785daafa9c473e0e716&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/" rel="nofollow">https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/</a></p>]]></content>
+        <author>
+            <name>alecloudenback</name>
+            <email>alecloudenback@noreply.github.com</email>
+            <uri>https://github.com/alecloudenback</uri>
+        </author>
+        <published>2020-10-20T11:40:34.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[📰 每日文章摘要 - 2026-07-14]]></title>
         <id>https://github.com/dma9527/rss-digest/issues/148</id>
         <link href="https://github.com/dma9527/rss-digest/issues/148"/>
@@ -597,33 +624,6 @@ Used for: Writing down the problem. Thinking about the problem. Writing up the s
             <uri>https://github.com/apps/github-actions</uri>
         </author>
         <published>2026-07-14T13:51:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Character encoding - `@` not coming through]]></title>
-        <id>https://github.com/edent/WordPress-On-This-Day-Plugin/issues/3</id>
-        <link href="https://github.com/edent/WordPress-On-This-Day-Plugin/issues/3"/>
-        <updated>2016-12-04T19:05:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/837136?u=73b5c34325606e447be7074fd0deefc55a004c82&v=4" width="64" height="64" alt=""/><br/><p dir="auto">See <a href="https://twitter.com/edent/status/804958566193000448" rel="nofollow">https://twitter.com/edent/status/804958566193000448</a></p>
-<p dir="auto"><a href="https://shkspr.mobi/blog/2014/12/episode-12-orcid-with-pigsonthewing/" rel="nofollow">https://shkspr.mobi/blog/2014/12/episode-12-orcid-with-pigsonthewing/</a></p>]]></content>
-        <author>
-            <name>edent</name>
-            <email>edent@noreply.github.com</email>
-            <uri>https://github.com/edent</uri>
-        </author>
-        <published>2016-12-04T18:50:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove 3rd party resources (e.g. fonts, JS)]]></title>
-        <id>https://github.com/JuliaActuary/JuliaActuary.org/issues/7</id>
-        <link href="https://github.com/JuliaActuary/JuliaActuary.org/issues/7"/>
-        <updated>2021-10-03T19:31:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/711879?u=5e7f92ccc07727dcbe7cf785daafa9c473e0e716&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/" rel="nofollow">https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/</a></p>]]></content>
-        <author>
-            <name>alecloudenback</name>
-            <email>alecloudenback@noreply.github.com</email>
-            <uri>https://github.com/alecloudenback</uri>
-        </author>
-        <published>2020-10-20T11:40:34.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[📰 每日文章摘要 - 2026-07-04]]></title>

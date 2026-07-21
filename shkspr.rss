@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-07-21T01:24:28.013Z</updated>
+    <updated>2026-07-21T04:56:26.548Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -25,6 +25,48 @@
         <published>2026-04-13T13:05:22.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Add images from WebMention?]]></title>
+        <id>https://github.com/pfefferle/wordpress-webmention/issues/365</id>
+        <link href="https://github.com/pfefferle/wordpress-webmention/issues/365"/>
+        <updated>2026-07-21T04:46:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/837136?u=73b5c34325606e447be7074fd0deefc55a004c82&v=4" width="64" height="64" alt=""/><br/><p dir="auto">I've received a pingback from <a href="https://brid.gy/comment/mastodon/@edent@mastodon.social/110151657347210229/110151774995722710" rel="nofollow">https://brid.gy/comment/mastodon/@edent@mastodon.social/110151657347210229/110151774995722710</a></p>
+<p dir="auto">The plugin gets the author's name, URL, avatar, and text content. It doesn't include the image along with the post.</p>
+<p dir="auto">Sometimes, people reply with <em>only</em> an image. Or their reply references an attached image. It would be useful to include this as part of the webmention.</p>
+<p dir="auto">The HTML code is:</p>
+<div class="highlight highlight-text-html-basic notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="&lt;span class=&quot;p-author h-card&quot;&gt;
+   &lt;a class=&quot;p-name u-url&quot; href=&quot;https://mastodon.social/@Edent&quot;&gt;Terence Eden&lt;/a&gt;
+   &lt;a class=&quot;u-url&quot; href=&quot;https://edent.tel/&quot;&gt;&lt;/a&gt;
+   &lt;a class=&quot;u-url&quot; href=&quot;https://shkspr.mobi/blog&quot;&gt;&lt;/a&gt;
+   &lt;span class=&quot;p-nickname&quot;&gt;Edent&lt;/span&gt;
+   &lt;img class=&quot;u-photo&quot; src=&quot;https://files.mastodon.social/accounts/avatars/000/007/112/original/37df032a5951b96c.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/span&gt;
+&lt;a title=&quot;mastodon.social/@Edent/110151774995722710&quot; class=&quot;u-url&quot; href=&quot;https://mastodon.social/@Edent/110151774995722710&quot;&gt;mastodon.social/@Edent/1101517...&lt;/a&gt;
+&lt;div class=&quot;e-content p-name&quot;&gt;
+   &lt;p&gt;Incidentally, this was my favourite comment when I announced I was doing an MSc.&lt;/p&gt;&lt;p&gt;The rage it induced powered me through many a tutorial!&lt;/p&gt;
+&lt;/div&gt;
+&lt;img class=&quot;u-photo&quot; src=&quot;https://files.mastodon.social/media_attachments/files/110/151/771/251/554/330/original/a80cc6cfe970ec56.png&quot; alt=&quot;&quot; /&gt;"><pre class="notranslate"><span class="pl-kos">&lt;</span><span class="pl-ent">span</span> <span class="pl-c1">class</span>="<span class="pl-s">p-author h-card</span>"<span class="pl-kos">&gt;</span>
+   <span class="pl-kos">&lt;</span><span class="pl-ent">a</span> <span class="pl-c1">class</span>="<span class="pl-s">p-name u-url</span>" <span class="pl-c1">href</span>="<span class="pl-s">https://mastodon.social/@Edent</span>"<span class="pl-kos">&gt;</span>Terence Eden<span class="pl-kos">&lt;/</span><span class="pl-ent">a</span><span class="pl-kos">&gt;</span>
+   <span class="pl-kos">&lt;</span><span class="pl-ent">a</span> <span class="pl-c1">class</span>="<span class="pl-s">u-url</span>" <span class="pl-c1">href</span>="<span class="pl-s">https://edent.tel/</span>"<span class="pl-kos">&gt;</span><span class="pl-kos">&lt;/</span><span class="pl-ent">a</span><span class="pl-kos">&gt;</span>
+   <span class="pl-kos">&lt;</span><span class="pl-ent">a</span> <span class="pl-c1">class</span>="<span class="pl-s">u-url</span>" <span class="pl-c1">href</span>="<span class="pl-s">https://shkspr.mobi/blog</span>"<span class="pl-kos">&gt;</span><span class="pl-kos">&lt;/</span><span class="pl-ent">a</span><span class="pl-kos">&gt;</span>
+   <span class="pl-kos">&lt;</span><span class="pl-ent">span</span> <span class="pl-c1">class</span>="<span class="pl-s">p-nickname</span>"<span class="pl-kos">&gt;</span>Edent<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>
+   <span class="pl-kos">&lt;</span><span class="pl-ent">img</span> <span class="pl-c1">class</span>="<span class="pl-s">u-photo</span>" <span class="pl-c1">src</span>="<span class="pl-s">https://files.mastodon.social/accounts/avatars/000/007/112/original/37df032a5951b96c.jpg</span>" <span class="pl-c1">alt</span>="" <span class="pl-kos">/&gt;</span>
+<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>
+<span class="pl-kos">&lt;</span><span class="pl-ent">a</span> <span class="pl-c1">title</span>="<span class="pl-s">mastodon.social/@Edent/110151774995722710</span>" <span class="pl-c1">class</span>="<span class="pl-s">u-url</span>" <span class="pl-c1">href</span>="<span class="pl-s">https://mastodon.social/@Edent/110151774995722710</span>"<span class="pl-kos">&gt;</span>mastodon.social/@Edent/1101517...<span class="pl-kos">&lt;/</span><span class="pl-ent">a</span><span class="pl-kos">&gt;</span>
+<span class="pl-kos">&lt;</span><span class="pl-ent">div</span> <span class="pl-c1">class</span>="<span class="pl-s">e-content p-name</span>"<span class="pl-kos">&gt;</span>
+   <span class="pl-kos">&lt;</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span>Incidentally, this was my favourite comment when I announced I was doing an MSc.<span class="pl-kos">&lt;/</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span>The rage it induced powered me through many a tutorial!<span class="pl-kos">&lt;/</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span>
+<span class="pl-kos">&lt;/</span><span class="pl-ent">div</span><span class="pl-kos">&gt;</span>
+<span class="pl-kos">&lt;</span><span class="pl-ent">img</span> <span class="pl-c1">class</span>="<span class="pl-s">u-photo</span>" <span class="pl-c1">src</span>="<span class="pl-s">https://files.mastodon.social/media_attachments/files/110/151/771/251/554/330/original/a80cc6cfe970ec56.png</span>" <span class="pl-c1">alt</span>="" <span class="pl-kos">/&gt;</span></pre></div>
+<p dir="auto"><a href="https://mastodon.social/web/statuses/110151657347210229" rel="nofollow"></a><br>
+<a href="https://shkspr.mobi/blog/2023/04/msc-completed/" rel="nofollow"></a></p>
+]]></content>
+        <author>
+            <name>edent</name>
+            <email>edent@noreply.github.com</email>
+            <uri>https://github.com/edent</uri>
+        </author>
+        <published>2023-04-06T12:57:37.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Consider changing to https://openfreemap.org/]]></title>
         <id>https://github.com/openheritage/open-plaques-4/issues/248</id>
         <link href="https://github.com/openheritage/open-plaques-4/issues/248"/>
@@ -42,9 +84,9 @@
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ1OTczNjcsIm5iZiI6MTc4NDU5NzA2NywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzIxVDAxMjQyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjMTViMjhhZjlhYTI5YzY2ZGI3NjkzOWExZmQxM2ZhMDYwZjRkMGRhOGYyNmM3YjU4NDI3ZGNiZjA0MGQyYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.3pVMF5JemzAGg06z2C698OJMnG9Ltx51Eb4ICbkv24U"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ1OTczNjcsIm5iZiI6MTc4NDU5NzA2NywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzIxVDAxMjQyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjMTViMjhhZjlhYTI5YzY2ZGI3NjkzOWExZmQxM2ZhMDYwZjRkMGRhOGYyNmM3YjU4NDI3ZGNiZjA0MGQyYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.3pVMF5JemzAGg06z2C698OJMnG9Ltx51Eb4ICbkv24U" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ1OTczNjcsIm5iZiI6MTc4NDU5NzA2NywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzIxVDAxMjQyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmNTFkZDY5NzIwNzg3MTI1MjcxODNiM2QyMTBkZDQ0OTAyMTdjMWJiYTZlZTAzYzgxNTcyZTE0NTE5ZGJlZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.xg1PAVbU77TUC0BCMDOWsjWU1NuTdE1xiXAF8ef_3UM"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ1OTczNjcsIm5iZiI6MTc4NDU5NzA2NywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzIxVDAxMjQyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmNTFkZDY5NzIwNzg3MTI1MjcxODNiM2QyMTBkZDQ0OTAyMTdjMWJiYTZlZTAzYzgxNTcyZTE0NTE5ZGJlZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.xg1PAVbU77TUC0BCMDOWsjWU1NuTdE1xiXAF8ef_3UM" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ1OTczNjcsIm5iZiI6MTc4NDU5NzA2NywicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzIxVDAxMjQyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRiZDAzYjM3YzAxNjc1NjZkN2EwMzVjNjZlMzNkM2FkNjhlYWE1MjRkYWYyN2VlNTkxYjkxYjZmZDk3MTgyMGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.tZjV_qwenS6pvR90vbBV3EWcd4lxILUVsfSZUDJR83I"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ1OTczNjcsIm5iZiI6MTc4NDU5NzA2NywicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzIxVDAxMjQyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRiZDAzYjM3YzAxNjc1NjZkN2EwMzVjNjZlMzNkM2FkNjhlYWE1MjRkYWYyN2VlNTkxYjkxYjZmZDk3MTgyMGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.tZjV_qwenS6pvR90vbBV3EWcd4lxILUVsfSZUDJR83I" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ2MTAwODYsIm5iZiI6MTc4NDYwOTc4NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzIxVDA0NTYyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM0ZGMxZDU3OGU3NDM3OTk2M2VlN2IyNTBjMjdkYjEzZWEyM2ZiZDgyNDFmYzU1OTQ5NzkzZTAxYzZlNjM5MjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.ZjESmeiGC01PuEua0F-QUjdTdO226O5hdiAGSm0xoDA"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ2MTAwODYsIm5iZiI6MTc4NDYwOTc4NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzIxVDA0NTYyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM0ZGMxZDU3OGU3NDM3OTk2M2VlN2IyNTBjMjdkYjEzZWEyM2ZiZDgyNDFmYzU1OTQ5NzkzZTAxYzZlNjM5MjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.ZjESmeiGC01PuEua0F-QUjdTdO226O5hdiAGSm0xoDA" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ2MTAwODYsIm5iZiI6MTc4NDYwOTc4NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzIxVDA0NTYyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1MmVmM2Q0N2E0NDY1NzU4YTUyZTNiZDMzMjk3ODA4ZjljNjY0OTk3YWQwMTViOTU1MmQzNWJiNmM2MDg4NDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.BleI-hSXkFaWk5LCqlLBV9Sq_dsQsxcLmoX0wX01s4g"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ2MTAwODYsIm5iZiI6MTc4NDYwOTc4NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzIxVDA0NTYyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1MmVmM2Q0N2E0NDY1NzU4YTUyZTNiZDMzMjk3ODA4ZjljNjY0OTk3YWQwMTViOTU1MmQzNWJiNmM2MDg4NDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.BleI-hSXkFaWk5LCqlLBV9Sq_dsQsxcLmoX0wX01s4g" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ2MTAwODYsIm5iZiI6MTc4NDYwOTc4NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzIxVDA0NTYyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUyNWVlMzQyYjg3NDZmYTliYzU2OTQyNjY2MzllNDM2YWFjMDQ0MDVlOWQ4ZWIzODc5NzY3OWIwY2FmY2FlYzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.XVEqDCBlyE-otmBy986rwkYDLkclxMem0zQBUMRDbz8"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQ2MTAwODYsIm5iZiI6MTc4NDYwOTc4NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzIxVDA0NTYyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUyNWVlMzQyYjg3NDZmYTliYzU2OTQyNjY2MzllNDM2YWFjMDQ0MDVlOWQ4ZWIzODc5NzY3OWIwY2FmY2FlYzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.XVEqDCBlyE-otmBy986rwkYDLkclxMem0zQBUMRDbz8" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -524,123 +566,5 @@ Used for: Writing down the problem. Thinking about the problem. Writing up the s
             <uri>https://github.com/sreimers</uri>
         </author>
         <published>2025-06-02T08:26:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📰 每日文章摘要 - 2026-07-14]]></title>
-        <id>https://github.com/dma9527/rss-digest/issues/148</id>
-        <link href="https://github.com/dma9527/rss-digest/issues/148"/>
-        <updated>2026-07-14T13:51:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/15368?v=4" width="64" height="64" alt=""/><br/><h2 dir="auto">📰 每日文章摘要</h2>
-<p dir="auto"><strong>日期</strong>: 2026-07-14 · 共 13 篇，0 篇高分 (≥7)</p>
-<h3 dir="auto">1. Using uvx in GitHub Actions in a cache-friendly way</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: Using uvx in GitHub Actions in a cache-friendly way</li>
-<li><strong>来源</strong>: simonwillison.net</li>
-<li><strong>链接</strong>: <a href="https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything" rel="nofollow">https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">2. DOOMQL</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: DOOMQL</li>
-<li><strong>来源</strong>: simonwillison.net</li>
-<li><strong>链接</strong>: <a href="https://simonwillison.net/2026/Jul/13/doomql/#atom-everything" rel="nofollow">https://simonwillison.net/2026/Jul/13/doomql/#atom-everything</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">3. datasette code-frequency chart on GitHub</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: datasette code-frequency chart on GitHub</li>
-<li><strong>来源</strong>: simonwillison.net</li>
-<li><strong>链接</strong>: <a href="https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything" rel="nofollow">https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">4. What does "playing politics" mean for software engineers?</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: What does "playing politics" mean for software engineers?</li>
-<li><strong>来源</strong>: seangoedecke.com</li>
-<li><strong>链接</strong>: <a href="https://seangoedecke.com/playing-politics/" rel="nofollow">https://seangoedecke.com/playing-politics/</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">5. Lessons Learned from CISA’s Recent GitHub Leak</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: Lessons Learned from CISA’s Recent GitHub Leak</li>
-<li><strong>来源</strong>: krebsonsecurity.com</li>
-<li><strong>链接</strong>: <a href="https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/" rel="nofollow">https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">6. [Sponsor] Paper</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: [Sponsor] Paper</li>
-<li><strong>来源</strong>: daringfireball.net</li>
-<li><strong>链接</strong>: <a href="https://paper.design/?utm_source=df" rel="nofollow">https://paper.design/?utm_source=df</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">7. Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?</li>
-<li><strong>来源</strong>: daringfireball.net</li>
-<li><strong>链接</strong>: <a href="https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/" rel="nofollow">https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">8. Pluralistic: Gerontocracy's failure mode (14 Jul 2026)</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: Pluralistic: Gerontocracy's failure mode (14 Jul 2026)</li>
-<li><strong>来源</strong>: pluralistic.net</li>
-<li><strong>链接</strong>: <a href="https://pluralistic.net/2026/07/14/designated-survivor/" rel="nofollow">https://pluralistic.net/2026/07/14/designated-survivor/</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">9. I'm a USB-C Maximalist</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: I'm a USB-C Maximalist</li>
-<li><strong>来源</strong>: shkspr.mobi</li>
-<li><strong>链接</strong>: <a href="https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/" rel="nofollow">https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">10. Why don’t we just make the entire stack out of guard pages?</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: Why don’t we just make the entire stack out of guard pages?</li>
-<li><strong>来源</strong>: devblogs.microsoft.com/oldnewthing</li>
-<li><strong>链接</strong>: <a href="https://devblogs.microsoft.com/oldnewthing/20260713-00/?p=112528" rel="nofollow">https://devblogs.microsoft.com/oldnewthing/20260713-00/?p=112528</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">11. Mandatory Update: A Short Story</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: Mandatory Update: A Short Story</li>
-<li><strong>来源</strong>: micahflee.com</li>
-<li><strong>链接</strong>: <a href="https://micahflee.com/mandatory-update-a-short-story/" rel="nofollow">https://micahflee.com/mandatory-update-a-short-story/</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">12. Intuition for distribution differences</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: Intuition for distribution differences</li>
-<li><strong>来源</strong>: entropicthoughts.com</li>
-<li><strong>链接</strong>: <a href="https://entropicthoughts.com/distribution-differences" rel="nofollow">https://entropicthoughts.com/distribution-differences</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">13. Nintendo Famicom and the secret of Nintendo’s success</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: Nintendo Famicom and the secret of Nintendo’s success</li>
-<li><strong>来源</strong>: dfarq.homeip.net</li>
-<li><strong>链接</strong>: <a href="https://dfarq.homeip.net/nintendo-famicom-and-the-secret-of-nintendos-success/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nintendo-famicom-and-the-secret-of-nintendos-success" rel="nofollow">https://dfarq.homeip.net/nintendo-famicom-and-the-secret-of-nintendos-success/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nintendo-famicom-and-the-secret-of-nintendos-success</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>]]></content>
-        <author>
-            <name>github-actions</name>
-            <email>github-actions@noreply.github.com</email>
-            <uri>https://github.com/apps/github-actions</uri>
-        </author>
-        <published>2026-07-14T13:51:23.000Z</published>
     </entry>
 </feed>

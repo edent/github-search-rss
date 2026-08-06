@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-08-06T10:24:19.742Z</updated>
+    <updated>2026-08-06T12:48:41.185Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -42,9 +42,9 @@
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYwMTIxNTksIm5iZiI6MTc4NjAxMTg1OSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA2VDEwMjQxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJiNjJkYzkwMzZjMTY5ZTU2OWY3NjlmMjRkZjk4OWViZjMzNDQ1NWExNjRmYThhNjdhNmQ1OTQwMmQwZWJmNTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.UWzpygqm9KTTd6xzps9uWxtWjRKNpWsUEL5_u8kgNK0"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYwMTIxNTksIm5iZiI6MTc4NjAxMTg1OSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA2VDEwMjQxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJiNjJkYzkwMzZjMTY5ZTU2OWY3NjlmMjRkZjk4OWViZjMzNDQ1NWExNjRmYThhNjdhNmQ1OTQwMmQwZWJmNTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.UWzpygqm9KTTd6xzps9uWxtWjRKNpWsUEL5_u8kgNK0" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYwMTIxNTksIm5iZiI6MTc4NjAxMTg1OSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA2VDEwMjQxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmMzg3NGRkNTdmNjBmOGJkYzQzYWE1ODI0MTlhZDRmMGI3NzBhZDI5NjQzMDc3NzE4NGE5MWM1YTliMzcwOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.cQbvlJm7lbFg-srZo0I6xdFnpCdcsfzvf4lQgHB3yiI"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYwMTIxNTksIm5iZiI6MTc4NjAxMTg1OSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA2VDEwMjQxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmMzg3NGRkNTdmNjBmOGJkYzQzYWE1ODI0MTlhZDRmMGI3NzBhZDI5NjQzMDc3NzE4NGE5MWM1YTliMzcwOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.cQbvlJm7lbFg-srZo0I6xdFnpCdcsfzvf4lQgHB3yiI" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYwMTIxNTksIm5iZiI6MTc4NjAxMTg1OSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA2VDEwMjQxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMwYjhjYWFjZjc3YjRiMWQyMmJjY2M3YzI2YTAwN2Q5MTkwNDhjNmExYWVmMzM1YjE0Y2YxZjg0YjkzMmQxZTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.jTUxNhXNH0DerA8XJRrVjFSkKDb0Y1ATfkeGjenzZgQ"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYwMTIxNTksIm5iZiI6MTc4NjAxMTg1OSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA2VDEwMjQxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMwYjhjYWFjZjc3YjRiMWQyMmJjY2M3YzI2YTAwN2Q5MTkwNDhjNmExYWVmMzM1YjE0Y2YxZjg0YjkzMmQxZTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.jTUxNhXNH0DerA8XJRrVjFSkKDb0Y1ATfkeGjenzZgQ" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYwMjA4MjEsIm5iZiI6MTc4NjAyMDUyMSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA2VDEyNDg0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyMmViMjI0ZTI1NjBkYjIwMDY1N2ViMGExMjhlYjA2MDI0NjBmYThlMmI1Y2JkZDY2MDJlMWYyMzY1OTQ1MTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.bJDdQM2kqb-62R9JDAXNFAKMNX1KcHz2g7svYcZgUss"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYwMjA4MjEsIm5iZiI6MTc4NjAyMDUyMSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA2VDEyNDg0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyMmViMjI0ZTI1NjBkYjIwMDY1N2ViMGExMjhlYjA2MDI0NjBmYThlMmI1Y2JkZDY2MDJlMWYyMzY1OTQ1MTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.bJDdQM2kqb-62R9JDAXNFAKMNX1KcHz2g7svYcZgUss" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYwMjA4MjEsIm5iZiI6MTc4NjAyMDUyMSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA2VDEyNDg0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTViMWQ3ZmM0MTRkZGNlNzFlOGNmZTQ1YzFiZmE3NGE0YjRiODE1NDUxM2QzYjk3MzU0NzhkOWQ3Y2QzMjhmYzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.cg1hbkdXIz8-kK-l1cEiTVojG6qMzr7nO2nGR9xBmBM"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYwMjA4MjEsIm5iZiI6MTc4NjAyMDUyMSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA2VDEyNDg0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTViMWQ3ZmM0MTRkZGNlNzFlOGNmZTQ1YzFiZmE3NGE0YjRiODE1NDUxM2QzYjk3MzU0NzhkOWQ3Y2QzMjhmYzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.cg1hbkdXIz8-kK-l1cEiTVojG6qMzr7nO2nGR9xBmBM" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYwMjA4MjEsIm5iZiI6MTc4NjAyMDUyMSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA2VDEyNDg0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmNzQxYTUwODA0MTRhZjA5ZjY4M2IyYzA4MzkzODhhMTcyOTczODdiOTdjNThhMWM4ZTU0MzgwMmRmNzg4ODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.7fR3yJD3OImLxtdvUDfCrBHsHb2LDB7AnTsUUSISzKg"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODYwMjA4MjEsIm5iZiI6MTc4NjAyMDUyMSwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA2VDEyNDg0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmNzQxYTUwODA0MTRhZjA5ZjY4M2IyYzA4MzkzODhhMTcyOTczODdiOTdjNThhMWM4ZTU0MzgwMmRmNzg4ODYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.7fR3yJD3OImLxtdvUDfCrBHsHb2LDB7AnTsUUSISzKg" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -69,52 +69,6 @@
             <uri>https://github.com/scarf005</uri>
         </author>
         <published>2024-07-04T01:18:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlinking of avatars and emoji causing errors]]></title>
-        <id>https://github.com/Automattic/wordpress-activitypub/issues/3617</id>
-        <link href="https://github.com/Automattic/wordpress-activitypub/issues/3617"/>
-        <updated>2026-08-05T10:58:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/837136?u=73b5c34325606e447be7074fd0deefc55a004c82&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Quick summary</h3>
-<p dir="auto">My logs are filling up with these errors, relating to unlinking or renaming ActivityPub images.</p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="[04-Aug-2026 03:41:36 UTC] Warning at shkspr.mobi/blog/2024/02/internationalise-the-fediverse/: 
-[2] unlink(/home/shkspr.mobi/blog/wp-content/uploads/activitypub/actors/46855/c65604d44244909fa23668449b4f3936.webp): 
-No such file or directory in /home/shkspr.mobi/blog/wp-includes/functions.php on line 7771
-
-[04-Aug-2026 03:41:36 UTC] Warning at shkspr.mobi/blog/2024/02/internationalise-the-fediverse/: 
-[2] rename(/tmp/388649acb2026701-cW4Q7a.webp,/home/shkspr.mobi/blog/wp-content/uploads/activitypub/actors/46855/c65604d44244909fa23668449b4f3936.webp): 
-No such file or directory in /home/shkspr.mobi/blog/wp-admin/includes/class-wp-filesystem-direct.php on line 366
-
-[04-Aug-2026 03:41:36 UTC] Warning at shkspr.mobi/blog/2024/02/internationalise-the-fediverse/: 
-[2] unlink(/home/shkspr.mobi/blog/wp-content/uploads/activitypub/emoji/soc.punktrash.club/38d599b87466e97a7116afed1a22b761.png): 
-No such file or directory in /home/shkspr.mobi/blog/wp-includes/functions.php on line 7771"><pre class="notranslate"><code class="notranslate">[04-Aug-2026 03:41:36 UTC] Warning at shkspr.mobi/blog/2024/02/internationalise-the-fediverse/: 
-[2] unlink(/home/shkspr.mobi/blog/wp-content/uploads/activitypub/actors/46855/c65604d44244909fa23668449b4f3936.webp): 
-No such file or directory in /home/shkspr.mobi/blog/wp-includes/functions.php on line 7771
-
-[04-Aug-2026 03:41:36 UTC] Warning at shkspr.mobi/blog/2024/02/internationalise-the-fediverse/: 
-[2] rename(/tmp/388649acb2026701-cW4Q7a.webp,/home/shkspr.mobi/blog/wp-content/uploads/activitypub/actors/46855/c65604d44244909fa23668449b4f3936.webp): 
-No such file or directory in /home/shkspr.mobi/blog/wp-admin/includes/class-wp-filesystem-direct.php on line 366
-
-[04-Aug-2026 03:41:36 UTC] Warning at shkspr.mobi/blog/2024/02/internationalise-the-fediverse/: 
-[2] unlink(/home/shkspr.mobi/blog/wp-content/uploads/activitypub/emoji/soc.punktrash.club/38d599b87466e97a7116afed1a22b761.png): 
-No such file or directory in /home/shkspr.mobi/blog/wp-includes/functions.php on line 7771
-</code></pre></div>
-<h3 dir="auto">Steps to reproduce</h3>
-<p dir="auto">I assume this happens when a comment is deleted? Or perhaps it is periodic, I'm not sure.</p>
-<h3 dir="auto">Site owner impact</h3>
-<p dir="auto">Fewer than 20% of the total website/platform users</p>
-<h3 dir="auto">Severity</h3>
-<p dir="auto">Minor</p>
-<h3 dir="auto">What other impact(s) does this issue have?</h3>
-<p dir="auto"><em>No response</em></p>
-<h3 dir="auto">If a workaround is available, please outline it here.</h3>
-<p dir="auto">Similar to <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5009567688" data-permission-text="Title is private" data-url="https://github.com/pfefferle/wordpress-webmention/issues/622" data-hovercard-type="issue" data-hovercard-url="/pfefferle/wordpress-webmention/issues/622/hovercard" href="https://github.com/pfefferle/wordpress-webmention/issues/622">pfefferle/wordpress-webmention#622</a> I think <code class="notranslate">file_exists()</code> should be called before calling <code class="notranslate">wp_delete_file()</code> or <code class="notranslate">move()</code>.</p>]]></content>
-        <author>
-            <name>edent</name>
-            <email>edent@noreply.github.com</email>
-            <uri>https://github.com/edent</uri>
-        </author>
-        <published>2026-08-04T19:18:19.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[📰 每日文章摘要 - 2026-07-12]]></title>
@@ -193,6 +147,52 @@ No such file or directory in /home/shkspr.mobi/blog/wp-includes/functions.php on
             <uri>https://github.com/apps/github-actions</uri>
         </author>
         <published>2026-07-12T13:27:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlinking of avatars and emoji causing errors]]></title>
+        <id>https://github.com/Automattic/wordpress-activitypub/issues/3617</id>
+        <link href="https://github.com/Automattic/wordpress-activitypub/issues/3617"/>
+        <updated>2026-08-05T10:58:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/837136?u=73b5c34325606e447be7074fd0deefc55a004c82&v=4" width="64" height="64" alt=""/><br/><h3 dir="auto">Quick summary</h3>
+<p dir="auto">My logs are filling up with these errors, relating to unlinking or renaming ActivityPub images.</p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="[04-Aug-2026 03:41:36 UTC] Warning at shkspr.mobi/blog/2024/02/internationalise-the-fediverse/: 
+[2] unlink(/home/shkspr.mobi/blog/wp-content/uploads/activitypub/actors/46855/c65604d44244909fa23668449b4f3936.webp): 
+No such file or directory in /home/shkspr.mobi/blog/wp-includes/functions.php on line 7771
+
+[04-Aug-2026 03:41:36 UTC] Warning at shkspr.mobi/blog/2024/02/internationalise-the-fediverse/: 
+[2] rename(/tmp/388649acb2026701-cW4Q7a.webp,/home/shkspr.mobi/blog/wp-content/uploads/activitypub/actors/46855/c65604d44244909fa23668449b4f3936.webp): 
+No such file or directory in /home/shkspr.mobi/blog/wp-admin/includes/class-wp-filesystem-direct.php on line 366
+
+[04-Aug-2026 03:41:36 UTC] Warning at shkspr.mobi/blog/2024/02/internationalise-the-fediverse/: 
+[2] unlink(/home/shkspr.mobi/blog/wp-content/uploads/activitypub/emoji/soc.punktrash.club/38d599b87466e97a7116afed1a22b761.png): 
+No such file or directory in /home/shkspr.mobi/blog/wp-includes/functions.php on line 7771"><pre class="notranslate"><code class="notranslate">[04-Aug-2026 03:41:36 UTC] Warning at shkspr.mobi/blog/2024/02/internationalise-the-fediverse/: 
+[2] unlink(/home/shkspr.mobi/blog/wp-content/uploads/activitypub/actors/46855/c65604d44244909fa23668449b4f3936.webp): 
+No such file or directory in /home/shkspr.mobi/blog/wp-includes/functions.php on line 7771
+
+[04-Aug-2026 03:41:36 UTC] Warning at shkspr.mobi/blog/2024/02/internationalise-the-fediverse/: 
+[2] rename(/tmp/388649acb2026701-cW4Q7a.webp,/home/shkspr.mobi/blog/wp-content/uploads/activitypub/actors/46855/c65604d44244909fa23668449b4f3936.webp): 
+No such file or directory in /home/shkspr.mobi/blog/wp-admin/includes/class-wp-filesystem-direct.php on line 366
+
+[04-Aug-2026 03:41:36 UTC] Warning at shkspr.mobi/blog/2024/02/internationalise-the-fediverse/: 
+[2] unlink(/home/shkspr.mobi/blog/wp-content/uploads/activitypub/emoji/soc.punktrash.club/38d599b87466e97a7116afed1a22b761.png): 
+No such file or directory in /home/shkspr.mobi/blog/wp-includes/functions.php on line 7771
+</code></pre></div>
+<h3 dir="auto">Steps to reproduce</h3>
+<p dir="auto">I assume this happens when a comment is deleted? Or perhaps it is periodic, I'm not sure.</p>
+<h3 dir="auto">Site owner impact</h3>
+<p dir="auto">Fewer than 20% of the total website/platform users</p>
+<h3 dir="auto">Severity</h3>
+<p dir="auto">Minor</p>
+<h3 dir="auto">What other impact(s) does this issue have?</h3>
+<p dir="auto"><em>No response</em></p>
+<h3 dir="auto">If a workaround is available, please outline it here.</h3>
+<p dir="auto">Similar to <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5009567688" data-permission-text="Title is private" data-url="https://github.com/pfefferle/wordpress-webmention/issues/622" data-hovercard-type="issue" data-hovercard-url="/pfefferle/wordpress-webmention/issues/622/hovercard" href="https://github.com/pfefferle/wordpress-webmention/issues/622">pfefferle/wordpress-webmention#622</a> I think <code class="notranslate">file_exists()</code> should be called before calling <code class="notranslate">wp_delete_file()</code> or <code class="notranslate">move()</code>.</p>]]></content>
+        <author>
+            <name>edent</name>
+            <email>edent@noreply.github.com</email>
+            <uri>https://github.com/edent</uri>
+        </author>
+        <published>2026-08-04T19:18:19.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Testing on low-fi browsers]]></title>

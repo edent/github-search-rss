@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-08-14T12:37:03.778Z</updated>
+    <updated>2026-08-14T14:06:36.702Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -24,6 +24,189 @@
             <uri>https://github.com/balqaasem</uri>
         </author>
         <published>2026-08-12T02:50:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📰 每日文章摘要 - 2026-08-14]]></title>
+        <id>https://github.com/dma9527/rss-digest/issues/179</id>
+        <link href="https://github.com/dma9527/rss-digest/issues/179"/>
+        <updated>2026-08-14T13:11:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/15368?v=4" width="64" height="64" alt=""/><br/><h2 dir="auto">📰 每日文章摘要</h2>
+<p dir="auto"><strong>日期</strong>: 2026-08-14 · 共 21 篇，1 篇高分 (≥7)</p>
+<h3 dir="auto">1. 资本形成 (2026年8月14日) 🔥</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 8/10</li>
+<li><strong>原标题</strong>: Pluralistic: Capital formation (14 Aug 2026)</li>
+<li><strong>来源</strong>: pluralistic.net</li>
+<li><strong>链接</strong>: <a href="https://pluralistic.net/2026/08/14/one-chokable-throat/" rel="nofollow">https://pluralistic.net/2026/08/14/one-chokable-throat/</a></li>
+<li><strong>摘要</strong>: 这篇“多元主义”文章（2026年8月14日）探讨了资本形成如何通过“走向合法化即走向主流化”来实现。文章还深入关注了“客体永恒性”下的多项社会议题，包括伦敦版权斗士、TSA与口红冲突、长滩摄影师权利、中国与英国互联网审查、对大豪宅的批评、万智牌牌组版权，并强烈反对“保护隐私的年龄验证”机制。此外，文章也分享了作者的最新行程和书籍推荐。</li>
+<li><strong>切入角度</strong>: 【💡硬核反思】口红被没收？拍照被阻？你习以为常的“常识”，可能只是“资本”的套路！揭秘那些被我们忽略的权利与真相。</li>
+</ul>
+<h3 dir="auto">2. sqlite-utils 4.2</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 1/10</li>
+<li><strong>原标题</strong>: sqlite-utils 4.2</li>
+<li><strong>来源</strong>: simonwillison.net</li>
+<li><strong>链接</strong>: <a href="https://simonwillison.net/2026/Aug/13/sqlite-utils/" rel="nofollow">https://simonwillison.net/2026/Aug/13/sqlite-utils/</a></li>
+<li><strong>摘要</strong>: sqlite-utils 发布了 4.2 版本，此次更新重点改进了 <code class="notranslate">table.transform()</code> 功能。该功能现在能够支持更复杂的表结构修改操作，其工作原理是创建一张新表、高效复制现有数据，随后替换旧表。这一改进为用户在进行数据表转换和管理时，提供了更大的灵活性和安全性，尤其适用于处理复杂的数据集。</li>
+</ul>
+<h3 dir="auto">3. sqlite-utils 4.2.1</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: sqlite-utils 4.2.1</li>
+<li><strong>来源</strong>: simonwillison.net</li>
+<li><strong>链接</strong>: <a href="https://simonwillison.net/2026/Aug/13/sqlite-utils-2/" rel="nofollow">https://simonwillison.net/2026/Aug/13/sqlite-utils-2/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">4. llm-gemini 0.33</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: llm-gemini 0.33</li>
+<li><strong>来源</strong>: simonwillison.net</li>
+<li><strong>链接</strong>: <a href="https://simonwillison.net/2026/Aug/13/llm-gemini/" rel="nofollow">https://simonwillison.net/2026/Aug/13/llm-gemini/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">5. Who’s Tracking You? Use This New Service to Find Out</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Who’s Tracking You? Use This New Service to Find Out</li>
+<li><strong>来源</strong>: krebsonsecurity.com</li>
+<li><strong>链接</strong>: <a href="https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/" rel="nofollow">https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">6. Ceramic Shield 2 Is the Real Deal</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Ceramic Shield 2 Is the Real Deal</li>
+<li><strong>来源</strong>: daringfireball.net</li>
+<li><strong>链接</strong>: <a href="https://www.tomsguide.com/phones/iphones/iphone-17-and-iphone-air-durability-testing-heres-how-the-new-iphones-stand-up-to-bending-scratching-and-dropping" rel="nofollow">https://www.tomsguide.com/phones/iphones/iphone-17-and-iphone-air-durability-testing-heres-how-the-new-iphones-stand-up-to-bending-scratching-and-dropping</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">7. Edinburgh Fringe: Waiting for Wonka ★★★⯪☆</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Edinburgh Fringe: Waiting for Wonka ★★★⯪☆</li>
+<li><strong>来源</strong>: shkspr.mobi</li>
+<li><strong>链接</strong>: <a href="https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/" rel="nofollow">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">8. Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪</li>
+<li><strong>来源</strong>: shkspr.mobi</li>
+<li><strong>链接</strong>: <a href="https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/" rel="nofollow">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">9. Edinburgh Fringe: The Musical Mystery Caller ★★★★★</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Edinburgh Fringe: The Musical Mystery Caller ★★★★★</li>
+<li><strong>来源</strong>: shkspr.mobi</li>
+<li><strong>链接</strong>: <a href="https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/" rel="nofollow">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">10. Edinburgh Fringe: Miscast Sondheim ★★☆☆☆</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Edinburgh Fringe: Miscast Sondheim ★★☆☆☆</li>
+<li><strong>来源</strong>: shkspr.mobi</li>
+<li><strong>链接</strong>: <a href="https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/" rel="nofollow">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">11. Edinburgh Fringe: Hot Flush – A Bold, We’re Old(ish) Burlesque Show ★★★☆☆</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Edinburgh Fringe: Hot Flush – A Bold, We’re Old(ish) Burlesque Show ★★★☆☆</li>
+<li><strong>来源</strong>: shkspr.mobi</li>
+<li><strong>链接</strong>: <a href="https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/" rel="nofollow">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">12. Edinburgh Fringe - Eleanor Morton: The Mermaid ★★★⯪☆</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Edinburgh Fringe - Eleanor Morton: The Mermaid ★★★⯪☆</li>
+<li><strong>来源</strong>: shkspr.mobi</li>
+<li><strong>链接</strong>: <a href="https://shkspr.mobi/blog/2026/08/edinburgh-fringe-eleanor-morton-the-mermaid/" rel="nofollow">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-eleanor-morton-the-mermaid/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">13. A little helper class for managing LPPROC_THREAD_ATTRIBUTE_LISTs</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: A little helper class for managing LPPROC_THREAD_ATTRIBUTE_LISTs</li>
+<li><strong>来源</strong>: devblogs.microsoft.com/oldnewthing</li>
+<li><strong>链接</strong>: <a href="https://devblogs.microsoft.com/oldnewthing/20260813-00/?p=112611" rel="nofollow">https://devblogs.microsoft.com/oldnewthing/20260813-00/?p=112611</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">14. Hadamard Codes and Sphere Packing</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Hadamard Codes and Sphere Packing</li>
+<li><strong>来源</strong>: johndcook.com</li>
+<li><strong>链接</strong>: <a href="https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/" rel="nofollow">https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">15. How NASA’s Mariner 9 probe encoded images</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: How NASA’s Mariner 9 probe encoded images</li>
+<li><strong>来源</strong>: johndcook.com</li>
+<li><strong>链接</strong>: <a href="https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/" rel="nofollow">https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">16. Constructing Hadamard matrices</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Constructing Hadamard matrices</li>
+<li><strong>来源</strong>: johndcook.com</li>
+<li><strong>链接</strong>: <a href="https://www.johndcook.com/blog/2026/08/13/constructing-hadamard-matrices/" rel="nofollow">https://www.johndcook.com/blog/2026/08/13/constructing-hadamard-matrices/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">17. Printing Lists</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Printing Lists</li>
+<li><strong>来源</strong>: matklad.github.io</li>
+<li><strong>链接</strong>: <a href="https://matklad.github.io/2026/08/14/printing-lists.html" rel="nofollow">https://matklad.github.io/2026/08/14/printing-lists.html</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">18. How This Blog Is Built</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: How This Blog Is Built</li>
+<li><strong>来源</strong>: nesbitt.io</li>
+<li><strong>链接</strong>: <a href="https://nesbitt.io/2026/08/14/how-this-blog-is-built.html" rel="nofollow">https://nesbitt.io/2026/08/14/how-this-blog-is-built.html</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">19. Supplier Security Questionnaire</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Supplier Security Questionnaire</li>
+<li><strong>来源</strong>: nesbitt.io</li>
+<li><strong>链接</strong>: <a href="https://nesbitt.io/2026/08/13/supplier-security-questionnaire.html" rel="nofollow">https://nesbitt.io/2026/08/13/supplier-security-questionnaire.html</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">20. How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II</li>
+<li><strong>来源</strong>: construction-physics.com</li>
+<li><strong>链接</strong>: <a href="https://www.construction-physics.com/p/how-will-the-21st-century-road-to" rel="nofollow">https://www.construction-physics.com/p/how-will-the-21st-century-road-to</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">21. Commodore’s purchase of Amiga, August 14, 1984</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Commodore’s purchase of Amiga, August 14, 1984</li>
+<li><strong>来源</strong>: dfarq.homeip.net</li>
+<li><strong>链接</strong>: <a href="https://dfarq.homeip.net/commodores-purchase-of-amiga-august-14-1984/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=commodores-purchase-of-amiga-august-14-1984" rel="nofollow">https://dfarq.homeip.net/commodores-purchase-of-amiga-august-14-1984/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=commodores-purchase-of-amiga-august-14-1984</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>]]></content>
+        <author>
+            <name>github-actions</name>
+            <email>github-actions@noreply.github.com</email>
+            <uri>https://github.com/apps/github-actions</uri>
+        </author>
+        <published>2026-08-14T13:11:12.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Consider changing to https://openfreemap.org/]]></title>
@@ -257,9 +440,9 @@
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY3MTEzMjMsIm5iZiI6MTc4NjcxMTAyMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE0VDEyMzcwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkMDUwYjNjMjc2ZDlkYTM5MDVkMzQ0N2EwMjdkNDVjN2NlOWJmMDBiMGM0Y2FmZTA3ZDZlMzQ5MTMwZWZmZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.MUgDOT_e3F6F6Zna_mQhOOQF4D61ijTQjRVoAq74HOw"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY3MTEzMjMsIm5iZiI6MTc4NjcxMTAyMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE0VDEyMzcwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkMDUwYjNjMjc2ZDlkYTM5MDVkMzQ0N2EwMjdkNDVjN2NlOWJmMDBiMGM0Y2FmZTA3ZDZlMzQ5MTMwZWZmZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.MUgDOT_e3F6F6Zna_mQhOOQF4D61ijTQjRVoAq74HOw" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY3MTEzMjMsIm5iZiI6MTc4NjcxMTAyMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE0VDEyMzcwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE2NWUxYTU3OWFkZTZjMWQ0NTYwNTk4NzJiNzBhZjBlMzM0MDgxYTA4NDRhMjg1YWY4MDlkMjUzZDQzZTE3MjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.q7A9pOOIRpFFXdZfJNi_oi2vpJKegIN4okDVdQ6dNf0"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY3MTEzMjMsIm5iZiI6MTc4NjcxMTAyMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE0VDEyMzcwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE2NWUxYTU3OWFkZTZjMWQ0NTYwNTk4NzJiNzBhZjBlMzM0MDgxYTA4NDRhMjg1YWY4MDlkMjUzZDQzZTE3MjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.q7A9pOOIRpFFXdZfJNi_oi2vpJKegIN4okDVdQ6dNf0" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY3MTEzMjMsIm5iZiI6MTc4NjcxMTAyMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE0VDEyMzcwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlNGM0Y2Y1MTlhOGFmYmZjYTU2Mjc3NjgxNTkzOTI1MGU4NmY3ZmM1Y2IyMTMwZTk3NGE4Y2RkOGZlM2E5MDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.5tXXIOxcwx7pCLxfTjLVE0KfaZih647zC0eYOZ3uJb8"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY3MTEzMjMsIm5iZiI6MTc4NjcxMTAyMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE0VDEyMzcwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlNGM0Y2Y1MTlhOGFmYmZjYTU2Mjc3NjgxNTkzOTI1MGU4NmY3ZmM1Y2IyMTMwZTk3NGE4Y2RkOGZlM2E5MDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.5tXXIOxcwx7pCLxfTjLVE0KfaZih647zC0eYOZ3uJb8" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY3MTY2OTYsIm5iZiI6MTc4NjcxNjM5NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE0VDE0MDYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlZDM3MTYxMWUwNmI3YzVmMTczOGZlOTljMzM3M2ExNTc2MGU5NzIxNmMzYmJhZGMzYWE2ZGM1N2FjODNmMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.5VU-P3kTAaM1HmwNm_66F_klWGtBZjgIR4lM1PHvK0o"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY3MTY2OTYsIm5iZiI6MTc4NjcxNjM5NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE0VDE0MDYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZlZDM3MTYxMWUwNmI3YzVmMTczOGZlOTljMzM3M2ExNTc2MGU5NzIxNmMzYmJhZGMzYWE2ZGM1N2FjODNmMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.5VU-P3kTAaM1HmwNm_66F_klWGtBZjgIR4lM1PHvK0o" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY3MTY2OTYsIm5iZiI6MTc4NjcxNjM5NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE0VDE0MDYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA1NTk5NTZmYmQ5YTk4ZWJjMGZiNjExMDVmMTA4Mjg3OTI0ZWM0MDZmYzgzZDcyYTIyMTRhYWZjZWIwNTA5YjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.W8izaJpQJjX47YEzDjT5HjcrZJohl0zFauJfyLleC-8"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY3MTY2OTYsIm5iZiI6MTc4NjcxNjM5NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE0VDE0MDYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA1NTk5NTZmYmQ5YTk4ZWJjMGZiNjExMDVmMTA4Mjg3OTI0ZWM0MDZmYzgzZDcyYTIyMTRhYWZjZWIwNTA5YjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.W8izaJpQJjX47YEzDjT5HjcrZJohl0zFauJfyLleC-8" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY3MTY2OTYsIm5iZiI6MTc4NjcxNjM5NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE0VDE0MDYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxZjljYmNmYzI0Y2IxNDIwNDc1YjM2MWE0NDJjYjU5N2Y3NWY5NmQwMTJhMzEyY2E0Y2EzNGU2OWE5OGZjZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.fqE6ZZqST6kGDdPen5hYvSY5CWoJG6qWbCsTIYWEWUw"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODY3MTY2OTYsIm5iZiI6MTc4NjcxNjM5NiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE0VDE0MDYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxZjljYmNmYzI0Y2IxNDIwNDc1YjM2MWE0NDJjYjU5N2Y3NWY5NmQwMTJhMzEyY2E0Y2EzNGU2OWE5OGZjZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.fqE6ZZqST6kGDdPen5hYvSY5CWoJG6qWbCsTIYWEWUw" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -587,18 +770,5 @@ No such file or directory in /home/shkspr.mobi/blog/wp-includes/functions.php on
             <uri>https://github.com/sreimers</uri>
         </author>
         <published>2025-06-02T08:26:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time to 200]]></title>
-        <id>https://github.com/dwyl/learn-api-design/issues/43</id>
-        <link href="https://github.com/dwyl/learn-api-design/issues/43"/>
-        <updated>2021-05-25T08:21:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/194400?u=405fb897c18f414ea8c4f4f2613fbef605855f02&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/" rel="nofollow">https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/</a></p>]]></content>
-        <author>
-            <name>nelsonic</name>
-            <email>nelsonic@noreply.github.com</email>
-            <uri>https://github.com/nelsonic</uri>
-        </author>
-        <published>2021-05-25T07:22:26.000Z</published>
     </entry>
 </feed>

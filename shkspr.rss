@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-08-19T09:20:54.726Z</updated>
+    <updated>2026-08-19T10:16:32.682Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -223,6 +223,166 @@
         <published>2026-02-04T10:29:11.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Daily Hacker News 19/08/2026]]></title>
+        <id>https://github.com/blka/daily-hackernews/issues/516</id>
+        <link href="https://github.com/blka/daily-hackernews/issues/516"/>
+        <updated>2026-08-19T09:36:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/14985010?u=28c5812b3b1b5073871751cb2ad9cd7107621aac&v=4" width="64" height="64" alt=""/><br/><h1 dir="auto">Daily Hacker News — 19/08/2026</h1>
+<blockquote>
+<p dir="auto"><strong>Daily Stats:</strong> 25 stories · avg score: 223 · top domain: github.com</p>
+</blockquote>
+<h2 dir="auto">🔥 Top Stories</h2>
+<ol dir="auto">
+<li>
+<p dir="auto"><strong>The Amazon tax</strong> <code class="notranslate">seths.blog</code> — ⭐ 1.2k · 💬 626<br>
+<a href="https://seths.blog/2026/08/the-amazon-tax/" rel="nofollow">Article</a> · <a href="https://news.ycombinator.com/item?id=49345263" rel="nofollow">Comments</a></p>
+</li>
+<li>
+<p dir="auto"><strong>OpenLogi</strong> <code class="notranslate">openlogi.org</code> — ⭐ 628 · 💬 171<br>
+<a href="https://openlogi.org/en" rel="nofollow">Article</a> · <a href="https://news.ycombinator.com/item?id=49355606" rel="nofollow">Comments</a></p>
+</li>
+<li>
+<p dir="auto"><strong>Being ambitious and being a dad</strong> <code class="notranslate">nicholascharriere.com</code> — ⭐ 484 · 💬 293<br>
+<a href="https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/" rel="nofollow">Article</a> · <a href="https://news.ycombinator.com/item?id=49321298" rel="nofollow">Comments</a></p>
+</li>
+<li>
+<p dir="auto"><strong>How does IKEA come up with names for its products?</strong> <code class="notranslate">ikea.com</code> — ⭐ 345 · 💬 228<br>
+<a href="https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html" rel="nofollow">Article</a> · <a href="https://news.ycombinator.com/item?id=49349984" rel="nofollow">Comments</a></p>
+</li>
+<li>
+<p dir="auto"><strong>And then the men with guns tell you to do it anyway</strong> <code class="notranslate">shkspr.mobi</code> — ⭐ 315 · 💬 203<br>
+<a href="https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/" rel="nofollow">Article</a> · <a href="https://news.ycombinator.com/item?id=49348912" rel="nofollow">Comments</a></p>
+</li>
+</ol>
+<hr>
+<h2 dir="auto">💻 Programming</h2>
+<ol dir="auto">
+<li><strong><a href="https://github.com/DenisSergeevitch/desktop-fly">A 3D fruit fly on macOS desktop powered by the real FlyWire connectome</a></strong><br>
+<code class="notranslate">github.com</code> · ⭐ 272 · <a href="https://news.ycombinator.com/item?id=49353221" rel="nofollow">💬 105</a>
+<hr>
+</li>
+<li><strong><a href="https://dl.acm.org/doi/10.1145/3789240.3829151" rel="nofollow">λλ: A Programming Language for Silicon Photonics</a></strong><br>
+<code class="notranslate">dl.acm.org</code> · ⭐ 18 · <a href="https://news.ycombinator.com/item?id=49357501" rel="nofollow">💬 4</a>
+<hr>
+</li>
+<li><strong><a href="https://github.com/pg83/solo">Solo – a .so loader for static Linux binaries</a></strong><br>
+<code class="notranslate">github.com</code> · ⭐ 144 · <a href="https://news.ycombinator.com/item?id=49354613" rel="nofollow">💬 150</a>
+<hr>
+</li>
+<li><strong><a href="https://www.modular.com/blog/modcon-announcements" rel="nofollow">The Mojo language (by Modular, now Qualcomm) is now open-source</a></strong><br>
+<code class="notranslate">modular.com</code> · ⭐ 38 · <a href="https://news.ycombinator.com/item?id=49358327" rel="nofollow">💬 10</a>
+<hr>
+</li>
+<li><strong><a href="https://github.com/katiahayati/lucasartsifier/">Show HN: Automatically detect and patch walking-dead states in Sierra games</a></strong><br>
+<code class="notranslate">github.com</code> · ⭐ 57 · <a href="https://news.ycombinator.com/item?id=49355607" rel="nofollow">💬 23</a>
+<hr>
+</li>
+<li><strong><a href="https://github.com/RyanCodrai/turbovec">Turbovec – Google's TurboQuant for vector search in Rust</a></strong><br>
+<code class="notranslate">github.com</code> · ⭐ 249 · <a href="https://news.ycombinator.com/item?id=49349898" rel="nofollow">💬 31</a>
+<hr>
+</li>
+</ol>
+<hr>
+<h2 dir="auto">🤖 AI/ML</h2>
+<ol dir="auto">
+<li><strong><a href="https://linear.app/data" rel="nofollow">AI usage patterns in software teams</a></strong><br>
+<code class="notranslate">linear.app</code> · ⭐ 136 · <a href="https://news.ycombinator.com/item?id=49353432" rel="nofollow">💬 69</a>
+<hr>
+</li>
+</ol>
+<hr>
+<h2 dir="auto">🎨 Design/Product</h2>
+<ol dir="auto">
+<li><strong><a href="https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html" rel="nofollow">How does IKEA come up with names for its products?</a></strong><br>
+<code class="notranslate">ikea.com</code> · ⭐ 345 · <a href="https://news.ycombinator.com/item?id=49349984" rel="nofollow">💬 228</a>
+<hr>
+</li>
+<li><strong><a href="https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/" rel="nofollow">A 25-year-old video patent just expired, ending a legal headache for Linux</a></strong><br>
+<code class="notranslate">xda-developers.com</code> · ⭐ 184 · <a href="https://news.ycombinator.com/item?id=49311814" rel="nofollow">💬 69</a>
+<hr>
+</li>
+<li><strong><a href="https://twitter.com/kuberwastaken/status/2089377982536388964" rel="nofollow">Claude writing a macOS driver for my obscure HP printer built only for Windows</a></strong><br>
+<code class="notranslate">twitter.com</code> · ⭐ 197 · <a href="https://news.ycombinator.com/item?id=49344643" rel="nofollow">💬 158</a>
+<hr>
+</li>
+</ol>
+<hr>
+<h2 dir="auto">🔬 Science/Other</h2>
+<ol dir="auto">
+<li><strong><a href="https://openlogi.org/en" rel="nofollow">OpenLogi</a></strong><br>
+<code class="notranslate">openlogi.org</code> · ⭐ 628 · <a href="https://news.ycombinator.com/item?id=49355606" rel="nofollow">💬 171</a>
+<hr>
+</li>
+<li><strong><a href="https://nautil.us/where-human-sleep-went-wrong-1283797" rel="nofollow">Where Human Sleep Went Wrong</a></strong><br>
+<code class="notranslate">nautil.us</code> · ⭐ 49 · <a href="https://news.ycombinator.com/item?id=49358259" rel="nofollow">💬 33</a>
+<hr>
+</li>
+<li><strong><a href="https://www.cerebras.ai/cs4" rel="nofollow">Cerebras CS-4</a></strong><br>
+<code class="notranslate">cerebras.ai</code> · ⭐ 269 · <a href="https://news.ycombinator.com/item?id=49354949" rel="nofollow">💬 189</a>
+<hr>
+</li>
+<li><strong><a href="https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/" rel="nofollow">Palomar: A registry of Lean verified mathematics</a></strong><br>
+<code class="notranslate">terrytao.wordpress.com</code> · ⭐ 100 · <a href="https://news.ycombinator.com/item?id=49355968" rel="nofollow">💬 17</a>
+<hr>
+</li>
+<li><strong><a href="https://www.youtube.com/watch?v=Co57SfcT-h0" rel="nofollow">Supersonic Trebuchet [video]</a></strong><br>
+<code class="notranslate">youtube.com</code> · ⭐ 98 · <a href="https://news.ycombinator.com/item?id=49306207" rel="nofollow">💬 27</a>
+<hr>
+</li>
+<li><strong><a href="https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/" rel="nofollow">Being ambitious and being a dad</a></strong><br>
+<code class="notranslate">nicholascharriere.com</code> · ⭐ 484 · <a href="https://news.ycombinator.com/item?id=49321298" rel="nofollow">💬 293</a>
+<hr>
+</li>
+<li><strong><a href="https://herecomesthemoon.net/2024/11/two-factions-of-cpp/" rel="nofollow">The Two Factions of C++</a></strong><br>
+<code class="notranslate">herecomesthemoon.net</code> · ⭐ 16 · <a href="https://news.ycombinator.com/item?id=49318311" rel="nofollow">💬 7</a>
+<hr>
+</li>
+<li><strong><a href="https://www.bbc.com/news/articles/c1l1r1zne1ro" rel="nofollow">Scientists stunned by children's lung recovery in ultra low emission zone</a></strong><br>
+<code class="notranslate">bbc.com</code> · ⭐ 249 · <a href="https://news.ycombinator.com/item?id=49355105" rel="nofollow">💬 186</a>
+<hr>
+</li>
+<li><strong><a href="https://www.koh-antique.com/client/tangwreck/tangwreck.html" rel="nofollow">The Vietnam Binh Chau (Chau Tan) Late Tang Wreck</a></strong><br>
+<code class="notranslate">koh-antique.com</code> · ⭐ 37 · <a href="https://news.ycombinator.com/item?id=49355451" rel="nofollow">💬 3</a>
+<hr>
+</li>
+<li><strong><a href="https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/" rel="nofollow">CUDA Shared Memory Swizzling</a></strong><br>
+<code class="notranslate">leimao.github.io</code> · ⭐ 48 · <a href="https://news.ycombinator.com/item?id=49286291" rel="nofollow">💬 1</a></li>
+</ol>
+<hr>
+<ol start="11" dir="auto">
+<li><strong><a href="https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/" rel="nofollow">Finger: the 1971 social network that never died</a></strong><br>
+<code class="notranslate">en.andros.dev</code> · ⭐ 211 · <a href="https://news.ycombinator.com/item?id=49342472" rel="nofollow">💬 66</a></li>
+</ol>
+<hr>
+<ol start="12" dir="auto">
+<li><strong><a href="https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco" rel="nofollow">Meta's blockbuster trial draws parallels to big tobacco</a></strong><br>
+<code class="notranslate">economist.com</code> · ⭐ 229 · <a href="https://news.ycombinator.com/item?id=49355825" rel="nofollow">💬 181</a></li>
+</ol>
+<hr>
+<ol start="13" dir="auto">
+<li><strong><a href="https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/" rel="nofollow">And then the men with guns tell you to do it anyway</a></strong><br>
+<code class="notranslate">shkspr.mobi</code> · ⭐ 315 · <a href="https://news.ycombinator.com/item?id=49348912" rel="nofollow">💬 203</a></li>
+</ol>
+<hr>
+<ol start="14" dir="auto">
+<li><strong><a href="https://seths.blog/2026/08/the-amazon-tax/" rel="nofollow">The Amazon tax</a></strong><br>
+<code class="notranslate">seths.blog</code> · ⭐ 1.2k · <a href="https://news.ycombinator.com/item?id=49345263" rel="nofollow">💬 626</a></li>
+</ol>
+<hr>
+<ol start="15" dir="auto">
+<li><strong><a href="https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/" rel="nofollow">"Sabotage": Experts, lawmakers blast RFK Jr. for destroying healthcare research</a></strong><br>
+<code class="notranslate">arstechnica.com</code> · ⭐ 44 · <a href="https://news.ycombinator.com/item?id=49358220" rel="nofollow">💬 7</a></li>
+</ol>
+<hr>
+<hr>]]></content>
+        <author>
+            <name>blka</name>
+            <email>blka@noreply.github.com</email>
+            <uri>https://github.com/blka</uri>
+        </author>
+        <published>2026-08-19T09:36:32.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[📰 每日文章摘要 - 2026-08-11]]></title>
         <id>https://github.com/dma9527/rss-digest/issues/176</id>
         <link href="https://github.com/dma9527/rss-digest/issues/176"/>
@@ -440,9 +600,9 @@
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcxMzE1NTQsIm5iZiI6MTc4NzEzMTI1NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE5VDA5MjA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMzYmI4YjBhNTI1MWIzNTEzNTcwOGM0OTBjOTc2ZjBmMTY1NGE2MTA0NmJlMjE1NDRjZTQ3MTI5OTI1ODhjYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.TOM2ZxtKRdiVSpXocZd7Vyhm1vUIaoJaaTWPH8_3AyI"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcxMzE1NTQsIm5iZiI6MTc4NzEzMTI1NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE5VDA5MjA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMzYmI4YjBhNTI1MWIzNTEzNTcwOGM0OTBjOTc2ZjBmMTY1NGE2MTA0NmJlMjE1NDRjZTQ3MTI5OTI1ODhjYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.TOM2ZxtKRdiVSpXocZd7Vyhm1vUIaoJaaTWPH8_3AyI" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcxMzE1NTQsIm5iZiI6MTc4NzEzMTI1NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE5VDA5MjA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE5OTBhODYzYmYxNmY0ZWJjODRjZDI2OTQyN2M4ZjcwYWQyZmYzMmI5Zjk0YTRjODhkMjZmNDEwOTI3NTBmZDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.e0wJuxDR64enDwt-5yB0n6q39AdYwTxmmrIP7rB1XGE"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcxMzE1NTQsIm5iZiI6MTc4NzEzMTI1NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE5VDA5MjA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE5OTBhODYzYmYxNmY0ZWJjODRjZDI2OTQyN2M4ZjcwYWQyZmYzMmI5Zjk0YTRjODhkMjZmNDEwOTI3NTBmZDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.e0wJuxDR64enDwt-5yB0n6q39AdYwTxmmrIP7rB1XGE" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcxMzE1NTQsIm5iZiI6MTc4NzEzMTI1NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE5VDA5MjA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyYWY0ZTcyYWYyNDU1ZWNjMTFkOGI5OGNjMzI2OWJmNTMwNWFkMDU5YjA0ODdlOTdhMTU4NDE4ZjBhMDk4MDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.pPUrAqF0Yc_gemO48c2LjgnaiON7sgB7jnthW1G-Tso"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcxMzE1NTQsIm5iZiI6MTc4NzEzMTI1NCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE5VDA5MjA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyYWY0ZTcyYWYyNDU1ZWNjMTFkOGI5OGNjMzI2OWJmNTMwNWFkMDU5YjA0ODdlOTdhMTU4NDE4ZjBhMDk4MDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.pPUrAqF0Yc_gemO48c2LjgnaiON7sgB7jnthW1G-Tso" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcxMzQ4OTIsIm5iZiI6MTc4NzEzNDU5MiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE5VDEwMTYzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlZGJiMzJhNTUzNzk1OTE3MDc3MTUwMzhkZDcxMmZmZGVkYTg3ZDA0OGE3MjJiN2Q3YzlkM2VhOTBiYzVhMGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.jEnItNYmzUIIV7UUQzxp_JyAXWBuXtxgyBNqwaTH8pw"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcxMzQ4OTIsIm5iZiI6MTc4NzEzNDU5MiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE5VDEwMTYzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlZGJiMzJhNTUzNzk1OTE3MDc3MTUwMzhkZDcxMmZmZGVkYTg3ZDA0OGE3MjJiN2Q3YzlkM2VhOTBiYzVhMGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.jEnItNYmzUIIV7UUQzxp_JyAXWBuXtxgyBNqwaTH8pw" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcxMzQ4OTIsIm5iZiI6MTc4NzEzNDU5MiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE5VDEwMTYzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0NDFlNTYzMDY2NjhiMjE1YWFmN2ZhMDlmMTA1MzNlMzU5ZGRjZDM3NDE3NTI4OWMzYWI1MGNmNjcxODllZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.w2oQokM6QSOJzyxU4t_67gpDAJRlq0v3cFMViZTFrTs"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcxMzQ4OTIsIm5iZiI6MTc4NzEzNDU5MiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE5VDEwMTYzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0NDFlNTYzMDY2NjhiMjE1YWFmN2ZhMDlmMTA1MzNlMzU5ZGRjZDM3NDE3NTI4OWMzYWI1MGNmNjcxODllZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.w2oQokM6QSOJzyxU4t_67gpDAJRlq0v3cFMViZTFrTs" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcxMzQ4OTIsIm5iZiI6MTc4NzEzNDU5MiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE5VDEwMTYzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0MjhiODVmOTEzMWE2MDA4NjE5ODY5YTgyMzdhMmZmZjU4ZDljODRiZjYzNjU5YWY2OTMyMGE2M2U5NWE4YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.jzcdc8YBUwYYoJ5U8N_fMjpDUmRQ4G0lskcfOCk8DZU"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcxMzQ4OTIsIm5iZiI6MTc4NzEzNDU5MiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE5VDEwMTYzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0MjhiODVmOTEzMWE2MDA4NjE5ODY5YTgyMzdhMmZmZjU4ZDljODRiZjYzNjU5YWY2OTMyMGE2M2U5NWE4YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.jzcdc8YBUwYYoJ5U8N_fMjpDUmRQ4G0lskcfOCk8DZU" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -522,19 +682,6 @@
         <published>2025-06-24T13:34:43.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create a page with every external link on the website]]></title>
-        <id>https://github.com/AramZS/aramzs.xyz/issues/37</id>
-        <link href="https://github.com/AramZS/aramzs.xyz/issues/37"/>
-        <updated>2025-12-30T16:32:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/748069?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Inspired by something like <a href="https://shkspr.mobi/blog/link-rot/" rel="nofollow">https://shkspr.mobi/blog/link-rot/</a></p>]]></content>
-        <author>
-            <name>AramZS</name>
-            <email>AramZS@noreply.github.com</email>
-            <uri>https://github.com/AramZS</uri>
-        </author>
-        <published>2025-12-30T16:32:52.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Testing on low-fi browsers]]></title>
         <id>https://github.com/ArthurSmid/little-help-book/issues/9</id>
         <link href="https://github.com/ArthurSmid/little-help-book/issues/9"/>
@@ -546,6 +693,19 @@
             <uri>https://github.com/ArthurSmid</uri>
         </author>
         <published>2021-01-28T19:00:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a page with every external link on the website]]></title>
+        <id>https://github.com/AramZS/aramzs.xyz/issues/37</id>
+        <link href="https://github.com/AramZS/aramzs.xyz/issues/37"/>
+        <updated>2025-12-30T16:32:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/748069?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Inspired by something like <a href="https://shkspr.mobi/blog/link-rot/" rel="nofollow">https://shkspr.mobi/blog/link-rot/</a></p>]]></content>
+        <author>
+            <name>AramZS</name>
+            <email>AramZS@noreply.github.com</email>
+            <uri>https://github.com/AramZS</uri>
+        </author>
+        <published>2025-12-30T16:32:52.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[📰 每日文章摘要 - 2026-07-12]]></title>
@@ -746,23 +906,5 @@ Used for: Writing down the problem. Thinking about the problem. Writing up the s
             <uri>https://github.com/thisisaaronland</uri>
         </author>
         <published>2025-10-06T19:40:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social Login Auth]]></title>
-        <id>https://github.com/Studio-Link/mix/issues/71</id>
-        <link href="https://github.com/Studio-Link/mix/issues/71"/>
-        <updated>2025-06-02T08:26:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/296762?u=4a9af9ea754af083ffeed0928e149e0f5c0f8709&v=4" width="64" height="64" alt=""/><br/><p dir="auto">References:</p>
-<ul dir="auto">
-<li><a href="https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/" rel="nofollow">https://blog.joinmastodon.org/2018/06/how-to-implement-a-basic-activitypub-server/</a></li>
-<li><a href="https://swicg.github.io/activitypub-http-signature/#how-to-obtain-a-signature-s-public-key" rel="nofollow">https://swicg.github.io/activitypub-http-signature/#how-to-obtain-a-signature-s-public-key</a></li>
-<li><a href="https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/" rel="nofollow">https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/</a></li>
-</ul>]]></content>
-        <author>
-            <name>sreimers</name>
-            <email>sreimers@noreply.github.com</email>
-            <uri>https://github.com/sreimers</uri>
-        </author>
-        <published>2025-06-02T08:26:12.000Z</published>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-10-28T19:57:14.676Z</updated>
+    <updated>2026-10-28T23:47:11.089Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -32,7 +32,7 @@
         <updated>2026-09-01T02:58:08.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/837136?u=73b5c34325606e447be7074fd0deefc55a004c82&v=4" width="64" height="64" alt=""/><br/><p dir="auto">On v2.13.2 (189) from F-Droid - text in some <code class="notranslate">&lt;pre&gt;</code> elements runs together.</p>
 <p dir="auto">For example:</p>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/837136/643213825-d1c35e75-5d7d-4331-a4e9-a97adbeeed5d.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMTc3MzQsIm5iZiI6MTc5MzIxNzQzNCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzODI1LWQxYzM1ZTc1LTVkN2QtNDMzMS1hNGU5LWE5N2FkYmVlZWQ1ZC53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMjhUMTk1NzE0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Y2RjNTIwOWZkMTQ0ZTQwN2Q0YjkxZjIxNTNiNzM1NTVjYWI4ZjUyYjRhMTZjNmYzNjRkODcyYTJhYzY3OTJjOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.zHH5AccItd2fJ_RizZRiaG6C_pC207XUU9at5bSL_4I"><img width="504" height="659" alt="android text" src="https://private-user-images.githubusercontent.com/837136/643213825-d1c35e75-5d7d-4331-a4e9-a97adbeeed5d.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMTc3MzQsIm5iZiI6MTc5MzIxNzQzNCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzODI1LWQxYzM1ZTc1LTVkN2QtNDMzMS1hNGU5LWE5N2FkYmVlZWQ1ZC53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMjhUMTk1NzE0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Y2RjNTIwOWZkMTQ0ZTQwN2Q0YjkxZjIxNTNiNzM1NTVjYWI4ZjUyYjRhMTZjNmYzNjRkODcyYTJhYzY3OTJjOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.zHH5AccItd2fJ_RizZRiaG6C_pC207XUU9at5bSL_4I" style="max-width: 100%; height: auto; max-height: 659px;; aspect-ratio: 504 / 659; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/837136/643213825-d1c35e75-5d7d-4331-a4e9-a97adbeeed5d.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMzE1MzAsIm5iZiI6MTc5MzIzMTIzMCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzODI1LWQxYzM1ZTc1LTVkN2QtNDMzMS1hNGU5LWE5N2FkYmVlZWQ1ZC53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMjhUMjM0NzEwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OGU1YzYzYzJhZjMzZTc1Nzk3MDBhOTVlYTI3ZTQ4NjQ4NWI1ZDQ1MmQzNmQ3MTFmOGJmOWYxYTZlNzFjNjFkYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.6MnL8uO1rM1ZC5MIdHNdMtxwq2UrsAbg_jmk3nwGXqk"><img width="504" height="659" alt="android text" src="https://private-user-images.githubusercontent.com/837136/643213825-d1c35e75-5d7d-4331-a4e9-a97adbeeed5d.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMzE1MzAsIm5iZiI6MTc5MzIzMTIzMCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzODI1LWQxYzM1ZTc1LTVkN2QtNDMzMS1hNGU5LWE5N2FkYmVlZWQ1ZC53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMjhUMjM0NzEwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OGU1YzYzYzJhZjMzZTc1Nzk3MDBhOTVlYTI3ZTQ4NjQ4NWI1ZDQ1MmQzNmQ3MTFmOGJmOWYxYTZlNzFjNjFkYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.6MnL8uO1rM1ZC5MIdHNdMtxwq2UrsAbg_jmk3nwGXqk" style="max-width: 100%; height: auto; max-height: 659px;; aspect-ratio: 504 / 659; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
 <p dir="auto">It shows:</p>
 <blockquote>
 <p dir="auto"><code class="notranslate">&lt;pre itemscopeitemtype=https://schema.org/SoftwareSourceCodetranslate=no&gt;</code></p>
@@ -42,7 +42,7 @@
 <p dir="auto"><code class="notranslate">&lt;pre itemscope itemtype=https://schema.org/SoftwareSourceCode translate=no&gt;</code></p>
 </blockquote>
 <p dir="auto">The website mastodon.social renders it correctly:</p>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/837136/643213955-2c934ee7-00f6-4188-a5ef-ac218e7f605f.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMTc3MzQsIm5iZiI6MTc5MzIxNzQzNCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzOTU1LTJjOTM0ZWU3LTAwZjYtNDE4OC1hNWVmLWFjMjE4ZTdmNjA1Zi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMjhUMTk1NzE0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NjczNDM3MWFjNmU2NDA3ZWNmNTEyYjM4OTQ5ODhhODAyMzE2Yjc2NjA0MDQ4NWUwNWE3NjcyZjM5YmMxNjkxOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.4keLjsib0UevknL3S8JiBImhfbP05S6mYmUCz-wdGgM"><img width="561" height="1006" alt="correct spacing" src="https://private-user-images.githubusercontent.com/837136/643213955-2c934ee7-00f6-4188-a5ef-ac218e7f605f.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMTc3MzQsIm5iZiI6MTc5MzIxNzQzNCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzOTU1LTJjOTM0ZWU3LTAwZjYtNDE4OC1hNWVmLWFjMjE4ZTdmNjA1Zi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMjhUMTk1NzE0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NjczNDM3MWFjNmU2NDA3ZWNmNTEyYjM4OTQ5ODhhODAyMzE2Yjc2NjA0MDQ4NWUwNWE3NjcyZjM5YmMxNjkxOCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.4keLjsib0UevknL3S8JiBImhfbP05S6mYmUCz-wdGgM" style="max-width: 100%; height: auto; max-height: 1006px;; aspect-ratio: 561 / 1006; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/837136/643213955-2c934ee7-00f6-4188-a5ef-ac218e7f605f.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMzE1MzAsIm5iZiI6MTc5MzIzMTIzMCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzOTU1LTJjOTM0ZWU3LTAwZjYtNDE4OC1hNWVmLWFjMjE4ZTdmNjA1Zi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMjhUMjM0NzEwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OGJiZDFhZmQ2NTE1ZDMzYjc2M2EzODJmNzM5YTZkZGRlYjE5YjkwZGQ2MDkzMzM4ZDQ3NGRjNTg2ODI0YmRjMSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.a-nm0fnfQB59Wiqe1p4Lg0-aGwEPnPCllkLIlOAvl54"><img width="561" height="1006" alt="correct spacing" src="https://private-user-images.githubusercontent.com/837136/643213955-2c934ee7-00f6-4188-a5ef-ac218e7f605f.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMzE1MzAsIm5iZiI6MTc5MzIzMTIzMCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzOTU1LTJjOTM0ZWU3LTAwZjYtNDE4OC1hNWVmLWFjMjE4ZTdmNjA1Zi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAyOCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMjhUMjM0NzEwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OGJiZDFhZmQ2NTE1ZDMzYjc2M2EzODJmNzM5YTZkZGRlYjE5YjkwZGQ2MDkzMzM4ZDQ3NGRjNTg2ODI0YmRjMSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.a-nm0fnfQB59Wiqe1p4Lg0-aGwEPnPCllkLIlOAvl54" style="max-width: 100%; height: auto; max-height: 1006px;; aspect-ratio: 561 / 1006; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
 <p dir="auto">The HTML content sent via the WordPress ActivityPub plugin is:</p>
 <div class="highlight highlight-text-html-basic notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content=" &lt;p&gt;It takes some plaintext content. But how to get that content?  My code samples look like this:&lt;/p&gt;&lt;pre&gt;&lt;span class=\&quot;tempest-highlight-language\&quot;&gt;&lt;img src=\&quot;https://shkspr.mobi/blog/wp-content/plugins/tempest-highlight/svg/html.svg\&quot; width=\&quot;32\&quot; height=\&quot;32\&quot; alt=\&quot;\&quot;&gt;&lt;span&gt; HTML&lt;/span&gt;&lt;/span&gt;&lt;code&gt;&amp;lt;&lt;span&gt;pre&lt;/span&gt; itemscope &lt;span&gt;itemtype&lt;/span&gt;=https://schema.org/SoftwareSourceCode &lt;span&gt;translate&lt;/span&gt;=no&amp;gt;\n    &amp;lt;&lt;span&gt;button&lt;/span&gt; &lt;span&gt;onclick&lt;/span&gt;=\&quot;navigator.clipboard.writeText( this.parentNode.getElementsByTagName('code')[0].textContent );\&quot;&amp;gt;⧉&amp;lt;/&lt;span&gt;button&lt;/span&gt;&amp;gt;\n    &amp;lt;&lt;span&gt;span&lt;/span&gt;&amp;gt;\n        &amp;lt;&lt;span&gt;img&lt;/span&gt; alt &lt;span&gt;height&lt;/span&gt;=32 &lt;span&gt;src&lt;/span&gt;=html.svg &lt;span&gt;width&lt;/span&gt;=32&amp;gt;\n        &amp;lt;&lt;span&gt;span&lt;/span&gt; &lt;span&gt;itemprop&lt;/span&gt;=programmingLanguage&amp;gt; HTML&amp;lt;/&lt;span&gt;span&lt;/span&gt;&amp;gt;\n    &amp;lt;/&lt;span&gt;span&lt;/span&gt;&amp;gt;\n    &amp;lt;&lt;span&gt;code&lt;/span&gt; &lt;span&gt;itemprop&lt;/span&gt;=text&amp;gt;[…]&amp;lt;/&lt;span&gt;code&lt;/span&gt;&amp;gt;\n&amp;lt;/&lt;span&gt;pre&lt;/span&gt;&amp;gt;\n&lt;/code&gt;&lt;/pre&gt;"><pre class="notranslate"> <span class="pl-kos">&lt;</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span>It takes some plaintext content. But how to get that content?  My code samples look like this:<span class="pl-kos">&lt;/</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">pre</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">span</span> <span class="pl-c1">class</span>=<span class="pl-s">\</span>"tempest-highlight-language\"<span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">img</span> <span class="pl-c1">src</span>=<span class="pl-s">\</span>"https://shkspr.mobi/blog/wp-content/plugins/tempest-highlight/svg/html.svg\" width=\"32\" height=\"32\" alt=\"\"<span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> HTML<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">code</span><span class="pl-kos">&gt;</span>&amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>pre<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> itemscope <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>itemtype<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=https://schema.org/SoftwareSourceCode <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>translate<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=no&amp;gt;\n    &amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>button<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>onclick<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=\"navigator.clipboard.writeText( this.parentNode.getElementsByTagName('code')[0].textContent );\"&amp;gt;⧉&amp;lt;/<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>button<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n    &amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>span<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n        &amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>img<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> alt <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>height<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=32 <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>src<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=html.svg <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>width<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=32&amp;gt;\n        &amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>span<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>itemprop<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=programmingLanguage&amp;gt; HTML&amp;lt;/<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>span<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n    &amp;lt;/<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>span<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n    &amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>code<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>itemprop<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=text&amp;gt;[…]&amp;lt;/<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>code<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n&amp;lt;/<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>pre<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n<span class="pl-kos">&lt;/</span><span class="pl-ent">code</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;/</span><span class="pl-ent">pre</span><span class="pl-kos">&gt;</span></pre></div>
 <p dir="auto">Original post: <code class="notranslate">https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/</code></p>
@@ -85,7 +85,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <video src="https://private-user-images.githubusercontent.com/11913365/651536648-7356ef45-dbf1-42df-b3e0-09c0648b3dcc.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMTc3MzQsIm5iZiI6MTc5MzIxNzQzNCwicGF0aCI6Ii8xMTkxMzM2NS82NTE1MzY2NDgtNzM1NmVmNDUtZGJmMS00MmRmLWIzZTAtMDljMDY0OGIzZGNjLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDE5NTcxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5ZTI4ZTdhYjdkZjI5YWI2YjljYmVhODE1MGIyOTQ3ZjliZWE3YzEzZDEwNjczNzM3NGE3MDJhOGQ1Y2E1OGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.VH95xg2zBFNaL93RGnjrZoReWRX_aPZmCwOdLr6c1Qs" data-canonical-src="https://private-user-images.githubusercontent.com/11913365/651536648-7356ef45-dbf1-42df-b3e0-09c0648b3dcc.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMTc3MzQsIm5iZiI6MTc5MzIxNzQzNCwicGF0aCI6Ii8xMTkxMzM2NS82NTE1MzY2NDgtNzM1NmVmNDUtZGJmMS00MmRmLWIzZTAtMDljMDY0OGIzZGNjLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDE5NTcxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5ZTI4ZTdhYjdkZjI5YWI2YjljYmVhODE1MGIyOTQ3ZjliZWE3YzEzZDEwNjczNzM3NGE3MDJhOGQ1Y2E1OGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.VH95xg2zBFNaL93RGnjrZoReWRX_aPZmCwOdLr6c1Qs" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+  <video src="https://private-user-images.githubusercontent.com/11913365/651536648-7356ef45-dbf1-42df-b3e0-09c0648b3dcc.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMzE1MzAsIm5iZiI6MTc5MzIzMTIzMCwicGF0aCI6Ii8xMTkxMzM2NS82NTE1MzY2NDgtNzM1NmVmNDUtZGJmMS00MmRmLWIzZTAtMDljMDY0OGIzZGNjLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDIzNDcxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE4ZmRhZTc1YWY2NTQ5NTBmNjU1ZjE4ODg1YjRhNzJhYWFmYzk1ODk5NzNmNGQ5NDUwOTUyNWZjYzgyMDljYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.M8i_Bhhl_yv3wlYuE9PwNUHDOoSnJQET1PSChsKNXu4" data-canonical-src="https://private-user-images.githubusercontent.com/11913365/651536648-7356ef45-dbf1-42df-b3e0-09c0648b3dcc.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMzE1MzAsIm5iZiI6MTc5MzIzMTIzMCwicGF0aCI6Ii8xMTkxMzM2NS82NTE1MzY2NDgtNzM1NmVmNDUtZGJmMS00MmRmLWIzZTAtMDljMDY0OGIzZGNjLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDIzNDcxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE4ZmRhZTc1YWY2NTQ5NTBmNjU1ZjE4ODg1YjRhNzJhYWFmYzk1ODk5NzNmNGQ5NDUwOTUyNWZjYzgyMDljYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.M8i_Bhhl_yv3wlYuE9PwNUHDOoSnJQET1PSChsKNXu4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
   </video>
 </details>
@@ -305,9 +305,9 @@
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMTc3MzQsIm5iZiI6MTc5MzIxNzQzNCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDE5NTcxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjMmRlYWRjMWE1ZjcyNmZjZDI1Njg5ZTQ4ZTA2NjMwNzljZmRhMzkxOWFmMGY5N2Y1NGM4YzBkMzBhMjVhNWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.qbgB_PeHUiP1hMPwoKGefagX4UTvXMPgP99yKSFsX8U"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMTc3MzQsIm5iZiI6MTc5MzIxNzQzNCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDE5NTcxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVjMmRlYWRjMWE1ZjcyNmZjZDI1Njg5ZTQ4ZTA2NjMwNzljZmRhMzkxOWFmMGY5N2Y1NGM4YzBkMzBhMjVhNWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.qbgB_PeHUiP1hMPwoKGefagX4UTvXMPgP99yKSFsX8U" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMTc3MzQsIm5iZiI6MTc5MzIxNzQzNCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDE5NTcxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0NWRkOTE4MjIyZTAyODMwNDQ2NDM4NWZkMjViYjZlOTliYWFiOTM3YTI0MWUxMWRlMjQwZDdlZTAxMTFkYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.r5j4CzZBwvwqDWtYWZM4wsrXvMnf3fB1x_fIvMb8mBs"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMTc3MzQsIm5iZiI6MTc5MzIxNzQzNCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDE5NTcxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0NWRkOTE4MjIyZTAyODMwNDQ2NDM4NWZkMjViYjZlOTliYWFiOTM3YTI0MWUxMWRlMjQwZDdlZTAxMTFkYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.r5j4CzZBwvwqDWtYWZM4wsrXvMnf3fB1x_fIvMb8mBs" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMTc3MzQsIm5iZiI6MTc5MzIxNzQzNCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDE5NTcxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwNmMzYzE2MzkwYzg3OTI5MzA3MWUzNmZjMGE1NTI3NDY2ODBlNGM4NmZhMzFmNjUyMTc1MGRkN2RmNzUwOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.0fsd3GL6xoP2W0jRbIdmqA6VJOn1Q_yT2-ztA2DiiiU"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMTc3MzQsIm5iZiI6MTc5MzIxNzQzNCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDE5NTcxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwNmMzYzE2MzkwYzg3OTI5MzA3MWUzNmZjMGE1NTI3NDY2ODBlNGM4NmZhMzFmNjUyMTc1MGRkN2RmNzUwOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.0fsd3GL6xoP2W0jRbIdmqA6VJOn1Q_yT2-ztA2DiiiU" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMzE1MzAsIm5iZiI6MTc5MzIzMTIzMCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDIzNDcxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc2OWU1N2ZjODU5MDdkOTA3ODhjMGMwOTg0NTk5Y2VmM2MwNGJiMzljNDNhOTc2NzMxOGUwOTJjOGVlYTg3ZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.bKJEYYwDJPOJGNOZSgJ4gI8pt-95GdG0Rv77OyG6V1w"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMzE1MzAsIm5iZiI6MTc5MzIzMTIzMCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDIzNDcxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc2OWU1N2ZjODU5MDdkOTA3ODhjMGMwOTg0NTk5Y2VmM2MwNGJiMzljNDNhOTc2NzMxOGUwOTJjOGVlYTg3ZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.bKJEYYwDJPOJGNOZSgJ4gI8pt-95GdG0Rv77OyG6V1w" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMzE1MzAsIm5iZiI6MTc5MzIzMTIzMCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDIzNDcxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwMGZlNWI5OWM5ZmZiYWM2OTljYzJhNDY2ZjE2ZDdlOWY4ZmUyYjg2NzMzZmI2MTBlMjI4MTAwYmFjMWMxZGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.yGEnqJce-yM62XNAKL-HRZrUzgst8JX7KxouhzTMCPM"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMzE1MzAsIm5iZiI6MTc5MzIzMTIzMCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDIzNDcxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwMGZlNWI5OWM5ZmZiYWM2OTljYzJhNDY2ZjE2ZDdlOWY4ZmUyYjg2NzMzZmI2MTBlMjI4MTAwYmFjMWMxZGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.yGEnqJce-yM62XNAKL-HRZrUzgst8JX7KxouhzTMCPM" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMzE1MzAsIm5iZiI6MTc5MzIzMTIzMCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDIzNDcxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMxMzU4ZGQyYjQ5NTJhMGJkZTQ3Nzg2NjcxMWI5NGQyMzcwMTQwYTdiMTNiZGIzMDlkYWQyNzRkNWVkZDU4YTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.oA8Huj4Dh9-h3t3jESBi4sxbWvxbQTLCmdbDDEwFefo"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMyMzE1MzAsIm5iZiI6MTc5MzIzMTIzMCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDIzNDcxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMxMzU4ZGQyYjQ5NTJhMGJkZTQ3Nzg2NjcxMWI5NGQyMzcwMTQwYTdiMTNiZGIzMDlkYWQyNzRkNWVkZDU4YTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.oA8Huj4Dh9-h3t3jESBi4sxbWvxbQTLCmdbDDEwFefo" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -607,6 +607,20 @@
         <published>2018-11-04T14:51:38.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Character encoding - `@` not coming through]]></title>
+        <id>https://github.com/edent/WordPress-On-This-Day-Plugin/issues/3</id>
+        <link href="https://github.com/edent/WordPress-On-This-Day-Plugin/issues/3"/>
+        <updated>2016-12-04T19:05:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/837136?u=73b5c34325606e447be7074fd0deefc55a004c82&v=4" width="64" height="64" alt=""/><br/><p dir="auto">See <a href="https://twitter.com/edent/status/804958566193000448" rel="nofollow">https://twitter.com/edent/status/804958566193000448</a></p>
+<p dir="auto"><a href="https://shkspr.mobi/blog/2014/12/episode-12-orcid-with-pigsonthewing/" rel="nofollow">https://shkspr.mobi/blog/2014/12/episode-12-orcid-with-pigsonthewing/</a></p>]]></content>
+        <author>
+            <name>edent</name>
+            <email>edent@noreply.github.com</email>
+            <uri>https://github.com/edent</uri>
+        </author>
+        <published>2016-12-04T18:50:06.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Daily Hacker News 11/10/2026]]></title>
         <id>https://github.com/blka/daily-hackernews/issues/580</id>
         <link href="https://github.com/blka/daily-hackernews/issues/580"/>
@@ -742,20 +756,6 @@
         <published>2026-10-11T15:26:33.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Character encoding - `@` not coming through]]></title>
-        <id>https://github.com/edent/WordPress-On-This-Day-Plugin/issues/3</id>
-        <link href="https://github.com/edent/WordPress-On-This-Day-Plugin/issues/3"/>
-        <updated>2016-12-04T19:05:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/837136?u=73b5c34325606e447be7074fd0deefc55a004c82&v=4" width="64" height="64" alt=""/><br/><p dir="auto">See <a href="https://twitter.com/edent/status/804958566193000448" rel="nofollow">https://twitter.com/edent/status/804958566193000448</a></p>
-<p dir="auto"><a href="https://shkspr.mobi/blog/2014/12/episode-12-orcid-with-pigsonthewing/" rel="nofollow">https://shkspr.mobi/blog/2014/12/episode-12-orcid-with-pigsonthewing/</a></p>]]></content>
-        <author>
-            <name>edent</name>
-            <email>edent@noreply.github.com</email>
-            <uri>https://github.com/edent</uri>
-        </author>
-        <published>2016-12-04T18:50:06.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Social Login Auth]]></title>
         <id>https://github.com/Studio-Link/mix/issues/71</id>
         <link href="https://github.com/Studio-Link/mix/issues/71"/>
@@ -772,6 +772,81 @@
             <uri>https://github.com/sreimers</uri>
         </author>
         <published>2025-06-02T08:26:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a page with every external link on the website]]></title>
+        <id>https://github.com/AramZS/aramzs.xyz/issues/37</id>
+        <link href="https://github.com/AramZS/aramzs.xyz/issues/37"/>
+        <updated>2025-12-30T16:32:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/748069?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Inspired by something like <a href="https://shkspr.mobi/blog/link-rot/" rel="nofollow">https://shkspr.mobi/blog/link-rot/</a></p>]]></content>
+        <author>
+            <name>AramZS</name>
+            <email>AramZS@noreply.github.com</email>
+            <uri>https://github.com/AramZS</uri>
+        </author>
+        <published>2025-12-30T16:32:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Support experimental LOC record type]]></title>
+        <id>https://github.com/hickory-dns/hickory-dns/issues/3165</id>
+        <link href="https://github.com/hickory-dns/hickory-dns/issues/3165"/>
+        <updated>2026-09-18T17:50:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/173308?v=4" width="64" height="64" alt=""/><br/><p dir="auto"><strong>Is your feature request related to a problem? Please describe.</strong><br>
+Hickory DNS doesn't have support for the <strong>experimental</strong> <code class="notranslate">LOC</code> DNS record type.</p>
+<p dir="auto"><strong>Describe the solution you'd like</strong><br>
+Since I'm specifically using the <code class="notranslate">hickory-resolver</code> crate, I'd like it for it to support the <code class="notranslate">LOC</code> record type behind a feature flag, e.g. <code class="notranslate">experimental-loc-record</code>, and then a parent feature flag <code class="notranslate">experimental-records</code> or something in that fashion.</p>
+<p dir="auto"><strong>Describe alternatives you've considered</strong><br>
+<code class="notranslate">dig</code> supports <code class="notranslate">LOC</code> records:</p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="% dig where-is-the-iss.dedyn.io loc
+
+; &lt;&lt;&gt;&gt; DiG 9.20.11 &lt;&lt;&gt;&gt; where-is-the-iss.dedyn.io loc
+;; global options: +cmd
+;; Got answer:
+;; -&gt;&gt;HEADER&lt;&lt;- opcode: QUERY, status: NOERROR, id: 966
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;where-is-the-iss.dedyn.io.     IN      LOC
+
+;; ANSWER SECTION:
+where-is-the-iss.dedyn.io. 894  IN      LOC     19 19 45.830 N 130 49 12.870 E 416770.00m 10000m 10000m 10000m
+
+;; Query time: 8 msec
+;; SERVER: 10.0.0.1#53(10.0.0.1) (UDP)
+;; WHEN: Tue Jul 29 04:42:25 CEST 2025
+;; MSG SIZE  rcvd: 82"><pre class="notranslate"><code class="notranslate">% dig where-is-the-iss.dedyn.io loc
+
+; &lt;&lt;&gt;&gt; DiG 9.20.11 &lt;&lt;&gt;&gt; where-is-the-iss.dedyn.io loc
+;; global options: +cmd
+;; Got answer:
+;; -&gt;&gt;HEADER&lt;&lt;- opcode: QUERY, status: NOERROR, id: 966
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;where-is-the-iss.dedyn.io.     IN      LOC
+
+;; ANSWER SECTION:
+where-is-the-iss.dedyn.io. 894  IN      LOC     19 19 45.830 N 130 49 12.870 E 416770.00m 10000m 10000m 10000m
+
+;; Query time: 8 msec
+;; SERVER: 10.0.0.1#53(10.0.0.1) (UDP)
+;; WHEN: Tue Jul 29 04:42:25 CEST 2025
+;; MSG SIZE  rcvd: 82
+</code></pre></div>
+<p dir="auto"><strong>Additional context</strong><br>
+This blog post showcases a use of the LOC record which lead me to this problem:</p>
+<p dir="auto"><a href="https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/" rel="nofollow">https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/</a></p>
+<p dir="auto">The spec for the <code class="notranslate">LOC</code> record is still experimental under RFC 1876: <a href="https://www.rfc-editor.org/rfc/rfc1876.html" rel="nofollow">https://www.rfc-editor.org/rfc/rfc1876.html</a></p>]]></content>
+        <author>
+            <name>mkroman</name>
+            <email>mkroman@noreply.github.com</email>
+            <uri>https://github.com/mkroman</uri>
+        </author>
+        <published>2025-07-29T02:49:17.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[📰 每日文章摘要 - 2026-10-13]]></title>
@@ -883,80 +958,5 @@
             <uri>https://github.com/apps/github-actions</uri>
         </author>
         <published>2026-10-13T19:02:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a page with every external link on the website]]></title>
-        <id>https://github.com/AramZS/aramzs.xyz/issues/37</id>
-        <link href="https://github.com/AramZS/aramzs.xyz/issues/37"/>
-        <updated>2025-12-30T16:32:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/748069?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Inspired by something like <a href="https://shkspr.mobi/blog/link-rot/" rel="nofollow">https://shkspr.mobi/blog/link-rot/</a></p>]]></content>
-        <author>
-            <name>AramZS</name>
-            <email>AramZS@noreply.github.com</email>
-            <uri>https://github.com/AramZS</uri>
-        </author>
-        <published>2025-12-30T16:32:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Support experimental LOC record type]]></title>
-        <id>https://github.com/hickory-dns/hickory-dns/issues/3165</id>
-        <link href="https://github.com/hickory-dns/hickory-dns/issues/3165"/>
-        <updated>2026-09-18T17:50:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/173308?v=4" width="64" height="64" alt=""/><br/><p dir="auto"><strong>Is your feature request related to a problem? Please describe.</strong><br>
-Hickory DNS doesn't have support for the <strong>experimental</strong> <code class="notranslate">LOC</code> DNS record type.</p>
-<p dir="auto"><strong>Describe the solution you'd like</strong><br>
-Since I'm specifically using the <code class="notranslate">hickory-resolver</code> crate, I'd like it for it to support the <code class="notranslate">LOC</code> record type behind a feature flag, e.g. <code class="notranslate">experimental-loc-record</code>, and then a parent feature flag <code class="notranslate">experimental-records</code> or something in that fashion.</p>
-<p dir="auto"><strong>Describe alternatives you've considered</strong><br>
-<code class="notranslate">dig</code> supports <code class="notranslate">LOC</code> records:</p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="% dig where-is-the-iss.dedyn.io loc
-
-; &lt;&lt;&gt;&gt; DiG 9.20.11 &lt;&lt;&gt;&gt; where-is-the-iss.dedyn.io loc
-;; global options: +cmd
-;; Got answer:
-;; -&gt;&gt;HEADER&lt;&lt;- opcode: QUERY, status: NOERROR, id: 966
-;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 1232
-;; QUESTION SECTION:
-;where-is-the-iss.dedyn.io.     IN      LOC
-
-;; ANSWER SECTION:
-where-is-the-iss.dedyn.io. 894  IN      LOC     19 19 45.830 N 130 49 12.870 E 416770.00m 10000m 10000m 10000m
-
-;; Query time: 8 msec
-;; SERVER: 10.0.0.1#53(10.0.0.1) (UDP)
-;; WHEN: Tue Jul 29 04:42:25 CEST 2025
-;; MSG SIZE  rcvd: 82"><pre class="notranslate"><code class="notranslate">% dig where-is-the-iss.dedyn.io loc
-
-; &lt;&lt;&gt;&gt; DiG 9.20.11 &lt;&lt;&gt;&gt; where-is-the-iss.dedyn.io loc
-;; global options: +cmd
-;; Got answer:
-;; -&gt;&gt;HEADER&lt;&lt;- opcode: QUERY, status: NOERROR, id: 966
-;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 1232
-;; QUESTION SECTION:
-;where-is-the-iss.dedyn.io.     IN      LOC
-
-;; ANSWER SECTION:
-where-is-the-iss.dedyn.io. 894  IN      LOC     19 19 45.830 N 130 49 12.870 E 416770.00m 10000m 10000m 10000m
-
-;; Query time: 8 msec
-;; SERVER: 10.0.0.1#53(10.0.0.1) (UDP)
-;; WHEN: Tue Jul 29 04:42:25 CEST 2025
-;; MSG SIZE  rcvd: 82
-</code></pre></div>
-<p dir="auto"><strong>Additional context</strong><br>
-This blog post showcases a use of the LOC record which lead me to this problem:</p>
-<p dir="auto"><a href="https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/" rel="nofollow">https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/</a></p>
-<p dir="auto">The spec for the <code class="notranslate">LOC</code> record is still experimental under RFC 1876: <a href="https://www.rfc-editor.org/rfc/rfc1876.html" rel="nofollow">https://www.rfc-editor.org/rfc/rfc1876.html</a></p>]]></content>
-        <author>
-            <name>mkroman</name>
-            <email>mkroman@noreply.github.com</email>
-            <uri>https://github.com/mkroman</uri>
-        </author>
-        <published>2025-07-29T02:49:17.000Z</published>
     </entry>
 </feed>

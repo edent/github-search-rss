@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-10-30T16:20:06.293Z</updated>
+    <updated>2026-10-30T21:11:29.104Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -32,7 +32,7 @@
         <updated>2026-09-01T02:58:08.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/837136?u=73b5c34325606e447be7074fd0deefc55a004c82&v=4" width="64" height="64" alt=""/><br/><p dir="auto">On v2.13.2 (189) from F-Droid - text in some <code class="notranslate">&lt;pre&gt;</code> elements runs together.</p>
 <p dir="auto">For example:</p>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/837136/643213825-d1c35e75-5d7d-4331-a4e9-a97adbeeed5d.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzNzc1MDUsIm5iZiI6MTc5MzM3NzIwNSwicGF0aCI6Ii84MzcxMzYvNjQzMjEzODI1LWQxYzM1ZTc1LTVkN2QtNDMzMS1hNGU5LWE5N2FkYmVlZWQ1ZC53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAzMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMzBUMTYyMDA1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MDY4OGNiOWFmMDQ0ZGEwMTRiNjg3NjVmNTVjOWFmYjgyYjAyYjVjMmQxYzk0N2EzMWY2ZDYwMDA2OWUwZWZmYiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.n4fhHHH92-H_69jn-s7eq1Z0D_5WpU4FJ-yRRtiSFaQ"><img width="504" height="659" alt="android text" src="https://private-user-images.githubusercontent.com/837136/643213825-d1c35e75-5d7d-4331-a4e9-a97adbeeed5d.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzNzc1MDUsIm5iZiI6MTc5MzM3NzIwNSwicGF0aCI6Ii84MzcxMzYvNjQzMjEzODI1LWQxYzM1ZTc1LTVkN2QtNDMzMS1hNGU5LWE5N2FkYmVlZWQ1ZC53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAzMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMzBUMTYyMDA1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MDY4OGNiOWFmMDQ0ZGEwMTRiNjg3NjVmNTVjOWFmYjgyYjAyYjVjMmQxYzk0N2EzMWY2ZDYwMDA2OWUwZWZmYiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.n4fhHHH92-H_69jn-s7eq1Z0D_5WpU4FJ-yRRtiSFaQ" style="max-width: 100%; height: auto; max-height: 659px;; aspect-ratio: 504 / 659; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/837136/643213825-d1c35e75-5d7d-4331-a4e9-a97adbeeed5d.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzOTQ5ODgsIm5iZiI6MTc5MzM5NDY4OCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzODI1LWQxYzM1ZTc1LTVkN2QtNDMzMS1hNGU5LWE5N2FkYmVlZWQ1ZC53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAzMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMzBUMjExMTI4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9M2I0NmZhZTEzOTJiNTE0Njk1ZWUzZGI2MTI3ZjAzNDFhNTEwZTM1YTQ1OGNmNTMxN2FlZTM3ODY4MjY2YWRkZiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.21mDknYFVJ0Q3pBlJ2qN3K24JDP29Fip67M4FSCB3TI"><img width="504" height="659" alt="android text" src="https://private-user-images.githubusercontent.com/837136/643213825-d1c35e75-5d7d-4331-a4e9-a97adbeeed5d.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzOTQ5ODgsIm5iZiI6MTc5MzM5NDY4OCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzODI1LWQxYzM1ZTc1LTVkN2QtNDMzMS1hNGU5LWE5N2FkYmVlZWQ1ZC53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAzMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMzBUMjExMTI4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9M2I0NmZhZTEzOTJiNTE0Njk1ZWUzZGI2MTI3ZjAzNDFhNTEwZTM1YTQ1OGNmNTMxN2FlZTM3ODY4MjY2YWRkZiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.21mDknYFVJ0Q3pBlJ2qN3K24JDP29Fip67M4FSCB3TI" style="max-width: 100%; height: auto; max-height: 659px;; aspect-ratio: 504 / 659; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
 <p dir="auto">It shows:</p>
 <blockquote>
 <p dir="auto"><code class="notranslate">&lt;pre itemscopeitemtype=https://schema.org/SoftwareSourceCodetranslate=no&gt;</code></p>
@@ -42,7 +42,7 @@
 <p dir="auto"><code class="notranslate">&lt;pre itemscope itemtype=https://schema.org/SoftwareSourceCode translate=no&gt;</code></p>
 </blockquote>
 <p dir="auto">The website mastodon.social renders it correctly:</p>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/837136/643213955-2c934ee7-00f6-4188-a5ef-ac218e7f605f.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzNzc1MDUsIm5iZiI6MTc5MzM3NzIwNSwicGF0aCI6Ii84MzcxMzYvNjQzMjEzOTU1LTJjOTM0ZWU3LTAwZjYtNDE4OC1hNWVmLWFjMjE4ZTdmNjA1Zi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAzMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMzBUMTYyMDA1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NjdhOTNmYmZmZWRlODlkODY2OGZhM2Y3NDNlYjk5ODUzNzA2NDI3ZDA0M2Q2Y2RhYTk1ZjI1ZmY2YmI2MzgwNSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.YP7LnWlekqvZnSlCn1GzOJs3zyO3tOjALO7IKYxr_Bg"><img width="561" height="1006" alt="correct spacing" src="https://private-user-images.githubusercontent.com/837136/643213955-2c934ee7-00f6-4188-a5ef-ac218e7f605f.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzNzc1MDUsIm5iZiI6MTc5MzM3NzIwNSwicGF0aCI6Ii84MzcxMzYvNjQzMjEzOTU1LTJjOTM0ZWU3LTAwZjYtNDE4OC1hNWVmLWFjMjE4ZTdmNjA1Zi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAzMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMzBUMTYyMDA1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NjdhOTNmYmZmZWRlODlkODY2OGZhM2Y3NDNlYjk5ODUzNzA2NDI3ZDA0M2Q2Y2RhYTk1ZjI1ZmY2YmI2MzgwNSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.YP7LnWlekqvZnSlCn1GzOJs3zyO3tOjALO7IKYxr_Bg" style="max-width: 100%; height: auto; max-height: 1006px;; aspect-ratio: 561 / 1006; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/837136/643213955-2c934ee7-00f6-4188-a5ef-ac218e7f605f.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzOTQ5ODgsIm5iZiI6MTc5MzM5NDY4OCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzOTU1LTJjOTM0ZWU3LTAwZjYtNDE4OC1hNWVmLWFjMjE4ZTdmNjA1Zi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAzMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMzBUMjExMTI4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OTAyNjBlODFlNmFhODgwYjY4ZjdhYWQ3MzkxMWY4NmQ0OTA2ZDc4Mjk5YTAxMDlmMWRhN2M3OTU5NjMyYTc5MSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.vY0QIdMhNuYl4RcZ7Owzed1jK3WsAf7B5rW_QrlioE4"><img width="561" height="1006" alt="correct spacing" src="https://private-user-images.githubusercontent.com/837136/643213955-2c934ee7-00f6-4188-a5ef-ac218e7f605f.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzOTQ5ODgsIm5iZiI6MTc5MzM5NDY4OCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzOTU1LTJjOTM0ZWU3LTAwZjYtNDE4OC1hNWVmLWFjMjE4ZTdmNjA1Zi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTAzMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjEwMzBUMjExMTI4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OTAyNjBlODFlNmFhODgwYjY4ZjdhYWQ3MzkxMWY4NmQ0OTA2ZDc4Mjk5YTAxMDlmMWRhN2M3OTU5NjMyYTc5MSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.vY0QIdMhNuYl4RcZ7Owzed1jK3WsAf7B5rW_QrlioE4" style="max-width: 100%; height: auto; max-height: 1006px;; aspect-ratio: 561 / 1006; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
 <p dir="auto">The HTML content sent via the WordPress ActivityPub plugin is:</p>
 <div class="highlight highlight-text-html-basic notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content=" &lt;p&gt;It takes some plaintext content. But how to get that content?  My code samples look like this:&lt;/p&gt;&lt;pre&gt;&lt;span class=\&quot;tempest-highlight-language\&quot;&gt;&lt;img src=\&quot;https://shkspr.mobi/blog/wp-content/plugins/tempest-highlight/svg/html.svg\&quot; width=\&quot;32\&quot; height=\&quot;32\&quot; alt=\&quot;\&quot;&gt;&lt;span&gt; HTML&lt;/span&gt;&lt;/span&gt;&lt;code&gt;&amp;lt;&lt;span&gt;pre&lt;/span&gt; itemscope &lt;span&gt;itemtype&lt;/span&gt;=https://schema.org/SoftwareSourceCode &lt;span&gt;translate&lt;/span&gt;=no&amp;gt;\n    &amp;lt;&lt;span&gt;button&lt;/span&gt; &lt;span&gt;onclick&lt;/span&gt;=\&quot;navigator.clipboard.writeText( this.parentNode.getElementsByTagName('code')[0].textContent );\&quot;&amp;gt;⧉&amp;lt;/&lt;span&gt;button&lt;/span&gt;&amp;gt;\n    &amp;lt;&lt;span&gt;span&lt;/span&gt;&amp;gt;\n        &amp;lt;&lt;span&gt;img&lt;/span&gt; alt &lt;span&gt;height&lt;/span&gt;=32 &lt;span&gt;src&lt;/span&gt;=html.svg &lt;span&gt;width&lt;/span&gt;=32&amp;gt;\n        &amp;lt;&lt;span&gt;span&lt;/span&gt; &lt;span&gt;itemprop&lt;/span&gt;=programmingLanguage&amp;gt; HTML&amp;lt;/&lt;span&gt;span&lt;/span&gt;&amp;gt;\n    &amp;lt;/&lt;span&gt;span&lt;/span&gt;&amp;gt;\n    &amp;lt;&lt;span&gt;code&lt;/span&gt; &lt;span&gt;itemprop&lt;/span&gt;=text&amp;gt;[…]&amp;lt;/&lt;span&gt;code&lt;/span&gt;&amp;gt;\n&amp;lt;/&lt;span&gt;pre&lt;/span&gt;&amp;gt;\n&lt;/code&gt;&lt;/pre&gt;"><pre class="notranslate"> <span class="pl-kos">&lt;</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span>It takes some plaintext content. But how to get that content?  My code samples look like this:<span class="pl-kos">&lt;/</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">pre</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">span</span> <span class="pl-c1">class</span>=<span class="pl-s">\</span>"tempest-highlight-language\"<span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">img</span> <span class="pl-c1">src</span>=<span class="pl-s">\</span>"https://shkspr.mobi/blog/wp-content/plugins/tempest-highlight/svg/html.svg\" width=\"32\" height=\"32\" alt=\"\"<span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> HTML<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">code</span><span class="pl-kos">&gt;</span>&amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>pre<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> itemscope <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>itemtype<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=https://schema.org/SoftwareSourceCode <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>translate<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=no&amp;gt;\n    &amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>button<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>onclick<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=\"navigator.clipboard.writeText( this.parentNode.getElementsByTagName('code')[0].textContent );\"&amp;gt;⧉&amp;lt;/<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>button<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n    &amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>span<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n        &amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>img<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> alt <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>height<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=32 <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>src<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=html.svg <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>width<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=32&amp;gt;\n        &amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>span<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>itemprop<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=programmingLanguage&amp;gt; HTML&amp;lt;/<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>span<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n    &amp;lt;/<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>span<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n    &amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>code<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>itemprop<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=text&amp;gt;[…]&amp;lt;/<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>code<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n&amp;lt;/<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>pre<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n<span class="pl-kos">&lt;/</span><span class="pl-ent">code</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;/</span><span class="pl-ent">pre</span><span class="pl-kos">&gt;</span></pre></div>
 <p dir="auto">Original post: <code class="notranslate">https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/</code></p>
@@ -85,7 +85,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <video src="https://private-user-images.githubusercontent.com/11913365/651536648-7356ef45-dbf1-42df-b3e0-09c0648b3dcc.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzNzc1MDUsIm5iZiI6MTc5MzM3NzIwNSwicGF0aCI6Ii8xMTkxMzM2NS82NTE1MzY2NDgtNzM1NmVmNDUtZGJmMS00MmRmLWIzZTAtMDljMDY0OGIzZGNjLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDE2MjAwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyMmFmZWUwY2E3ZGEyNDY2MGJlMGJkZGY0MGYyODkxZDU3NmU3Mzk3NzUwODJlYzQzMmE1MDY4ZTBjMzA5MGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.uVfR7qTYWcMn3C8HD7oASMVgRK8Eq0VsynO6mNSHZFI" data-canonical-src="https://private-user-images.githubusercontent.com/11913365/651536648-7356ef45-dbf1-42df-b3e0-09c0648b3dcc.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzNzc1MDUsIm5iZiI6MTc5MzM3NzIwNSwicGF0aCI6Ii8xMTkxMzM2NS82NTE1MzY2NDgtNzM1NmVmNDUtZGJmMS00MmRmLWIzZTAtMDljMDY0OGIzZGNjLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDE2MjAwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyMmFmZWUwY2E3ZGEyNDY2MGJlMGJkZGY0MGYyODkxZDU3NmU3Mzk3NzUwODJlYzQzMmE1MDY4ZTBjMzA5MGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.uVfR7qTYWcMn3C8HD7oASMVgRK8Eq0VsynO6mNSHZFI" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+  <video src="https://private-user-images.githubusercontent.com/11913365/651536648-7356ef45-dbf1-42df-b3e0-09c0648b3dcc.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzOTQ5ODgsIm5iZiI6MTc5MzM5NDY4OCwicGF0aCI6Ii8xMTkxMzM2NS82NTE1MzY2NDgtNzM1NmVmNDUtZGJmMS00MmRmLWIzZTAtMDljMDY0OGIzZGNjLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDIxMTEyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNjMGQ3ZDk5ZDgxNTQ0YTNhMmRhNWI4NzA4MDBkMWVmNmIyYTkyMzdlNGU5ZDZkMzM2Y2IzNjYyZWQyZGI0YmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.9G2y0sCrYDmNKtG2ZreOYY_BulK_mz7hFUTwgJ8L3ZM" data-canonical-src="https://private-user-images.githubusercontent.com/11913365/651536648-7356ef45-dbf1-42df-b3e0-09c0648b3dcc.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzOTQ5ODgsIm5iZiI6MTc5MzM5NDY4OCwicGF0aCI6Ii8xMTkxMzM2NS82NTE1MzY2NDgtNzM1NmVmNDUtZGJmMS00MmRmLWIzZTAtMDljMDY0OGIzZGNjLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDIxMTEyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNjMGQ3ZDk5ZDgxNTQ0YTNhMmRhNWI4NzA4MDBkMWVmNmIyYTkyMzdlNGU5ZDZkMzM2Y2IzNjYyZWQyZGI0YmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.9G2y0sCrYDmNKtG2ZreOYY_BulK_mz7hFUTwgJ8L3ZM" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
   </video>
 </details>
@@ -305,9 +305,9 @@
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzNzc1MDYsIm5iZiI6MTc5MzM3NzIwNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDE2MjAwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhZjNkNWE5ZGI4ZWFmZmQ5ZDUzZmY4ODJmNTE2MzI2MjliZWFkMTJhZmJlNTRiMjNiYTUxOWUzNjEyOWMzYjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.wrF0ggnluIUl78ku776vARLjdebT6zMb2cR8WsmH2-0"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzNzc1MDYsIm5iZiI6MTc5MzM3NzIwNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDE2MjAwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhZjNkNWE5ZGI4ZWFmZmQ5ZDUzZmY4ODJmNTE2MzI2MjliZWFkMTJhZmJlNTRiMjNiYTUxOWUzNjEyOWMzYjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.wrF0ggnluIUl78ku776vARLjdebT6zMb2cR8WsmH2-0" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzNzc1MDYsIm5iZiI6MTc5MzM3NzIwNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDE2MjAwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZjNWI5NmJmODhkNzdlZDU4YWU3YTdjODIxOWRlNzIzZGEzMDRjNGRiMWVkMmVmMzBkYTY2YmQxNTljMjJkN2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.uxDAnZ8euLpsc9kV8xeKTQl9DLrhiMGAWgE5aXUvkA0"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzNzc1MDYsIm5iZiI6MTc5MzM3NzIwNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDE2MjAwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZjNWI5NmJmODhkNzdlZDU4YWU3YTdjODIxOWRlNzIzZGEzMDRjNGRiMWVkMmVmMzBkYTY2YmQxNTljMjJkN2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.uxDAnZ8euLpsc9kV8xeKTQl9DLrhiMGAWgE5aXUvkA0" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzNzc1MDYsIm5iZiI6MTc5MzM3NzIwNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDE2MjAwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM0NzQxZjY5ZGNkY2M5MjliZmRjZjQwYzUxNDZhZWU0OTgxNjE4Mzg5YTBmYzIyY2M4NGM0OTI1NzQzYTM2YTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.3QvjbPmsZ9JaDfE0CyJgzjpL2dRy428d2bZIP_RnEJo"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzNzc1MDYsIm5iZiI6MTc5MzM3NzIwNiwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDE2MjAwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM0NzQxZjY5ZGNkY2M5MjliZmRjZjQwYzUxNDZhZWU0OTgxNjE4Mzg5YTBmYzIyY2M4NGM0OTI1NzQzYTM2YTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.3QvjbPmsZ9JaDfE0CyJgzjpL2dRy428d2bZIP_RnEJo" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzOTQ5ODgsIm5iZiI6MTc5MzM5NDY4OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDIxMTEyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI3N2RiM2YxNDRmZjRiNTdmMDQxMTFiMjdkMDM3ZTdlNmE0ODI5OTZmNDQ5N2Q0NWNhYjgyMzA3Y2MyZmQ0ZGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.IC59Jwc1Wa78r9P4kEIrUw1yJNXUiqS0u9G7PKAN2do"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzOTQ5ODgsIm5iZiI6MTc5MzM5NDY4OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDIxMTEyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI3N2RiM2YxNDRmZjRiNTdmMDQxMTFiMjdkMDM3ZTdlNmE0ODI5OTZmNDQ5N2Q0NWNhYjgyMzA3Y2MyZmQ0ZGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.IC59Jwc1Wa78r9P4kEIrUw1yJNXUiqS0u9G7PKAN2do" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzOTQ5ODgsIm5iZiI6MTc5MzM5NDY4OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDIxMTEyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRhMDQ1NGFhZDUxMWE3YTcwNTBmY2IwMTNiODE3NjdmMThmNjFiZWZmNWExOTkyZGFkNzRjNDIwZGY1OTllODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.jslCMDrrcKV63VlStbj8xbu61bieGsjNNn-tt0dNNP0"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzOTQ5ODgsIm5iZiI6MTc5MzM5NDY4OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDIxMTEyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRhMDQ1NGFhZDUxMWE3YTcwNTBmY2IwMTNiODE3NjdmMThmNjFiZWZmNWExOTkyZGFkNzRjNDIwZGY1OTllODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.jslCMDrrcKV63VlStbj8xbu61bieGsjNNn-tt0dNNP0" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzOTQ5ODgsIm5iZiI6MTc5MzM5NDY4OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDIxMTEyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwZjNlMTFlNWIxMWMwNjA0NDU2MjBkNGYzNjRkZDA2Nzc2YmM0Mjc1OGFmMDdmNGUwZjg2MTNjMWE3NmM5NGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.3Eej2IxVquX_UD_0ceyEfk2_JKdB8b511mQC4dTna7U"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMzOTQ5ODgsIm5iZiI6MTc5MzM5NDY4OCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDMwVDIxMTEyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwZjNlMTFlNWIxMWMwNjA0NDU2MjBkNGYzNjRkZDA2Nzc2YmM0Mjc1OGFmMDdmNGUwZjg2MTNjMWE3NmM5NGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.3Eej2IxVquX_UD_0ceyEfk2_JKdB8b511mQC4dTna7U" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -375,19 +375,6 @@
         <published>2026-04-13T13:05:22.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Testing on low-fi browsers]]></title>
-        <id>https://github.com/ArthurSmid/little-help-book/issues/9</id>
-        <link href="https://github.com/ArthurSmid/little-help-book/issues/9"/>
-        <updated>2021-01-28T19:00:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/20653086?u=deb8999733f5e3e029b4e4bbf01d43f399cf7539&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/" rel="nofollow">https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/</a></p>]]></content>
-        <author>
-            <name>ArthurSmid</name>
-            <email>ArthurSmid@noreply.github.com</email>
-            <uri>https://github.com/ArthurSmid</uri>
-        </author>
-        <published>2021-01-28T19:00:12.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[style rss feed]]></title>
         <id>https://github.com/RMHogervorst/blog/issues/103</id>
         <link href="https://github.com/RMHogervorst/blog/issues/103"/>
@@ -399,6 +386,19 @@
             <uri>https://github.com/RMHogervorst</uri>
         </author>
         <published>2025-06-24T13:34:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing on low-fi browsers]]></title>
+        <id>https://github.com/ArthurSmid/little-help-book/issues/9</id>
+        <link href="https://github.com/ArthurSmid/little-help-book/issues/9"/>
+        <updated>2021-01-28T19:00:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/20653086?u=deb8999733f5e3e029b4e4bbf01d43f399cf7539&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/" rel="nofollow">https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/</a></p>]]></content>
+        <author>
+            <name>ArthurSmid</name>
+            <email>ArthurSmid@noreply.github.com</email>
+            <uri>https://github.com/ArthurSmid</uri>
+        </author>
+        <published>2021-01-28T19:00:12.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Participate in polls]]></title>
@@ -639,6 +639,19 @@
         <published>2025-06-02T08:26:12.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Create a page with every external link on the website]]></title>
+        <id>https://github.com/AramZS/aramzs.xyz/issues/37</id>
+        <link href="https://github.com/AramZS/aramzs.xyz/issues/37"/>
+        <updated>2025-12-30T16:32:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/748069?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Inspired by something like <a href="https://shkspr.mobi/blog/link-rot/" rel="nofollow">https://shkspr.mobi/blog/link-rot/</a></p>]]></content>
+        <author>
+            <name>AramZS</name>
+            <email>AramZS@noreply.github.com</email>
+            <uri>https://github.com/AramZS</uri>
+        </author>
+        <published>2025-12-30T16:32:52.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Daily Hacker News 11/10/2026]]></title>
         <id>https://github.com/blka/daily-hackernews/issues/580</id>
         <link href="https://github.com/blka/daily-hackernews/issues/580"/>
@@ -774,19 +787,6 @@
         <published>2026-10-11T15:26:33.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create a page with every external link on the website]]></title>
-        <id>https://github.com/AramZS/aramzs.xyz/issues/37</id>
-        <link href="https://github.com/AramZS/aramzs.xyz/issues/37"/>
-        <updated>2025-12-30T16:32:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/748069?v=4" width="64" height="64" alt=""/><br/><p dir="auto">Inspired by something like <a href="https://shkspr.mobi/blog/link-rot/" rel="nofollow">https://shkspr.mobi/blog/link-rot/</a></p>]]></content>
-        <author>
-            <name>AramZS</name>
-            <email>AramZS@noreply.github.com</email>
-            <uri>https://github.com/AramZS</uri>
-        </author>
-        <published>2025-12-30T16:32:52.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Support experimental LOC record type]]></title>
         <id>https://github.com/hickory-dns/hickory-dns/issues/3165</id>
         <link href="https://github.com/hickory-dns/hickory-dns/issues/3165"/>
@@ -849,114 +849,16 @@ This blog post showcases a use of the LOC record which lead me to this problem:<
         <published>2025-07-29T02:49:17.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[📰 每日文章摘要 - 2026-10-13]]></title>
-        <id>https://github.com/dma9527/rss-digest/issues/239</id>
-        <link href="https://github.com/dma9527/rss-digest/issues/239"/>
-        <updated>2026-10-13T19:02:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/15368?v=4" width="64" height="64" alt=""/><br/><h2 dir="auto">📰 每日文章摘要</h2>
-<p dir="auto"><strong>日期</strong>: 2026-10-13 · 共 12 篇，1 篇高分 (≥7)</p>
-<h3 dir="auto">1. 苹果家庭视界 🔥</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 9/10</li>
-<li><strong>原标题</strong>: Apple HomeView</li>
-<li><strong>来源</strong>: daringfireball.net</li>
-<li><strong>链接</strong>: <a href="https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/" rel="nofollow">https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/</a></li>
-<li><strong>摘要</strong>: 苹果公司今日正式发布Apple HomeView，一款旨在成为家庭核心、并为每个成员提供个性化体验的智能设备。它配备一块精美的7英寸Liquid Retina显示屏，将娱乐、连接和智能家居管理功能整合于一体。用户可通过它播放音乐、进行FaceTime通话、远程监控家居，并通过语音实现免提自动化操作。所有设计均以保护用户隐私和安全为核心。</li>
-<li><strong>切入角度</strong>: 让你的家一秒变‘未来之家’，颜值与智慧并存！</li>
-</ul>
-<h3 dir="auto">2. Quoting Geoffrey Huntley</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: Quoting Geoffrey Huntley</li>
-<li><strong>来源</strong>: simonwillison.net</li>
-<li><strong>链接</strong>: <a href="https://simonwillison.net/2026/Oct/13/geoffrey-huntley/" rel="nofollow">https://simonwillison.net/2026/Oct/13/geoffrey-huntley/</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">3. The Last Answer</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: The Last Answer</li>
-<li><strong>来源</strong>: idiallo.com</li>
-<li><strong>链接</strong>: <a href="https://idiallo.com/blog/the-last-answer" rel="nofollow">https://idiallo.com/blog/the-last-answer</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">4. Pluralistic: Bundestrojaner (13 Oct 2026)</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: Pluralistic: Bundestrojaner (13 Oct 2026)</li>
-<li><strong>来源</strong>: pluralistic.net</li>
-<li><strong>链接</strong>: <a href="https://pluralistic.net/2026/10/13/petards-r-us/" rel="nofollow">https://pluralistic.net/2026/10/13/petards-r-us/</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">5. Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★</li>
-<li><strong>来源</strong>: shkspr.mobi</li>
-<li><strong>链接</strong>: <a href="https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/" rel="nofollow">https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">6. C++ futures part 2: The mental model for std::promise, std::packaged_task</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: C++ futures part 2: The mental model for std::promise, std::packaged_task</li>
-<li><strong>来源</strong>: devblogs.microsoft.com/oldnewthing</li>
-<li><strong>链接</strong>: <a href="https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/" rel="nofollow">https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">7. Harmonic triangle</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: Harmonic triangle</li>
-<li><strong>来源</strong>: johndcook.com</li>
-<li><strong>链接</strong>: <a href="https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/" rel="nofollow">https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">8. The geometric model of maintenance</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: The geometric model of maintenance</li>
-<li><strong>来源</strong>: entropicthoughts.com</li>
-<li><strong>链接</strong>: <a href="https://entropicthoughts.com/geometric-model-of-maintenance" rel="nofollow">https://entropicthoughts.com/geometric-model-of-maintenance</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">9. Annualized Enron Rate</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: Annualized Enron Rate</li>
-<li><strong>来源</strong>: wheresyoured.at</li>
-<li><strong>链接</strong>: <a href="https://www.wheresyoured.at/annualized-enron-rate/" rel="nofollow">https://www.wheresyoured.at/annualized-enron-rate/</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">10. What happened to Ashton-Tate and dBase</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: What happened to Ashton-Tate and dBase</li>
-<li><strong>来源</strong>: dfarq.homeip.net</li>
-<li><strong>链接</strong>: <a href="https://dfarq.homeip.net/what-happened-to-ashton-tate-and-dbase/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-happened-to-ashton-tate-and-dbase" rel="nofollow">https://dfarq.homeip.net/what-happened-to-ashton-tate-and-dbase/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-happened-to-ashton-tate-and-dbase</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">11. Subterranean Warfare – An Urgent DoW Need Without An Owner</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: Subterranean Warfare – An Urgent DoW Need Without An Owner</li>
-<li><strong>来源</strong>: steveblank.com</li>
-<li><strong>链接</strong>: <a href="https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/" rel="nofollow">https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>
-<h3 dir="auto">12. Weekly Update 525: AI Data Breach Hyperbole</h3>
-<ul dir="auto">
-<li><strong>评分</strong>: 0/10</li>
-<li><strong>原标题</strong>: Weekly Update 525: AI Data Breach Hyperbole</li>
-<li><strong>来源</strong>: troyhunt.com</li>
-<li><strong>链接</strong>: <a href="https://www.troyhunt.com/weekly-update-525/" rel="nofollow">https://www.troyhunt.com/weekly-update-525/</a></li>
-<li><strong>摘要</strong>: 处理失败</li>
-</ul>]]></content>
+        <title type="html"><![CDATA[Implement quote posts]]></title>
+        <id>https://github.com/sfomuseum/go-activitypub/issues/26</id>
+        <link href="https://github.com/sfomuseum/go-activitypub/issues/26"/>
+        <updated>2025-10-06T19:40:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12658759?u=43cf40a92021fffcceff7ac098fd7305faac4802&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2025/10/getting-started-with-mastodons-quote-posts-technical-implementation-details-for-servers/" rel="nofollow">https://shkspr.mobi/blog/2025/10/getting-started-with-mastodons-quote-posts-technical-implementation-details-for-servers/</a></p>]]></content>
         <author>
-            <name>github-actions</name>
-            <email>github-actions@noreply.github.com</email>
-            <uri>https://github.com/apps/github-actions</uri>
+            <name>thisisaaronland</name>
+            <email>thisisaaronland@noreply.github.com</email>
+            <uri>https://github.com/thisisaaronland</uri>
         </author>
-        <published>2026-10-13T19:02:30.000Z</published>
+        <published>2025-10-06T19:40:47.000Z</published>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://edent.github.io/github-search-rss/shkspr.rss</id>
     <title>Blog</title>
-    <updated>2026-11-19T19:13:23.566Z</updated>
+    <updated>2026-11-20T01:28:49.002Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://github.com/search?q=%22shkspr.mobi%22"/>
     <subtitle>Blog on GitHub</subtitle>
@@ -59,7 +59,7 @@ This was first reported as a vulnerability to WPScan but they considered it a re
         <updated>2026-09-01T02:58:08.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/837136?u=73b5c34325606e447be7074fd0deefc55a004c82&v=4" width="64" height="64" alt=""/><br/><p dir="auto">On v2.13.2 (189) from F-Droid - text in some <code class="notranslate">&lt;pre&gt;</code> elements runs together.</p>
 <p dir="auto">For example:</p>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/837136/643213825-d1c35e75-5d7d-4331-a4e9-a97adbeeed5d.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMTU5MDMsIm5iZiI6MTc5NTExNTYwMywicGF0aCI6Ii84MzcxMzYvNjQzMjEzODI1LWQxYzM1ZTc1LTVkN2QtNDMzMS1hNGU5LWE5N2FkYmVlZWQ1ZC53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTExOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjExMTlUMTkxMzIzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NTRkZWExOWJjN2M2ZjdhZWUzYTcyMzM1ZGEyNWIyM2I0ZDMyNWZkMWE3YWViMDAwMGVmZGRlMmU1ZDRlNmI3MSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.qDVio-M5ARVUY_qaR31fiErPTZlb-HV3CZPcQkk0wYE"><img width="504" height="659" alt="android text" src="https://private-user-images.githubusercontent.com/837136/643213825-d1c35e75-5d7d-4331-a4e9-a97adbeeed5d.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMTU5MDMsIm5iZiI6MTc5NTExNTYwMywicGF0aCI6Ii84MzcxMzYvNjQzMjEzODI1LWQxYzM1ZTc1LTVkN2QtNDMzMS1hNGU5LWE5N2FkYmVlZWQ1ZC53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTExOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjExMTlUMTkxMzIzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NTRkZWExOWJjN2M2ZjdhZWUzYTcyMzM1ZGEyNWIyM2I0ZDMyNWZkMWE3YWViMDAwMGVmZGRlMmU1ZDRlNmI3MSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.qDVio-M5ARVUY_qaR31fiErPTZlb-HV3CZPcQkk0wYE" style="max-width: 100%; height: auto; max-height: 659px;; aspect-ratio: 504 / 659; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/837136/643213825-d1c35e75-5d7d-4331-a4e9-a97adbeeed5d.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMzg0MjgsIm5iZiI6MTc5NTEzODEyOCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzODI1LWQxYzM1ZTc1LTVkN2QtNDMzMS1hNGU5LWE5N2FkYmVlZWQ1ZC53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTEyMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjExMjBUMDEyODQ4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Y2Q4NjBiNWYxMDNhNTEyZTk3NDM3ZGRmYzhmMWVjYTQ4OGY4YWQxMmJmMDY1ZTc0YmYyZDNhMDQ5OGMwYzJkMiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.vcG2SVKQBKq9kntkJQljKQGVlhlqc1Hb5N9kKS3S9OU"><img width="504" height="659" alt="android text" src="https://private-user-images.githubusercontent.com/837136/643213825-d1c35e75-5d7d-4331-a4e9-a97adbeeed5d.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMzg0MjgsIm5iZiI6MTc5NTEzODEyOCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzODI1LWQxYzM1ZTc1LTVkN2QtNDMzMS1hNGU5LWE5N2FkYmVlZWQ1ZC53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTEyMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjExMjBUMDEyODQ4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Y2Q4NjBiNWYxMDNhNTEyZTk3NDM3ZGRmYzhmMWVjYTQ4OGY4YWQxMmJmMDY1ZTc0YmYyZDNhMDQ5OGMwYzJkMiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.vcG2SVKQBKq9kntkJQljKQGVlhlqc1Hb5N9kKS3S9OU" style="max-width: 100%; height: auto; max-height: 659px;; aspect-ratio: 504 / 659; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
 <p dir="auto">It shows:</p>
 <blockquote>
 <p dir="auto"><code class="notranslate">&lt;pre itemscopeitemtype=https://schema.org/SoftwareSourceCodetranslate=no&gt;</code></p>
@@ -69,7 +69,7 @@ This was first reported as a vulnerability to WPScan but they considered it a re
 <p dir="auto"><code class="notranslate">&lt;pre itemscope itemtype=https://schema.org/SoftwareSourceCode translate=no&gt;</code></p>
 </blockquote>
 <p dir="auto">The website mastodon.social renders it correctly:</p>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/837136/643213955-2c934ee7-00f6-4188-a5ef-ac218e7f605f.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMTU5MDMsIm5iZiI6MTc5NTExNTYwMywicGF0aCI6Ii84MzcxMzYvNjQzMjEzOTU1LTJjOTM0ZWU3LTAwZjYtNDE4OC1hNWVmLWFjMjE4ZTdmNjA1Zi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTExOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjExMTlUMTkxMzIzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ODdhMTNmNWYwYmJkOGQ1ZGEyZTk1MDM2MTVjOTU0NDBlZjg2MTNlZjg1MzNjZjgyNjE0MmIwNTk2ZGM1NzE2MSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.fB34_NBIGx8Nka4Z0WJuI9iFHu5O-FGB62NCGqbdi_A"><img width="561" height="1006" alt="correct spacing" src="https://private-user-images.githubusercontent.com/837136/643213955-2c934ee7-00f6-4188-a5ef-ac218e7f605f.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMTU5MDMsIm5iZiI6MTc5NTExNTYwMywicGF0aCI6Ii84MzcxMzYvNjQzMjEzOTU1LTJjOTM0ZWU3LTAwZjYtNDE4OC1hNWVmLWFjMjE4ZTdmNjA1Zi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTExOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjExMTlUMTkxMzIzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ODdhMTNmNWYwYmJkOGQ1ZGEyZTk1MDM2MTVjOTU0NDBlZjg2MTNlZjg1MzNjZjgyNjE0MmIwNTk2ZGM1NzE2MSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.fB34_NBIGx8Nka4Z0WJuI9iFHu5O-FGB62NCGqbdi_A" style="max-width: 100%; height: auto; max-height: 1006px;; aspect-ratio: 561 / 1006; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/837136/643213955-2c934ee7-00f6-4188-a5ef-ac218e7f605f.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMzg0MjgsIm5iZiI6MTc5NTEzODEyOCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzOTU1LTJjOTM0ZWU3LTAwZjYtNDE4OC1hNWVmLWFjMjE4ZTdmNjA1Zi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTEyMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjExMjBUMDEyODQ4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NDFlMWNjYTRkOGY1MDFlYzRjZGRmOTM4MmVmM2IxYzg0MTgzYTgzZjE3Y2MzMGExZDI1M2NiYjVmOTNkMWFjNyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.CpnJR_xHlpo67UjpYQdtre9fjGfsH46_9SRoeFT8_Qw"><img width="561" height="1006" alt="correct spacing" src="https://private-user-images.githubusercontent.com/837136/643213955-2c934ee7-00f6-4188-a5ef-ac218e7f605f.webp?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMzg0MjgsIm5iZiI6MTc5NTEzODEyOCwicGF0aCI6Ii84MzcxMzYvNjQzMjEzOTU1LTJjOTM0ZWU3LTAwZjYtNDE4OC1hNWVmLWFjMjE4ZTdmNjA1Zi53ZWJwP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MTEyMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjExMjBUMDEyODQ4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NDFlMWNjYTRkOGY1MDFlYzRjZGRmOTM4MmVmM2IxYzg0MTgzYTgzZjE3Y2MzMGExZDI1M2NiYjVmOTNkMWFjNyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGd2VicCJ9.CpnJR_xHlpo67UjpYQdtre9fjGfsH46_9SRoeFT8_Qw" style="max-width: 100%; height: auto; max-height: 1006px;; aspect-ratio: 561 / 1006; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
 <p dir="auto">The HTML content sent via the WordPress ActivityPub plugin is:</p>
 <div class="highlight highlight-text-html-basic notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content=" &lt;p&gt;It takes some plaintext content. But how to get that content?  My code samples look like this:&lt;/p&gt;&lt;pre&gt;&lt;span class=\&quot;tempest-highlight-language\&quot;&gt;&lt;img src=\&quot;https://shkspr.mobi/blog/wp-content/plugins/tempest-highlight/svg/html.svg\&quot; width=\&quot;32\&quot; height=\&quot;32\&quot; alt=\&quot;\&quot;&gt;&lt;span&gt; HTML&lt;/span&gt;&lt;/span&gt;&lt;code&gt;&amp;lt;&lt;span&gt;pre&lt;/span&gt; itemscope &lt;span&gt;itemtype&lt;/span&gt;=https://schema.org/SoftwareSourceCode &lt;span&gt;translate&lt;/span&gt;=no&amp;gt;\n    &amp;lt;&lt;span&gt;button&lt;/span&gt; &lt;span&gt;onclick&lt;/span&gt;=\&quot;navigator.clipboard.writeText( this.parentNode.getElementsByTagName('code')[0].textContent );\&quot;&amp;gt;⧉&amp;lt;/&lt;span&gt;button&lt;/span&gt;&amp;gt;\n    &amp;lt;&lt;span&gt;span&lt;/span&gt;&amp;gt;\n        &amp;lt;&lt;span&gt;img&lt;/span&gt; alt &lt;span&gt;height&lt;/span&gt;=32 &lt;span&gt;src&lt;/span&gt;=html.svg &lt;span&gt;width&lt;/span&gt;=32&amp;gt;\n        &amp;lt;&lt;span&gt;span&lt;/span&gt; &lt;span&gt;itemprop&lt;/span&gt;=programmingLanguage&amp;gt; HTML&amp;lt;/&lt;span&gt;span&lt;/span&gt;&amp;gt;\n    &amp;lt;/&lt;span&gt;span&lt;/span&gt;&amp;gt;\n    &amp;lt;&lt;span&gt;code&lt;/span&gt; &lt;span&gt;itemprop&lt;/span&gt;=text&amp;gt;[…]&amp;lt;/&lt;span&gt;code&lt;/span&gt;&amp;gt;\n&amp;lt;/&lt;span&gt;pre&lt;/span&gt;&amp;gt;\n&lt;/code&gt;&lt;/pre&gt;"><pre class="notranslate"> <span class="pl-kos">&lt;</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span>It takes some plaintext content. But how to get that content?  My code samples look like this:<span class="pl-kos">&lt;/</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">pre</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">span</span> <span class="pl-c1">class</span>=<span class="pl-s">\</span>"tempest-highlight-language\"<span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">img</span> <span class="pl-c1">src</span>=<span class="pl-s">\</span>"https://shkspr.mobi/blog/wp-content/plugins/tempest-highlight/svg/html.svg\" width=\"32\" height=\"32\" alt=\"\"<span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> HTML<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;</span><span class="pl-ent">code</span><span class="pl-kos">&gt;</span>&amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>pre<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> itemscope <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>itemtype<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=https://schema.org/SoftwareSourceCode <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>translate<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=no&amp;gt;\n    &amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>button<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>onclick<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=\"navigator.clipboard.writeText( this.parentNode.getElementsByTagName('code')[0].textContent );\"&amp;gt;⧉&amp;lt;/<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>button<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n    &amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>span<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n        &amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>img<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> alt <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>height<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=32 <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>src<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=html.svg <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>width<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=32&amp;gt;\n        &amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>span<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>itemprop<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=programmingLanguage&amp;gt; HTML&amp;lt;/<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>span<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n    &amp;lt;/<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>span<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n    &amp;lt;<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>code<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span> <span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>itemprop<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>=text&amp;gt;[…]&amp;lt;/<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>code<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n&amp;lt;/<span class="pl-kos">&lt;</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>pre<span class="pl-kos">&lt;/</span><span class="pl-ent">span</span><span class="pl-kos">&gt;</span>&amp;gt;\n<span class="pl-kos">&lt;/</span><span class="pl-ent">code</span><span class="pl-kos">&gt;</span><span class="pl-kos">&lt;/</span><span class="pl-ent">pre</span><span class="pl-kos">&gt;</span></pre></div>
 <p dir="auto">Original post: <code class="notranslate">https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/</code></p>
@@ -128,7 +128,7 @@ This was first reported as a vulnerability to WPScan but they considered it a re
     <span class="dropdown-caret"></span>
   </summary>
 
-  <video src="https://private-user-images.githubusercontent.com/11913365/651536648-7356ef45-dbf1-42df-b3e0-09c0648b3dcc.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMTU5MDMsIm5iZiI6MTc5NTExNTYwMywicGF0aCI6Ii8xMTkxMzM2NS82NTE1MzY2NDgtNzM1NmVmNDUtZGJmMS00MmRmLWIzZTAtMDljMDY0OGIzZGNjLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTE5VDE5MTMyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkZWFjODg3NzViYWE0MGQ4NDg3OTg5YzdjZDAzZjI1OGUxMjEwZDRlZjVkYzNkNzM2NDNkNTI3NmFhZDI5YjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.bRvob4YGDRPz0kpdhlFxHGmBTl-7-1vBgD24ZRfKJRs" data-canonical-src="https://private-user-images.githubusercontent.com/11913365/651536648-7356ef45-dbf1-42df-b3e0-09c0648b3dcc.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMTU5MDMsIm5iZiI6MTc5NTExNTYwMywicGF0aCI6Ii8xMTkxMzM2NS82NTE1MzY2NDgtNzM1NmVmNDUtZGJmMS00MmRmLWIzZTAtMDljMDY0OGIzZGNjLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTE5VDE5MTMyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkZWFjODg3NzViYWE0MGQ4NDg3OTg5YzdjZDAzZjI1OGUxMjEwZDRlZjVkYzNkNzM2NDNkNTI3NmFhZDI5YjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.bRvob4YGDRPz0kpdhlFxHGmBTl-7-1vBgD24ZRfKJRs" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+  <video src="https://private-user-images.githubusercontent.com/11913365/651536648-7356ef45-dbf1-42df-b3e0-09c0648b3dcc.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMzg0MjgsIm5iZiI6MTc5NTEzODEyOCwicGF0aCI6Ii8xMTkxMzM2NS82NTE1MzY2NDgtNzM1NmVmNDUtZGJmMS00MmRmLWIzZTAtMDljMDY0OGIzZGNjLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTIwVDAxMjg0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJkMzBiMzA0MWFmZDYxMDYyMTAyYTA2MGVhZmQ1OWQxOTdjOGQ5NDA4NzU2M2IyMWM5ZmEwZDllZDM4MzcyOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.jZxqLKEku4u3Cyy9a6A4FVZudnCM-aA-bYlIT7ak14E" data-canonical-src="https://private-user-images.githubusercontent.com/11913365/651536648-7356ef45-dbf1-42df-b3e0-09c0648b3dcc.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMzg0MjgsIm5iZiI6MTc5NTEzODEyOCwicGF0aCI6Ii8xMTkxMzM2NS82NTE1MzY2NDgtNzM1NmVmNDUtZGJmMS00MmRmLWIzZTAtMDljMDY0OGIzZGNjLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTIwVDAxMjg0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJkMzBiMzA0MWFmZDYxMDYyMTAyYTA2MGVhZmQ1OWQxOTdjOGQ5NDA4NzU2M2IyMWM5ZmEwZDllZDM4MzcyOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT12aWRlbyUyRm1wNCJ9.jZxqLKEku4u3Cyy9a6A4FVZudnCM-aA-bYlIT7ak14E" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
   </video>
 </details>
@@ -149,9 +149,9 @@ This was first reported as a vulnerability to WPScan but they considered it a re
         <id>https://github.com/tpolecat/tpolecat.github.io/pull/10</id>
         <link href="https://github.com/tpolecat/tpolecat.github.io/pull/10"/>
         <updated>2025-03-15T12:31:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMTU5MDMsIm5iZiI6MTc5NTExNTYwMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTE5VDE5MTMyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4NTQ5NmJlNjMxMWIzOWZhMzE3MWRkNzUyMjA3ZjUyNTUxMjFjMTI1MjA4Y2U4NjYzMGJkYTMxZWY1YTc5NjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.SxzfZwJZW14i87pD2r6mUF_IrT6b0WKrQmJNoShJi94"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMTU5MDMsIm5iZiI6MTc5NTExNTYwMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTE5VDE5MTMyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4NTQ5NmJlNjMxMWIzOWZhMzE3MWRkNzUyMjA3ZjUyNTUxMjFjMTI1MjA4Y2U4NjYzMGJkYTMxZWY1YTc5NjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.SxzfZwJZW14i87pD2r6mUF_IrT6b0WKrQmJNoShJi94" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMTU5MDMsIm5iZiI6MTc5NTExNTYwMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTE5VDE5MTMyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlNmVhZDE0YTNjMzU4YzBlOTYyNTE1MGMxM2RkZGJmYWY0Y2IwMjg4MzY5MmRjYmZkNzMyNDU0MmFkODRlNTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.40HRLVgEkRxMznmm8XpRJEB4nH2pf7XTS-qImJiDF8I"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMTU5MDMsIm5iZiI6MTc5NTExNTYwMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTE5VDE5MTMyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlNmVhZDE0YTNjMzU4YzBlOTYyNTE1MGMxM2RkZGJmYWY0Y2IwMjg4MzY5MmRjYmZkNzMyNDU0MmFkODRlNTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.40HRLVgEkRxMznmm8XpRJEB4nH2pf7XTS-qImJiDF8I" alt="image" style="max-width: 100%;"></a><br>
-<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMTU5MDMsIm5iZiI6MTc5NTExNTYwMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTE5VDE5MTMyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwNWNiZjEzOGVkZGU4OTUwZWI5NzEyY2ViYjQ2NDFlYmU5NGRmZmFkN2NkOGUyYjdiNWY3ZWNkNTM4ZWRkMGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.z5uNFkEIofBLmoFfEVvV_m06OrOyTmF7PxI-iVCNPpM"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMTU5MDMsIm5iZiI6MTc5NTExNTYwMywicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTE5VDE5MTMyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwNWNiZjEzOGVkZGU4OTUwZWI5NzEyY2ViYjQ2NDFlYmU5NGRmZmFkN2NkOGUyYjdiNWY3ZWNkNTM4ZWRkMGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.z5uNFkEIofBLmoFfEVvV_m06OrOyTmF7PxI-iVCNPpM" alt="image" style="max-width: 100%;"></a></p>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54838975?u=072d3c7faa423d3b5caed84359d35fa29574412b&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMzg0MjgsIm5iZiI6MTc5NTEzODEyOCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTIwVDAxMjg0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyYWUxNTlkNjkwNTY4YTdhNGIyZGI1NWM5MDhjZmQzZTU5NTgwNWEwMzM2ZTE1NzQ0YjA0MzFmMjZiNDUxMDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.pRZ6wMkEGVtiwLfuNk6t3k59yWUpZGV-XKV_fagR-Sc"><img src="https://private-user-images.githubusercontent.com/54838975/423096225-8620a34f-e076-4967-8572-e8b033748c5c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMzg0MjgsIm5iZiI6MTc5NTEzODEyOCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyMjUtODYyMGEzNGYtZTA3Ni00OTY3LTg1NzItZThiMDMzNzQ4YzVjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTIwVDAxMjg0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyYWUxNTlkNjkwNTY4YTdhNGIyZGI1NWM5MDhjZmQzZTU5NTgwNWEwMzM2ZTE1NzQ0YjA0MzFmMjZiNDUxMDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.pRZ6wMkEGVtiwLfuNk6t3k59yWUpZGV-XKV_fagR-Sc" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMzg0MjgsIm5iZiI6MTc5NTEzODEyOCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTIwVDAxMjg0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5NmIzMjI4MGE0MDM0ZWY3N2IyOGYzOTQzMjNiYmE0ZjNjMjg5N2VjOGQ0MWUyYjcxMjk4ZjU4ODcxZjVmMTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.Gz1VFJW66thzUPHmIuYvjYdHs5uBvxnPoVaqmkSnHv4"><img src="https://private-user-images.githubusercontent.com/54838975/423096282-10e3a68d-bc25-48aa-ad6f-d33cd033316f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMzg0MjgsIm5iZiI6MTc5NTEzODEyOCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTYyODItMTBlM2E2OGQtYmMyNS00OGFhLWFkNmYtZDMzY2QwMzMzMTZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTIwVDAxMjg0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5NmIzMjI4MGE0MDM0ZWY3N2IyOGYzOTQzMjNiYmE0ZjNjMjg5N2VjOGQ0MWUyYjcxMjk4ZjU4ODcxZjVmMTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.Gz1VFJW66thzUPHmIuYvjYdHs5uBvxnPoVaqmkSnHv4" alt="image" style="max-width: 100%;"></a><br>
+<a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMzg0MjgsIm5iZiI6MTc5NTEzODEyOCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTIwVDAxMjg0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwZWIyMzQ1MTJlMmNkOWI3MWExYzFjYzYwZWRmZjYxMmU5NWIzNzdhNjJkNTY4N2NkNDg5ODVhNTcwOGQwNTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.uo3QP3jTFMlMCvs3nk9vVDOVUX5E5vDok9S0VFLvWoU"><img src="https://private-user-images.githubusercontent.com/54838975/423096417-0f6b2be9-b722-485e-b8a0-217fe770f3f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUxMzg0MjgsIm5iZiI6MTc5NTEzODEyOCwicGF0aCI6Ii81NDgzODk3NS80MjMwOTY0MTctMGY2YjJiZTktYjcyMi00ODVlLWI4YTAtMjE3ZmU3NzBmM2YzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTIwVDAxMjg0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwZWIyMzQ1MTJlMmNkOWI3MWExYzFjYzYwZWRmZjYxMmU5NWIzNzdhNjJkNTY4N2NkNDg5ODVhNTcwOGQwNTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.uo3QP3jTFMlMCvs3nk9vVDOVUX5E5vDok9S0VFLvWoU" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto">using <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" rel="nofollow"><code class="notranslate">&lt;time&gt;</code></a> tag helps with accessibility, e.g screen reader.</p>
 <p dir="auto">see: <a href="https://shkspr.mobi/blog/2020/12/making-time-more-accessible/" rel="nofollow">https://shkspr.mobi/blog/2020/12/making-time-more-accessible/</a></p>]]></content>
         <author>
@@ -345,6 +345,108 @@ This was first reported as a vulnerability to WPScan but they considered it a re
         <published>2026-08-14T13:11:12.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[📰 每日文章摘要 - 2026-11-19]]></title>
+        <id>https://github.com/dma9527/rss-digest/issues/275</id>
+        <link href="https://github.com/dma9527/rss-digest/issues/275"/>
+        <updated>2026-11-19T20:06:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/in/15368?v=4" width="64" height="64" alt=""/><br/><h2 dir="auto">📰 每日文章摘要</h2>
+<p dir="auto"><strong>日期</strong>: 2026-11-19 · 共 11 篇，0 篇高分 (≥7)</p>
+<h3 dir="auto">1. llm-gemini 0.38</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 3/10</li>
+<li><strong>原标题</strong>: llm-gemini 0.38</li>
+<li><strong>来源</strong>: simonwillison.net</li>
+<li><strong>链接</strong>: <a href="https://simonwillison.net/2026/Nov/18/llm-gemini/" rel="nofollow">https://simonwillison.net/2026/Nov/18/llm-gemini/</a></li>
+<li><strong>摘要</strong>: 本文宣布了llm-gemini 0.38版本的发布。同时，作者指出谷歌最新发布的Gemini 4 Neon模型，让其定价策略变得更加复杂。此前，Gemini 4系列的定价就已经备受争议，而Neon的推出似乎进一步加剧了这种混乱，使得用户更难理解和选择。</li>
+</ul>
+<h3 dir="auto">2. 我最讨厌的软件工程案例</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 2/10</li>
+<li><strong>原标题</strong>: My Least Favorite Example in Software Engineering</li>
+<li><strong>来源</strong>: buttondown.com/hillelwayne</li>
+<li><strong>链接</strong>: <a href="https://buttondown.com/hillelwayne/archive/my-least-favorite-example-in-software-engineering/" rel="nofollow">https://buttondown.com/hillelwayne/archive/my-least-favorite-example-in-software-engineering/</a></li>
+<li><strong>摘要</strong>: 作者宣布他将于11月30日在Brooklyn Web Workers进行一场闪电演讲。如果读者在附近，可以到场支持；如果不能，则可以阅读他的时事通讯。作者表达了他对使用案例（尤其是具有说服力的案例）的浓厚兴趣。这次演讲的主题是他在软件工程中一个“最不喜欢的例子”，旨在通过这个具体案例来深入探讨软件工程中的某个问题或概念，分享其独到观点。</li>
+</ul>
+<h3 dir="auto">3. Anthropic IPOs, Topping SpaceX for the Largest Ever</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Anthropic IPOs, Topping SpaceX for the Largest Ever</li>
+<li><strong>来源</strong>: daringfireball.net</li>
+<li><strong>链接</strong>: <a href="https://www.techmeme.com/261118/p34#a261118p34" rel="nofollow">https://www.techmeme.com/261118/p34#a261118p34</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">4. ★ The 50-Yard Line</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: ★ The 50-Yard Line</li>
+<li><strong>来源</strong>: daringfireball.net</li>
+<li><strong>链接</strong>: <a href="https://daringfireball.net/2026/11/the_50-yard_line" rel="nofollow">https://daringfireball.net/2026/11/the_50-yard_line</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">5. SO Is Back! No, Not Stack Overflow, but Its Spirit</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: SO Is Back! No, Not Stack Overflow, but Its Spirit</li>
+<li><strong>来源</strong>: idiallo.com</li>
+<li><strong>链接</strong>: <a href="https://idiallo.com/byte-size/stackoverflow-is-back-in-spirit" rel="nofollow">https://idiallo.com/byte-size/stackoverflow-is-back-in-spirit</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">6. Pluralistic: How to forfeit one of copyright's best labor policies (19 Nov 2026)</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Pluralistic: How to forfeit one of copyright's best labor policies (19 Nov 2026)</li>
+<li><strong>来源</strong>: pluralistic.net</li>
+<li><strong>链接</strong>: <a href="https://pluralistic.net/2026/11/19/loan-out-companies/" rel="nofollow">https://pluralistic.net/2026/11/19/loan-out-companies/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">7. Theatre Review: FORT – a new opera ★★★☆☆</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Theatre Review: FORT – a new opera ★★★☆☆</li>
+<li><strong>来源</strong>: shkspr.mobi</li>
+<li><strong>链接</strong>: <a href="https://shkspr.mobi/blog/2026/11/theatre-review-fort-a-new-opera/" rel="nofollow">https://shkspr.mobi/blog/2026/11/theatre-review-fort-a-new-opera/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">8. Supersequences and Superpermutations</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Supersequences and Superpermutations</li>
+<li><strong>来源</strong>: johndcook.com</li>
+<li><strong>链接</strong>: <a href="https://www.johndcook.com/blog/2026/11/18/supersequences/" rel="nofollow">https://www.johndcook.com/blog/2026/11/18/supersequences/</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">9. Unburden yourself of the backlog</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Unburden yourself of the backlog</li>
+<li><strong>来源</strong>: entropicthoughts.com</li>
+<li><strong>链接</strong>: <a href="https://entropicthoughts.com/unburden-yourself-of-the-backlog" rel="nofollow">https://entropicthoughts.com/unburden-yourself-of-the-backlog</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">10. Tandy 1000 models</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Tandy 1000 models</li>
+<li><strong>来源</strong>: dfarq.homeip.net</li>
+<li><strong>链接</strong>: <a href="https://dfarq.homeip.net/tandy-1000-models/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tandy-1000-models" rel="nofollow">https://dfarq.homeip.net/tandy-1000-models/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tandy-1000-models</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>
+<h3 dir="auto">11. Inside PyPy: first contact with RPython</h3>
+<ul dir="auto">
+<li><strong>评分</strong>: 0/10</li>
+<li><strong>原标题</strong>: Inside PyPy: first contact with RPython</li>
+<li><strong>来源</strong>: bernsteinbear.com</li>
+<li><strong>链接</strong>: <a href="https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/?utm_source=rss" rel="nofollow">https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/?utm_source=rss</a></li>
+<li><strong>摘要</strong>: 处理失败</li>
+</ul>]]></content>
+        <author>
+            <name>github-actions</name>
+            <email>github-actions@noreply.github.com</email>
+            <uri>https://github.com/apps/github-actions</uri>
+        </author>
+        <published>2026-11-19T20:06:21.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Decide how to work around Android (and iOS) not sharing location data when sharing photos in browsers]]></title>
         <id>https://github.com/observ-ing/core/issues/273</id>
         <link href="https://github.com/observ-ing/core/issues/273"/>
@@ -461,6 +563,19 @@ This was first reported as a vulnerability to WPScan but they considered it a re
         <published>2026-10-11T13:50:06.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Remove 3rd party resources (e.g. fonts, JS)]]></title>
+        <id>https://github.com/JuliaActuary/JuliaActuary.org/issues/7</id>
+        <link href="https://github.com/JuliaActuary/JuliaActuary.org/issues/7"/>
+        <updated>2021-10-03T19:31:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/711879?u=5e7f92ccc07727dcbe7cf785daafa9c473e0e716&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/" rel="nofollow">https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/</a></p>]]></content>
+        <author>
+            <name>alecloudenback</name>
+            <email>alecloudenback@noreply.github.com</email>
+            <uri>https://github.com/alecloudenback</uri>
+        </author>
+        <published>2020-10-20T11:40:34.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Social Login Auth]]></title>
         <id>https://github.com/Studio-Link/mix/issues/71</id>
         <link href="https://github.com/Studio-Link/mix/issues/71"/>
@@ -479,17 +594,17 @@ This was first reported as a vulnerability to WPScan but they considered it a re
         <published>2025-06-02T08:26:12.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remove 3rd party resources (e.g. fonts, JS)]]></title>
-        <id>https://github.com/JuliaActuary/JuliaActuary.org/issues/7</id>
-        <link href="https://github.com/JuliaActuary/JuliaActuary.org/issues/7"/>
-        <updated>2021-10-03T19:31:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/711879?u=5e7f92ccc07727dcbe7cf785daafa9c473e0e716&v=4" width="64" height="64" alt=""/><br/><p dir="auto"><a href="https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/" rel="nofollow">https://shkspr.mobi/blog/2020/10/please-stop-using-cdns-for-external-javascript-libraries/</a></p>]]></content>
+        <title type="html"><![CDATA[Research Untappd API for getting beers]]></title>
+        <id>https://github.com/jonnybarnes/jonnybarnes.uk/issues/91</id>
+        <link href="https://github.com/jonnybarnes/jonnybarnes.uk/issues/91"/>
+        <updated>2018-11-04T17:36:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108303?u=409091c885b29d5af4f4d8b81455f5825bae29ec&v=4" width="64" height="64" alt=""/><br/><p dir="auto">See Terence’s blog post: <a href="https://shkspr.mobi/blog/2018/11/extracting-your-data-from-untappd/" rel="nofollow">https://shkspr.mobi/blog/2018/11/extracting-your-data-from-untappd/</a></p>]]></content>
         <author>
-            <name>alecloudenback</name>
-            <email>alecloudenback@noreply.github.com</email>
-            <uri>https://github.com/alecloudenback</uri>
+            <name>jonnybarnes</name>
+            <email>jonnybarnes@noreply.github.com</email>
+            <uri>https://github.com/jonnybarnes</uri>
         </author>
-        <published>2020-10-20T11:40:34.000Z</published>
+        <published>2018-11-04T14:51:38.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Implement quote posts]]></title>
@@ -503,19 +618,6 @@ This was first reported as a vulnerability to WPScan but they considered it a re
             <uri>https://github.com/thisisaaronland</uri>
         </author>
         <published>2025-10-06T19:40:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Research Untappd API for getting beers]]></title>
-        <id>https://github.com/jonnybarnes/jonnybarnes.uk/issues/91</id>
-        <link href="https://github.com/jonnybarnes/jonnybarnes.uk/issues/91"/>
-        <updated>2018-11-04T17:36:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/108303?u=409091c885b29d5af4f4d8b81455f5825bae29ec&v=4" width="64" height="64" alt=""/><br/><p dir="auto">See Terence’s blog post: <a href="https://shkspr.mobi/blog/2018/11/extracting-your-data-from-untappd/" rel="nofollow">https://shkspr.mobi/blog/2018/11/extracting-your-data-from-untappd/</a></p>]]></content>
-        <author>
-            <name>jonnybarnes</name>
-            <email>jonnybarnes@noreply.github.com</email>
-            <uri>https://github.com/jonnybarnes</uri>
-        </author>
-        <published>2018-11-04T14:51:38.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Create a page with every external link on the website]]></title>
@@ -543,41 +645,5 @@ This was first reported as a vulnerability to WPScan but they considered it a re
             <uri>https://github.com/edent</uri>
         </author>
         <published>2016-12-04T18:50:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A User's Struggle: Cloudflare's GDPR Compliance Questioned After Repeated Unwanted Emails / CloudflareのGDPR遵守に疑問符：アカウント削除後も続く迷惑メール、あるユーザーの闘いの記録]]></title>
-        <id>https://github.com/xhiroga/news/issues/411</id>
-        <link href="https://github.com/xhiroga/news/issues/411"/>
-        <updated>2025-06-23T15:16:04.000Z</updated>
-        <content type="html"><![CDATA[<markdown-accessiblity-table><table role="table">
-<thead>
-<tr>
-<th></th>
-<th>URL</th>
-<th>Author</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>News</td>
-<td><a href="https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/" rel="nofollow">https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/</a></td>
-<td>shkspr.mobi</td>
-</tr>
-<tr>
-<td>Original</td>
-<td><a href="https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/" rel="nofollow">https://shkspr.mobi/blog/2020/09/dont-trust-cloudflare-with-your-personal-data/</a></td>
-<td>Terence Eden</td>
-</tr>
-</tbody>
-</table></markdown-accessiblity-table>
-<hr>
-<p dir="auto">The author details their frustrating experience with Cloudflare, who continued to send marketing and service emails for over a year after the author cancelled their account and requested data deletion. Despite repeated requests and escalations to the CTO, the issue was not resolved, raising serious concerns about Cloudflare's respect for GDPR and their data management practices. The author concludes that Cloudflare cannot be trusted with personal data.</p>
-<hr>
-<p dir="auto">筆者は、Cloudflareアカウントをキャンセルしデータ削除を要求した後も、1年以上にわたってマーケティングやサービスに関するメールが送られてき続けたという苛立たしい経験を詳述している。度重なる要求やCTOへのエスカレーションにもかかわらず問題は解決されず、CloudflareのGDPR遵守やデータ管理体制に深刻な懸念を投げかけている。筆者は、Cloudflareは個人データを預けるに値しないと結論づけている。</p>]]></content>
-        <author>
-            <name/>
-            <email>undefined@noreply.github.com</email>
-        </author>
-        <published>2025-06-23T15:16:04.000Z</published>
     </entry>
 </feed>
